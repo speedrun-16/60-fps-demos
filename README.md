@@ -6,10 +6,11 @@ This repository is a structured archive for personal best demos achieved in the 
 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
+| [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 1 | 2025-09-14 |
 
 ---
 
 ### Statistics
-- Total Maps: **1**
-- Total Demos: **1**
+- Total Maps: **2**
+- Total Demos: **2**
