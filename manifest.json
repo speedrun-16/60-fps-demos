@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "a00a2ffd13d284a2ed7672bdc073e74a112f50437c479a83b2f85c195e5bb2e5",
+    "uid": "43L1NDL3Z",
+    "map": "speedrun_jeans_short",
+    "category": 0,
+    "time": 12588,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-09-15T10:45:18.000Z",
+    "zipFilename": "00012588_STEAM_0_1_796767048_20250915-104518.zip",
+    "path": "speedrun_jeans_short/00012588_STEAM_0_1_796767048_20250915-104518.zip",
+    "archivedAt": "2025-09-16T03:00:12.987Z"
+  },
+  {
+    "demFileHash": "ef636b58e0a7bd496e1ca2039e99f7623f3c3459a2041923953bc8f76d886abd",
+    "uid": "VYCGW3G47",
+    "map": "speedrun_jeans_short",
+    "category": 0,
+    "time": 12584,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-15T11:04:15.000Z",
+    "zipFilename": "00012584_STEAM_0_1_771348382_20250915-110415.zip",
+    "path": "speedrun_jeans_short/00012584_STEAM_0_1_771348382_20250915-110415.zip",
+    "archivedAt": "2025-09-16T03:00:12.987Z"
+  },
+  {
+    "demFileHash": "3411837e932a051acd66d06d3d52b451f265c021e924da1d34997210621d436d",
+    "uid": "6JJYQJSIE",
+    "map": "speedrun_jeans_short",
+    "category": 0,
+    "time": 12646,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-09-15T11:26:56.000Z",
+    "zipFilename": "00012646_STEAM_0_1_926467834_20250915-112656.zip",
+    "path": "speedrun_jeans_short/00012646_STEAM_0_1_926467834_20250915-112656.zip",
+    "archivedAt": "2025-09-16T03:00:12.987Z"
+  },
+  {
+    "demFileHash": "33f23fcbedaa1ea1e7062d02aeb4709e30dbf11b2b3a12b5aec6ff802179b9ed",
+    "uid": "NOWEE6PAT",
+    "map": "speedrun_herb",
+    "category": 0,
+    "time": 32822,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-15T08:50:45.000Z",
+    "zipFilename": "00032822_STEAM_0_1_771348382_20250915-085045.zip",
+    "path": "speedrun_herb/00032822_STEAM_0_1_771348382_20250915-085045.zip",
+    "archivedAt": "2025-09-16T03:00:12.987Z"
+  },
+  {
     "demFileHash": "04d9dd83bb2c79ec36d464aeeef34d211eb14f7d23819c31813f4f98e7ff9c6b",
     "uid": "UO0BTJN8I",
     "map": "speedrun_amel",
