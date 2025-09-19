@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "518191f18e79c17afa2aa998c21113e41c6a4536cb51afffd16999c528866477",
+    "uid": "LPZINOA04",
+    "map": "speedrun_yagrehsart_fix",
+    "category": 0,
+    "time": 15910,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-09-19T16:07:25.000Z",
+    "zipFilename": "00015910_STEAM_0_1_771348382_20250919-160725.zip",
+    "path": "speedrun_yagrehsart_fix/00015910_STEAM_0_1_771348382_20250919-160725.zip",
+    "archivedAt": "2025-09-19T18:00:03.088Z"
+  },
+  {
     "demFileHash": "3e839be1b018ad04b0abc08a126deb6e05ad7e4b04416bf1944772cd010ccc32",
     "uid": "3AC5FEJSP",
     "map": "speedrun_simplecity",

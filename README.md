@@ -16,9 +16,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several](./speedrun_several) | 2 | 2025-09-19 |
 | [speedrun_simplecity](./speedrun_simplecity) | 1 | 2025-09-19 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 2 | 2025-09-17 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 1 | 2025-09-19 |
 
 ---
 
 ### Statistics
-- Total Maps: **10**
-- Total Demos: **17**
+- Total Maps: **11**
+- Total Demos: **18**
