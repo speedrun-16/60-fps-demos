@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "54dfd3c2f24771c02e13e82b59905e3cddaa8a152af47ed16460697f81966b1b",
+    "uid": "DGWWWVBSG",
+    "map": "speedrun_yagrehsart_fix",
+    "category": 0,
+    "time": 16042,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-09-20T20:40:47.000Z",
+    "zipFilename": "00016042_STEAM_0_1_926467834_20250920-204047.zip",
+    "path": "speedrun_yagrehsart_fix/00016042_STEAM_0_1_926467834_20250920-204047.zip",
+    "archivedAt": "2025-09-20T21:00:03.251Z"
+  },
+  {
     "demFileHash": "bf142961eae1c64087b1b734530ca6b4174364a3df96c30d1bedccbd680fd149",
     "uid": "KCY630LED",
     "map": "speedrun_Domination",
