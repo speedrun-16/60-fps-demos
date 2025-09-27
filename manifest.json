@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "02f90307e0884c982cfcd69689013f4477fe17892707f22177a7fc6a830316cd",
+    "uid": "9FP56UXF5",
+    "map": "cs_militia",
+    "category": 0,
+    "time": 11032,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-09-27T15:24:01.000Z",
+    "zipFilename": "00011032_STEAM_0_1_84733295_20250927-152401.zip",
+    "path": "cs_militia/00011032_STEAM_0_1_84733295_20250927-152401.zip",
+    "archivedAt": "2025-09-27T18:00:04.424Z"
+  },
+  {
+    "demFileHash": "99b3b3d7886c01134977647991deae8eb540052ec780847416f006dfbdecf45e",
+    "uid": "GPNNCBG17",
+    "map": "cs_militia",
+    "category": 0,
+    "time": 10888,
+    "playerSteamId": "STEAM_0:1:169847134",
+    "timestamp": "2025-09-27T15:00:44.000Z",
+    "zipFilename": "00010888_STEAM_0_1_169847134_20250927-150044.zip",
+    "path": "cs_militia/00010888_STEAM_0_1_169847134_20250927-150044.zip",
+    "archivedAt": "2025-09-27T18:00:04.424Z"
+  },
+  {
     "demFileHash": "0d588fed14a5dfb2e7a4da3ed1293d225dad753363100f3e3af60a341d99e512",
     "uid": "2WRY611X5",
     "map": "deathrun_chemical",
