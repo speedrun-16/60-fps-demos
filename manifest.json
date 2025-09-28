@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "e98d80b65b6d7a56b38b89871221202308eaddecfb1718cc50ca18a8e7a94674",
+    "uid": "BMCT07VOO",
+    "map": "speedrun_w00dfun",
+    "category": 0,
+    "time": 15056,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-09-28T10:46:48.000Z",
+    "zipFilename": "00015056_STEAM_0_0_24751394_20250928-104648.zip",
+    "path": "speedrun_w00dfun/00015056_STEAM_0_0_24751394_20250928-104648.zip",
+    "archivedAt": "2025-09-28T12:00:04.861Z"
+  },
+  {
+    "demFileHash": "996ffdd821f6fb8d34fa10d7778cfc810c06613f00ee319d3c3f8bece31be4a7",
+    "uid": "XFQRAF5DY",
+    "map": "speedrun_w00dfun",
+    "category": 0,
+    "time": 16232,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-09-28T10:40:35.000Z",
+    "zipFilename": "00016232_STEAM_0_1_84733295_20250928-104035.zip",
+    "path": "speedrun_w00dfun/00016232_STEAM_0_1_84733295_20250928-104035.zip",
+    "archivedAt": "2025-09-28T12:00:04.861Z"
+  },
+  {
+    "demFileHash": "155b0667a28d7d79d4541eed3846434f648bc74d861d34f0f1eb793cfde9b53a",
+    "uid": "Q8TL1O479",
+    "map": "speedrun_w00dfun",
+    "category": 0,
+    "time": 15317,
+    "playerSteamId": "STEAM_0:0:576706174",
+    "timestamp": "2025-09-28T10:18:15.000Z",
+    "zipFilename": "00015317_STEAM_0_0_576706174_20250928-101815.zip",
+    "path": "speedrun_w00dfun/00015317_STEAM_0_0_576706174_20250928-101815.zip",
+    "archivedAt": "2025-09-28T12:00:04.861Z"
+  },
+  {
+    "demFileHash": "5f6c4161fb5664344d1859cd57775720a37d082fe7220703f88cac28f07da2b5",
+    "uid": "PUE81FMVV",
+    "map": "speedrun_w00dfun",
+    "category": 0,
+    "time": 15217,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-09-28T11:04:45.000Z",
+    "zipFilename": "00015217_STEAM_0_1_408712_20250928-110445.zip",
+    "path": "speedrun_w00dfun/00015217_STEAM_0_1_408712_20250928-110445.zip",
+    "archivedAt": "2025-09-28T12:00:04.861Z"
+  },
+  {
     "demFileHash": "02f90307e0884c982cfcd69689013f4477fe17892707f22177a7fc6a830316cd",
     "uid": "9FP56UXF5",
     "map": "cs_militia",
