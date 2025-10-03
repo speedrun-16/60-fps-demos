@@ -7,7 +7,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | Map Name | Demos | Last Updated |
 | :--- | :---- | :--- |
 | [cs_militia](./cs_militia) | 3 | 2025-09-30 |
-| [deathrun_chemical](./deathrun_chemical) | 3 | 2025-09-29 |
+| [deathrun_chemical](./deathrun_chemical) | 4 | 2025-10-03 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 2 | 2025-10-01 |
 | [speedrun_30min](./speedrun_30min) | 1 | 2025-09-24 |
 | [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
@@ -33,4 +33,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **22**
-- Total Demos: **45**
+- Total Demos: **46**
