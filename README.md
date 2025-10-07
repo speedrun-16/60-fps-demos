@@ -29,11 +29,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 2 | 2025-09-17 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-10-01 |
 | [speedrun_wampirex](./speedrun_wampirex) | 2 | 2025-10-06 |
+| [speedrun_wander](./speedrun_wander) | 1 | 2025-10-06 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 3 | 2025-09-28 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 2 | 2025-09-20 |
 
 ---
 
 ### Statistics
-- Total Maps: **25**
-- Total Demos: **54**
+- Total Maps: **26**
+- Total Demos: **55**
