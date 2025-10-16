@@ -27,7 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-09-30 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-10-01 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 2 | 2025-10-05 |
-| [speedrun_retz](./speedrun_retz) | 1 | 2025-10-14 |
+| [speedrun_retz](./speedrun_retz) | 2 | 2025-10-16 |
 | [speedrun_several](./speedrun_several) | 3 | 2025-10-05 |
 | [speedrun_simplecity](./speedrun_simplecity) | 2 | 2025-10-07 |
 | [speedrun_spiral](./speedrun_spiral) | 1 | 2025-10-07 |
@@ -38,10 +38,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_wander](./speedrun_wander) | 1 | 2025-10-06 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-10 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 3 | 2025-09-28 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 2 | 2025-09-20 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 2 | 2025-10-16 |
 
 ---
 
 ### Statistics
 - Total Maps: **33**
-- Total Demos: **67**
+- Total Demos: **68**
