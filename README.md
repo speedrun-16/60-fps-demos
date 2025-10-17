@@ -16,8 +16,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
 | [speedrun_chemical](./speedrun_chemical) | 6 | 2025-10-05 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 2 | 2025-10-08 |
+| [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-10-17 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-30 |
+| [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-09-19 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
@@ -43,5 +45,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **33**
-- Total Demos: **68**
+- Total Maps: **35**
+- Total Demos: **71**
