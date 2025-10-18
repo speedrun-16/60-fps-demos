@@ -9,6 +9,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_militia](./cs_militia) | 3 | 2025-09-30 |
 | [de_aztec](./de_aztec) | 1 | 2025-10-07 |
 | [de_dust](./de_dust) | 3 | 2025-10-15 |
+| [de_inferno](./de_inferno) | 2 | 2025-10-17 |
 | [deathrun_chemical](./deathrun_chemical) | 4 | 2025-10-03 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-10-07 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
@@ -45,5 +46,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **35**
-- Total Demos: **71**
+- Total Maps: **36**
+- Total Demos: **73**

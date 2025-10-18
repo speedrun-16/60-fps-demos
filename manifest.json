@@ -1,5 +1,41 @@
 [
   {
+    "demFileHash": "cc1b1a2129a0f94acac258a7d8c34e9f499357a5835660d1eed8b06a84ebb0e6",
+    "uid": "UK6YIVK7I",
+    "map": "de_inferno",
+    "category": 0,
+    "time": 9137,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-17T23:42:07.000Z",
+    "zipFilename": "00009137_STEAM_0_1_29970948_20251017-234207.zip",
+    "path": "de_inferno/00009137_STEAM_0_1_29970948_20251017-234207.zip",
+    "archivedAt": "2025-10-18T00:00:04.961Z"
+  },
+  {
+    "demFileHash": "c252f0f7ffdcb492d40c8e59961a9f4d2125dd2babb640e57235cbc67d5411da",
+    "uid": "ABMDX1FWX",
+    "map": "de_inferno",
+    "category": 0,
+    "time": 9397,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-10-17T23:44:41.000Z",
+    "zipFilename": "00009397_STEAM_0_1_926467834_20251017-234441.zip",
+    "path": "de_inferno/00009397_STEAM_0_1_926467834_20251017-234441.zip",
+    "archivedAt": "2025-10-18T00:00:04.961Z"
+  },
+  {
+    "demFileHash": "4e0521ce44717b4762852f70b7f7896fc29e6a1adf9231eb9560deac1f4fd3bb",
+    "uid": "3GTSLCHMJ",
+    "map": "speedrun_eastwood",
+    "category": 0,
+    "time": 20306,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-17T18:03:22.000Z",
+    "zipFilename": "00020306_STEAM_0_0_24751394_20251017-180322.zip",
+    "path": "speedrun_eastwood/00020306_STEAM_0_0_24751394_20251017-180322.zip",
+    "archivedAt": "2025-10-18T00:00:04.961Z"
+  },
+  {
     "demFileHash": "6bf06dd2074fd51c9ac8533662fb76ff158f076641a4b54cd9aec58a2b3bbcdc",
     "uid": "STUI9XC44",
     "map": "speedrun_confusion3",
@@ -9,18 +45,6 @@
     "timestamp": "2025-10-17T15:59:40.000Z",
     "zipFilename": "00017894_STEAM_0_1_926467834_20251017-155940.zip",
     "path": "speedrun_confusion3/00017894_STEAM_0_1_926467834_20251017-155940.zip",
-    "archivedAt": "2025-10-17T18:00:02.898Z"
-  },
-  {
-    "demFileHash": "c13c0fab7e0d205079d4cdf4e1f247525971c2ac7f7ded0230974cab489310ed",
-    "uid": "THQFON7A0",
-    "map": "speedrun_eastwood",
-    "category": 0,
-    "time": 20337,
-    "playerSteamId": "STEAM_0:0:24751394",
-    "timestamp": "2025-10-17T17:57:04.000Z",
-    "zipFilename": "00020337_STEAM_0_0_24751394_20251017-175704.zip",
-    "path": "speedrun_eastwood/00020337_STEAM_0_0_24751394_20251017-175704.zip",
     "archivedAt": "2025-10-17T18:00:02.898Z"
   },
   {
