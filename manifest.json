@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "9e1c2ea05576673656cfb505c484d059592a79b839dd1a6a9da3acb3bd220069",
+    "uid": "OKFUT9T6Y",
+    "map": "speedrun_reloaded_edition",
+    "category": 0,
+    "time": 13708,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-10-18T13:16:49.000Z",
+    "zipFilename": "00013708_STEAM_0_1_771348382_20251018-131649.zip",
+    "path": "speedrun_reloaded_edition/00013708_STEAM_0_1_771348382_20251018-131649.zip",
+    "archivedAt": "2025-10-18T18:00:11.967Z"
+  },
+  {
     "demFileHash": "cc1b1a2129a0f94acac258a7d8c34e9f499357a5835660d1eed8b06a84ebb0e6",
     "uid": "UK6YIVK7I",
     "map": "de_inferno",
