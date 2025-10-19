@@ -11,7 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust](./de_dust) | 3 | 2025-10-15 |
 | [de_inferno](./de_inferno) | 2 | 2025-10-17 |
 | [deathrun_chemical](./deathrun_chemical) | 4 | 2025-10-03 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-10-07 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2025-10-18 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 1 | 2025-10-07 |
 | [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
@@ -30,6 +30,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_poland](./speedrun_poland) | 1 | 2025-09-30 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-10-01 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 2 | 2025-10-05 |
+| [speedrun_r3x_final](./speedrun_r3x_final) | 2 | 2025-10-18 |
 | [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 1 | 2025-10-18 |
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-10-16 |
 | [speedrun_several](./speedrun_several) | 3 | 2025-10-05 |
@@ -47,5 +48,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **37**
-- Total Demos: **74**
+- Total Maps: **38**
+- Total Demos: **77**
