@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "0fde57f39ee13bc5226a29d975d34db23d03477bb06818a646fcda0883e90273",
+    "uid": "9BYZIBRRU",
+    "map": "de_dust2",
+    "category": 0,
+    "time": 8560,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-10-20T23:44:44.000Z",
+    "zipFilename": "00008560_STEAM_0_1_771348382_20251020-234444.zip",
+    "path": "de_dust2/00008560_STEAM_0_1_771348382_20251020-234444.zip",
+    "archivedAt": "2025-10-21T00:00:09.931Z"
+  },
+  {
+    "demFileHash": "c7ab328eb6cd4f6ff6334f64c21bf3847f658a1653ea774c89650327f6a4f9d9",
+    "uid": "WE5MD06ZB",
+    "map": "de_dust2",
+    "category": 0,
+    "time": 8510,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-20T23:46:33.000Z",
+    "zipFilename": "00008510_STEAM_0_0_24751394_20251020-234633.zip",
+    "path": "de_dust2/00008510_STEAM_0_0_24751394_20251020-234633.zip",
+    "archivedAt": "2025-10-21T00:00:09.931Z"
+  },
+  {
     "demFileHash": "8ba491d2c716936cb8d7d78fd80ddf56283813c03af9e0026b81de6e1e1cd789",
     "uid": "UDOVJENDR",
     "map": "speedrun_poland",
