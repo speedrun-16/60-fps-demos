@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "da9edb882f2ac7af337209323896c9bd5ad31290dff11dce095793d4c6e1abfd",
+    "uid": "Q4FO40BTX",
+    "map": "speedrun_1000fps_battle",
+    "category": 0,
+    "time": 12037,
+    "playerSteamId": "STEAM_0:0:24751394",
+    "timestamp": "2025-10-31T15:38:20.000Z",
+    "zipFilename": "00012037_STEAM_0_0_24751394_20251031-153820.zip",
+    "path": "speedrun_1000fps_battle/00012037_STEAM_0_0_24751394_20251031-153820.zip",
+    "archivedAt": "2025-10-31T18:00:00.460Z"
+  },
+  {
     "demFileHash": "3ec66d51d678dfc6477a049a298f5bdf0f7d1f6e1df18db3bd143e7a3baf0951",
     "uid": "U0TWDZSS8",
     "map": "speedrun_1000fps_battle",
