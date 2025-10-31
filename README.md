@@ -10,11 +10,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_aztec](./de_aztec) | 1 | 2025-10-07 |
 | [de_dust](./de_dust) | 3 | 2025-10-15 |
 | [de_dust2](./de_dust2) | 4 | 2025-10-20 |
-| [de_inferno](./de_inferno) | 2 | 2025-10-17 |
+| [de_inferno](./de_inferno) | 3 | 2025-10-31 |
 | [de_train](./de_train) | 1 | 2025-10-20 |
 | [deathrun_chemical](./deathrun_chemical) | 4 | 2025-10-03 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2025-10-18 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2025-10-31 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 1 | 2025-10-07 |
 | [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
@@ -43,6 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 2 | 2025-10-07 |
 | [speedrun_TN_f](./speedrun_TN_f) | 2 | 2025-10-25 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 1 | 2025-10-10 |
+| [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-10-31 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-10-29 |
 | [speedrun_wampirex](./speedrun_wampirex) | 2 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 1 | 2025-10-06 |
@@ -53,5 +54,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **43**
-- Total Demos: **95**
+- Total Maps: **44**
+- Total Demos: **97**
