@@ -27,6 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-09-19 |
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-11-03 |
+| [speedrun_faster](./speedrun_faster) | 1 | 2025-11-10 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-09-17 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 4 | 2025-10-28 |
@@ -42,7 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several](./speedrun_several) | 3 | 2025-10-05 |
 | [speedrun_simplecity](./speedrun_simplecity) | 2 | 2025-10-07 |
 | [speedrun_spiral](./speedrun_spiral) | 1 | 2025-10-07 |
-| [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 2 | 2025-10-07 |
+| [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 3 | 2025-11-10 |
 | [speedrun_svet](./speedrun_svet) | 1 | 2025-11-09 |
 | [speedrun_TN_f](./speedrun_TN_f) | 3 | 2025-11-04 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 2 | 2025-11-02 |
@@ -58,5 +59,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **48**
-- Total Demos: **105**
+- Total Maps: **49**
+- Total Demos: **107**

@@ -8,9 +8,10 @@ This directory contains player records achieved in the **60 FPS** category for t
 | :--- | :-------- | :------------ | :------------------ |
 | #1   | [00:12.207](./00012207_STEAM_0_1_408712_20251007-235807.zip) | [STEAM_0:1:408712](https://speedrun16.com/profile/STEAM_0:1:408712)   | 2025-10-07 23:58:07 |
 | #2   | [00:12.248](./00012248_STEAM_0_0_24751394_20250917-005746.zip) | [STEAM_0:0:24751394](https://speedrun16.com/profile/STEAM_0:0:24751394)   | 2025-09-17 00:57:46 |
+| #3   | [00:12.334](./00012334_STEAM_0_1_29970948_20251110-022749.zip) | [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948)   | 2025-11-10 02:27:49 |
 
 ---
 
 ### Record Summary
 **Record Holder:** [00:12.207](./00012207_STEAM_0_1_408712_20251007-235807.zip) (by [STEAM_0:1:408712](https://speedrun16.com/profile/STEAM_0:1:408712))  
-**Total PBs Archived:** 2
+**Total PBs Archived:** 3
