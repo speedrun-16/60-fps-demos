@@ -15,7 +15,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_chemical](./deathrun_chemical) | 4 | 2025-10-03 |
 | [deathrun_grass](./deathrun_grass) | 1 | 2025-11-04 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 5 | 2025-10-31 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 6 | 2025-11-10 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 1 | 2025-10-07 |
 | [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
@@ -60,4 +60,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **49**
-- Total Demos: **107**
+- Total Demos: **108**
