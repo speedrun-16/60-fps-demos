@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "4d346535170dfb3d9579eda3602174d9b435e50a47ad63d5cd274dbc5fc299b6",
+    "uid": "4N8O6MDMC",
+    "map": "speedrun_bunnyrace_beta2",
+    "category": 0,
+    "time": 41997,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-14T22:52:16.000Z",
+    "zipFilename": "00041997_STEAM_0_1_29970948_20251114-225216.zip",
+    "path": "speedrun_bunnyrace_beta2/00041997_STEAM_0_1_29970948_20251114-225216.zip",
+    "archivedAt": "2025-11-15T00:00:05.379Z"
+  },
+  {
     "demFileHash": "585adf90b5f03c96697790e9385af4c6c19c67db27933f4b547456a992dc1389",
     "uid": "C3UMEWE8N",
     "map": "speedrun_evidens",
