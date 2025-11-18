@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "395e43300252d6b3088ca4a77941ceff1d431988f9a1f744e6d746025d17bc49",
+    "uid": "XTAKL2FF8",
+    "map": "speedrun_katozlandia",
+    "category": 0,
+    "time": 6660,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-11-17T23:46:02.000Z",
+    "zipFilename": "00006660_STEAM_0_1_771348382_20251117-234602.zip",
+    "path": "speedrun_katozlandia/00006660_STEAM_0_1_771348382_20251117-234602.zip",
+    "archivedAt": "2025-11-18T00:00:13.766Z"
+  },
+  {
+    "demFileHash": "fd903234f10e5a42f15cb00386a23ef714176da42e8e1e94cf72bb1bb629e974",
+    "uid": "7HMZ8Q95G",
+    "map": "speedrun_katozlandia",
+    "category": 0,
+    "time": 6693,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-17T23:28:56.000Z",
+    "zipFilename": "00006693_STEAM_0_1_29970948_20251117-232856.zip",
+    "path": "speedrun_katozlandia/00006693_STEAM_0_1_29970948_20251117-232856.zip",
+    "archivedAt": "2025-11-18T00:00:13.766Z"
+  },
+  {
     "demFileHash": "8ed051842dfa2144c5ebb0834538b0f9224d2a15c2ff580e7e679efd7ebd0517",
     "uid": "C7E2BIBA5",
     "map": "speedrun_deceit",
@@ -322,18 +346,6 @@
     "zipFilename": "00009158_STEAM_0_1_29970948_20251025-234335.zip",
     "path": "speedrun_TN_f/00009158_STEAM_0_1_29970948_20251025-234335.zip",
     "archivedAt": "2025-10-26T00:00:05.509Z"
-  },
-  {
-    "demFileHash": "7f0b62e71d137852001f1efc19f7a07ddf72d65808bc01bab1e065de7c10a647",
-    "uid": "JIZRQDC6Y",
-    "map": "speedrun_katozlandia",
-    "category": 0,
-    "time": 6709,
-    "playerSteamId": "STEAM_0:1:29970948",
-    "timestamp": "2025-10-25T00:46:40.000Z",
-    "zipFilename": "00006709_STEAM_0_1_29970948_20251025-004640.zip",
-    "path": "speedrun_katozlandia/00006709_STEAM_0_1_29970948_20251025-004640.zip",
-    "archivedAt": "2025-10-25T06:00:00.460Z"
   },
   {
     "demFileHash": "3f55b4d7450646e17b2d99048a59b324af1cc758d24d850f571ad1043edfdac5",
