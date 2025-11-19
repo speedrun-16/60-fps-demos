@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "18f65b628bb935e7de9dfd568ced46b7575049b65949200d9ccf36baf14828c2",
+    "uid": "6OLAM69G8",
+    "map": "speedrun_mnogostrafe2",
+    "category": 0,
+    "time": 20548,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-19T17:40:15.000Z",
+    "zipFilename": "00020548_STEAM_0_1_796767048_20251119-174015.zip",
+    "path": "speedrun_mnogostrafe2/00020548_STEAM_0_1_796767048_20251119-174015.zip",
+    "archivedAt": "2025-11-19T18:00:18.274Z"
+  },
+  {
+    "demFileHash": "61000d44d6f01061fa6a61608574f6c3bc061f3d9732365a3453733c0834a1f9",
+    "uid": "JWRK09RG2",
+    "map": "speedrun_1000fps_battle",
+    "category": 0,
+    "time": 12069,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-19T17:26:38.000Z",
+    "zipFilename": "00012069_STEAM_0_1_796767048_20251119-172638.zip",
+    "path": "speedrun_1000fps_battle/00012069_STEAM_0_1_796767048_20251119-172638.zip",
+    "archivedAt": "2025-11-19T18:00:18.274Z"
+  },
+  {
     "demFileHash": "395e43300252d6b3088ca4a77941ceff1d431988f9a1f744e6d746025d17bc49",
     "uid": "XTAKL2FF8",
     "map": "speedrun_katozlandia",
