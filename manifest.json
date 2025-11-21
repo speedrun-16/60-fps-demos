@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "f77c4e59724a1a0af2cda51c0e477c41b62ea21224af5f869fc7974249ec2baa",
+    "uid": "3R2LX6C6M",
+    "map": "speedrun_bunnyrace_beta2",
+    "category": 0,
+    "time": 40316,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-21T03:50:39.000Z",
+    "zipFilename": "00040316_STEAM_0_1_408712_20251121-035039.zip",
+    "path": "speedrun_bunnyrace_beta2/00040316_STEAM_0_1_408712_20251121-035039.zip",
+    "archivedAt": "2025-11-21T06:00:08.621Z"
+  },
+  {
+    "demFileHash": "ff5136ee25135f38f4f62afe571f4a62deef60549af3e1206ab7960db102da17",
+    "uid": "QK9JQMZGJ",
+    "map": "speedrun_triskelion_ruins_beta2",
+    "category": 0,
+    "time": 15799,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-21T02:33:34.000Z",
+    "zipFilename": "00015799_STEAM_0_1_408712_20251121-023334.zip",
+    "path": "speedrun_triskelion_ruins_beta2/00015799_STEAM_0_1_408712_20251121-023334.zip",
+    "archivedAt": "2025-11-21T06:00:08.621Z"
+  },
+  {
     "demFileHash": "a67b59641ef8fe79ef7b5813ebe903ff52ce6619c2b833e952ca7a84b63ed079",
     "uid": "G1CP2QOWO",
     "map": "speedrun_1000fps_battle",
