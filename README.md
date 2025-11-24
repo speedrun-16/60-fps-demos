@@ -15,10 +15,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_chemical](./deathrun_chemical) | 4 | 2025-10-03 |
 | [deathrun_grass](./deathrun_grass) | 1 | 2025-11-04 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-20 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-24 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 1 | 2025-10-07 |
 | [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
+| [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 2 | 2025-11-22 |
 | [speedrun_chemical](./speedrun_chemical) | 7 | 2025-11-13 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 2 | 2025-10-08 |
@@ -31,6 +32,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-11-14 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-10 |
+| [speedrun_funeral](./speedrun_funeral) | 2 | 2025-11-24 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-11-21 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 4 | 2025-10-28 |
@@ -66,5 +68,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **56**
-- Total Demos: **121**
+- Total Maps: **58**
+- Total Demos: **125**
