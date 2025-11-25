@@ -22,12 +22,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 2 | 2025-11-22 |
 | [speedrun_chemical](./speedrun_chemical) | 7 | 2025-11-13 |
+| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 2 | 2025-11-25 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 2 | 2025-10-08 |
 | [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-10-17 |
 | [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-15 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-30 |
-| [speedrun_eastwood](./speedrun_eastwood) | 1 | 2025-10-17 |
+| [speedrun_eastwood](./speedrun_eastwood) | 3 | 2025-11-25 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-09-19 |
 | [speedrun_evidens](./speedrun_evidens) | 1 | 2025-11-14 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
@@ -68,5 +69,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **58**
-- Total Demos: **125**
+- Total Maps: **59**
+- Total Demos: **129**

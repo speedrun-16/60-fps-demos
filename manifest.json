@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "c5e5808f8a27e1876cba2067b0d5dc57a855c0f20446a5313a82ac354fbaba4d",
+    "uid": "QYJF8EWM3",
+    "map": "speedrun_chemical_maxfps",
+    "category": 0,
+    "time": 11513,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-25T04:17:25.000Z",
+    "zipFilename": "00011513_STEAM_0_1_408712_20251125-041725.zip",
+    "path": "speedrun_chemical_maxfps/00011513_STEAM_0_1_408712_20251125-041725.zip",
+    "archivedAt": "2025-11-25T06:00:00.715Z"
+  },
+  {
+    "demFileHash": "5135eea7c30265303974ae54ff5b548d06f4d9aeffcf5c134b71e7cb084519bd",
+    "uid": "91AYOZC1T",
+    "map": "speedrun_eastwood",
+    "category": 0,
+    "time": 20271,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-25T02:45:57.000Z",
+    "zipFilename": "00020271_STEAM_0_1_408712_20251125-024557.zip",
+    "path": "speedrun_eastwood/00020271_STEAM_0_1_408712_20251125-024557.zip",
+    "archivedAt": "2025-11-25T06:00:00.715Z"
+  },
+  {
+    "demFileHash": "a08ac0b356ec2fc0ff52d89761dceb9a4ce41de8b71571c92faa93377b94ab0a",
+    "uid": "JLR3TPVBM",
+    "map": "speedrun_chemical_maxfps",
+    "category": 0,
+    "time": 11578,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-25T04:26:19.000Z",
+    "zipFilename": "00011578_STEAM_0_1_29970948_20251125-042619.zip",
+    "path": "speedrun_chemical_maxfps/00011578_STEAM_0_1_29970948_20251125-042619.zip",
+    "archivedAt": "2025-11-25T06:00:00.715Z"
+  },
+  {
+    "demFileHash": "e907190ca6e5d4f47a3231db0bd8dc8b2e721c96e2cdc2f6985419645046aff0",
+    "uid": "INV6321WQ",
+    "map": "speedrun_eastwood",
+    "category": 0,
+    "time": 21087,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-25T02:45:06.000Z",
+    "zipFilename": "00021087_STEAM_0_1_29970948_20251125-024506.zip",
+    "path": "speedrun_eastwood/00021087_STEAM_0_1_29970948_20251125-024506.zip",
+    "archivedAt": "2025-11-25T06:00:00.715Z"
+  },
+  {
     "demFileHash": "d2c69bc6339c5913811440fb43721c7576e56bbdb8d003ebea7c456daf63f956",
     "uid": "EBWAYZ7U1",
     "map": "speedrun_funeral",
