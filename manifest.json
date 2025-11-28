@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "6a3297833d5a4e596e511f9cab856a8f1c621f985f6869e5428377b0e9f19f05",
+    "uid": "88VCDDM99",
+    "map": "speedrun_several_trilogy",
+    "category": 0,
+    "time": 18080,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-28T02:48:55.000Z",
+    "zipFilename": "00018080_STEAM_0_1_29970948_20251128-024855.zip",
+    "path": "speedrun_several_trilogy/00018080_STEAM_0_1_29970948_20251128-024855.zip",
+    "archivedAt": "2025-11-28T06:00:00.454Z"
+  },
+  {
     "demFileHash": "c5e5808f8a27e1876cba2067b0d5dc57a855c0f20446a5313a82ac354fbaba4d",
     "uid": "QYJF8EWM3",
     "map": "speedrun_chemical_maxfps",
