@@ -13,11 +13,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_inferno](./de_inferno) | 3 | 2025-10-31 |
 | [de_train](./de_train) | 2 | 2025-11-04 |
 | [deathrun_chemical](./deathrun_chemical) | 4 | 2025-10-03 |
+| [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-11-28 |
 | [deathrun_grass](./deathrun_grass) | 1 | 2025-11-04 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-11-24 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
-| [speedrun_al](./speedrun_al) | 1 | 2025-10-07 |
+| [speedrun_al](./speedrun_al) | 2 | 2025-11-28 |
 | [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
 | [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 2 | 2025-11-22 |
@@ -66,10 +67,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_wander](./speedrun_wander) | 1 | 2025-10-06 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-10 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 3 | 2025-09-28 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 2 | 2025-10-16 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-11-28 |
 
 ---
 
 ### Statistics
-- Total Maps: **61**
-- Total Demos: **132**
+- Total Maps: **62**
+- Total Demos: **136**
