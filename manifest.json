@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "89374cbea49677bc2f73e3baadcf47c3de271d07d066f92a018ebc56e3687dd9",
+    "uid": "MMR44DNQZ",
+    "map": "speedrun_meowkatozz_demise",
+    "category": 0,
+    "time": 26033,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-30T02:54:12.000Z",
+    "zipFilename": "00026033_STEAM_0_1_29970948_20251130-025412.zip",
+    "path": "speedrun_meowkatozz_demise/00026033_STEAM_0_1_29970948_20251130-025412.zip",
+    "archivedAt": "2025-11-30T06:00:00.579Z"
+  },
+  {
+    "demFileHash": "b13ea1c055d17ae8b12cf01601c6c3ecf1d814d32aeb3b5fca5789b72ea1188f",
+    "uid": "FIYLM31OG",
+    "map": "speedrun_calm",
+    "category": 0,
+    "time": 15816,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-11-30T02:17:08.000Z",
+    "zipFilename": "00015816_STEAM_0_1_29970948_20251130-021708.zip",
+    "path": "speedrun_calm/00015816_STEAM_0_1_29970948_20251130-021708.zip",
+    "archivedAt": "2025-11-30T06:00:00.579Z"
+  },
+  {
+    "demFileHash": "1b17eef6ed912283d6cb21d73779c5e54faaebb0cd0a8f7cd783bb97462f0809",
+    "uid": "09V8XRSLX",
+    "map": "speedrun_calm",
+    "category": 0,
+    "time": 15156,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-30T02:07:27.000Z",
+    "zipFilename": "00015156_STEAM_0_1_408712_20251130-020727.zip",
+    "path": "speedrun_calm/00015156_STEAM_0_1_408712_20251130-020727.zip",
+    "archivedAt": "2025-11-30T06:00:00.579Z"
+  },
+  {
+    "demFileHash": "25a181b1dc364fce489bb3ed2f0c7a5ddd1efd487d329218c1ff44ca19fcc4af",
+    "uid": "U9K8KJO31",
+    "map": "speedrun_meowkatozz_demise",
+    "category": 0,
+    "time": 25377,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-11-30T02:48:04.000Z",
+    "zipFilename": "00025377_STEAM_0_1_408712_20251130-024804.zip",
+    "path": "speedrun_meowkatozz_demise/00025377_STEAM_0_1_408712_20251130-024804.zip",
+    "archivedAt": "2025-11-30T06:00:00.579Z"
+  },
+  {
     "demFileHash": "4db23786a7f678e70fc6c04bb491c265bcdb337cea09d9648d084bc61989336b",
     "uid": "X225K04XE",
     "map": "speedrun_yagrehsart_fix",
