@@ -11,7 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust](./de_dust) | 3 | 2025-10-15 |
 | [de_dust2](./de_dust2) | 4 | 2025-10-20 |
 | [de_inferno](./de_inferno) | 3 | 2025-10-31 |
-| [de_train](./de_train) | 2 | 2025-11-04 |
+| [de_train](./de_train) | 3 | 2025-12-01 |
 | [deathrun_chemical](./deathrun_chemical) | 4 | 2025-10-03 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-11-28 |
 | [deathrun_grass](./deathrun_grass) | 1 | 2025-11-04 |
@@ -75,4 +75,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **64**
-- Total Demos: **140**
+- Total Demos: **141**

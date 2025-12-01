@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "e43a5b9b3e0e412807348c3791dad862f37ea4dd984319869496e9cf09e426ed",
+    "uid": "KF855LBO8",
+    "map": "de_train",
+    "category": 0,
+    "time": 9136,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-01T15:41:14.000Z",
+    "zipFilename": "00009136_STEAM_0_1_771348382_20251201-154114.zip",
+    "path": "de_train/00009136_STEAM_0_1_771348382_20251201-154114.zip",
+    "archivedAt": "2025-12-01T18:00:08.514Z"
+  },
+  {
     "demFileHash": "89374cbea49677bc2f73e3baadcf47c3de271d07d066f92a018ebc56e3687dd9",
     "uid": "MMR44DNQZ",
     "map": "speedrun_meowkatozz_demise",
