@@ -32,7 +32,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-30 |
 | [speedrun_eastwood](./speedrun_eastwood) | 3 | 2025-11-25 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-09-19 |
-| [speedrun_evidens](./speedrun_evidens) | 1 | 2025-11-14 |
+| [speedrun_evidens](./speedrun_evidens) | 2 | 2025-12-02 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-10 |
 | [speedrun_funeral](./speedrun_funeral) | 2 | 2025-11-24 |
@@ -54,6 +54,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retro_mini](./speedrun_retro_mini) | 2 | 2025-11-28 |
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-10-16 |
 | [speedrun_several](./speedrun_several) | 3 | 2025-10-05 |
+| [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-12-02 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-28 |
 | [speedrun_simplecity](./speedrun_simplecity) | 2 | 2025-10-07 |
 | [speedrun_spiral](./speedrun_spiral) | 1 | 2025-10-07 |
@@ -74,5 +75,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **64**
-- Total Demos: **141**
+- Total Maps: **65**
+- Total Demos: **144**
