@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "db60da520f1a1d739a20af26f06f9be62827d117faf321641859147517f5d066",
+    "uid": "47ED47JEW",
+    "map": "speedrun_sudpi",
+    "category": 0,
+    "time": 14879,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-04T16:33:55.000Z",
+    "zipFilename": "00014879_STEAM_0_1_408712_20251204-163355.zip",
+    "path": "speedrun_sudpi/00014879_STEAM_0_1_408712_20251204-163355.zip",
+    "archivedAt": "2025-12-04T18:00:00.803Z"
+  },
+  {
+    "demFileHash": "50a4c06cfcdb5c0a412cb798cc6a74f7b7a3e169fdb15c59efda812efb5aa265",
+    "uid": "FDAVAN4SB",
+    "map": "speedrun_sudpi",
+    "category": 0,
+    "time": 15686,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-12-04T14:35:57.000Z",
+    "zipFilename": "00015686_STEAM_0_1_29970948_20251204-143557.zip",
+    "path": "speedrun_sudpi/00015686_STEAM_0_1_29970948_20251204-143557.zip",
+    "archivedAt": "2025-12-04T18:00:00.803Z"
+  },
+  {
+    "demFileHash": "4c3c6d4d89609759694fea2640d81d99e34278935b26be87bd417eecb94ef242",
+    "uid": "ACSTTAFFU",
+    "map": "speedrun_sudpi",
+    "category": 0,
+    "time": 15041,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2025-12-04T15:34:03.000Z",
+    "zipFilename": "00015041_STEAM_0_1_771348382_20251204-153403.zip",
+    "path": "speedrun_sudpi/00015041_STEAM_0_1_771348382_20251204-153403.zip",
+    "archivedAt": "2025-12-04T18:00:00.803Z"
+  },
+  {
+    "demFileHash": "6a65b7f75917393027c23298a7b6e6d50bc6eda0d42991ade204d9122668c78b",
+    "uid": "MWJ0147QP",
+    "map": "speedrun_sudpi",
+    "category": 0,
+    "time": 14785,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-12-04T16:40:32.000Z",
+    "zipFilename": "00014785_STEAM_0_1_796767048_20251204-164032.zip",
+    "path": "speedrun_sudpi/00014785_STEAM_0_1_796767048_20251204-164032.zip",
+    "archivedAt": "2025-12-04T18:00:00.803Z"
+  },
+  {
     "demFileHash": "0a308020e085c0bd3678f5ede3dd3f729f801b58309117bca8dc0fd85e55ca46",
     "uid": "6UQKL0KZ5",
     "map": "speedrun_1000fps_battle",

@@ -58,6 +58,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-28 |
 | [speedrun_simplecity](./speedrun_simplecity) | 2 | 2025-10-07 |
 | [speedrun_spiral](./speedrun_spiral) | 1 | 2025-10-07 |
+| [speedrun_sudpi](./speedrun_sudpi) | 4 | 2025-12-04 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 3 | 2025-11-10 |
 | [speedrun_svet](./speedrun_svet) | 1 | 2025-11-09 |
 | [speedrun_TN_f](./speedrun_TN_f) | 3 | 2025-11-04 |
@@ -75,5 +76,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **65**
-- Total Demos: **147**
+- Total Maps: **66**
+- Total Demos: **151**
