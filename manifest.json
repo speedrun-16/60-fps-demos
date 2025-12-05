@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "d2b436303a731f7e7b5c69311df90d99ed128718c6cf567c786e70fa1be02a78",
+    "uid": "BU4BVC87F",
+    "map": "speedrun_yagrehsart_100fps",
+    "category": 0,
+    "time": 15877,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-12-05T10:38:47.000Z",
+    "zipFilename": "00015877_STEAM_0_1_926467834_20251205-103847.zip",
+    "path": "speedrun_yagrehsart_100fps/00015877_STEAM_0_1_926467834_20251205-103847.zip",
+    "archivedAt": "2025-12-05T12:00:00.449Z"
+  },
+  {
     "demFileHash": "fef04a63cc70a82d3d89f14345953babeb38443720eaab369cb620239e4523d8",
     "uid": "ZPM7EMJFZ",
     "map": "deathrun_antic",

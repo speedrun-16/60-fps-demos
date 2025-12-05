@@ -71,11 +71,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_wampirex](./speedrun_wampirex) | 2 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 1 | 2025-10-06 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-10 |
-| [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 3 | 2025-09-28 |
+| [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 4 | 2025-12-05 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-11-28 |
 
 ---
 
 ### Statistics
 - Total Maps: **67**
-- Total Demos: **153**
+- Total Demos: **154**
