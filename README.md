@@ -27,7 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical](./speedrun_chemical) | 7 | 2025-11-13 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 2 | 2025-11-25 |
 | [speedrun_chemicalz](./speedrun_chemicalz) | 2 | 2025-10-08 |
-| [speedrun_confusion3](./speedrun_confusion3) | 2 | 2025-10-17 |
+| [speedrun_confusion3](./speedrun_confusion3) | 3 | 2025-12-05 |
 | [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-15 |
 | [speedrun_Domination](./speedrun_Domination) | 1 | 2025-09-20 |
 | [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-30 |
@@ -78,4 +78,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **67**
-- Total Demos: **154**
+- Total Demos: **155**
