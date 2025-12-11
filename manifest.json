@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "05928f24ed8d5cf4af33ee5950c4487f5993f6ec48367f58744d8eaf4c3ed24f",
+    "uid": "4T0KBL4EY",
+    "map": "speedrun_bieber_maxfps",
+    "category": 0,
+    "time": 17649,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-12-11T12:58:21.000Z",
+    "zipFilename": "00017649_STEAM_0_1_926467834_20251211-125821.zip",
+    "path": "speedrun_bieber_maxfps/00017649_STEAM_0_1_926467834_20251211-125821.zip",
+    "archivedAt": "2025-12-11T18:00:03.069Z"
+  },
+  {
     "demFileHash": "d4737092499d245d5e2e0453d6fd3817e11ee9b37f0d5431e94559bbc4d936d8",
     "uid": "11MCLLM5W",
     "map": "speedrun_alone",
