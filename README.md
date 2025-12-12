@@ -41,7 +41,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_funeral](./speedrun_funeral) | 2 | 2025-11-24 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 2 | 2025-11-21 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 5 | 2025-12-03 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 5 | 2025-12-11 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 3 | 2025-11-17 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
