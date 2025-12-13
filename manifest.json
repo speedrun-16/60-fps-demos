@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "5e35cc446e2ae2a02ca829772149e6a1394b61dbcebfe07660d025a99ad0b46d",
+    "uid": "NOCC1MAIV",
+    "map": "de_cbble",
+    "category": 0,
+    "time": 9556,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-12-12T21:44:09.000Z",
+    "zipFilename": "00009556_STEAM_0_1_29970948_20251212-214409.zip",
+    "path": "de_cbble/00009556_STEAM_0_1_29970948_20251212-214409.zip",
+    "archivedAt": "2025-12-13T00:00:00.408Z"
+  },
+  {
     "demFileHash": "cd311e34c75766131a973cc9ed7bc42618b58101f35679cb6e011cfe76b97ccb",
     "uid": "LBEF8131W",
     "map": "speedrun_neocist",
