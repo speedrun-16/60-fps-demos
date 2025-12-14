@@ -1,15 +1,27 @@
 [
   {
-    "demFileHash": "afb45c29d34382a0c57aaaa94f09dee20c390a7d29b054f9bb914f48a820eb79",
-    "uid": "XY8PQ8ITF",
+    "demFileHash": "d685a8fc2052367981494de02296534e7b436d1a28aa396c63946684b49e19b6",
+    "uid": "2KL4T81FX",
+    "map": "speedrun_1000fps_battle",
+    "category": 0,
+    "time": 11974,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-12-13T19:32:27.000Z",
+    "zipFilename": "00011974_STEAM_0_1_796767048_20251213-193227.zip",
+    "path": "speedrun_1000fps_battle/00011974_STEAM_0_1_796767048_20251213-193227.zip",
+    "archivedAt": "2025-12-14T00:00:09.770Z"
+  },
+  {
+    "demFileHash": "eb881bd858b74ec2ee843a9e8e322209b7b0425c819f0d9fd94ab838c4b1e310",
+    "uid": "T5ECBFSXQ",
     "map": "speedrun_w00dfun",
     "category": 0,
-    "time": 15124,
+    "time": 15088,
     "playerSteamId": "STEAM_0:1:408712",
-    "timestamp": "2025-12-13T17:56:58.000Z",
-    "zipFilename": "00015124_STEAM_0_1_408712_20251213-175658.zip",
-    "path": "speedrun_w00dfun/00015124_STEAM_0_1_408712_20251213-175658.zip",
-    "archivedAt": "2025-12-13T18:00:00.646Z"
+    "timestamp": "2025-12-13T18:00:04.000Z",
+    "zipFilename": "00015088_STEAM_0_1_408712_20251213-180004.zip",
+    "path": "speedrun_w00dfun/00015088_STEAM_0_1_408712_20251213-180004.zip",
+    "archivedAt": "2025-12-14T00:00:09.770Z"
   },
   {
     "demFileHash": "493ee9e8c894a4dd997d93cf43e82c2cc9c8a2c5374ce893fd5172ea00eff231",
@@ -297,18 +309,6 @@
     "timestamp": "2025-12-03T14:58:12.000Z",
     "zipFilename": "00011976_STEAM_0_0_24751394_20251203-145812.zip",
     "path": "speedrun_1000fps_battle/00011976_STEAM_0_0_24751394_20251203-145812.zip",
-    "archivedAt": "2025-12-03T18:00:06.706Z"
-  },
-  {
-    "demFileHash": "6bd18754394bf24c40bde94df9c3fb0bdd5842eb65d7c4e8d6653968e3f7438c",
-    "uid": "KVQ2TALJK",
-    "map": "speedrun_1000fps_battle",
-    "category": 0,
-    "time": 12003,
-    "playerSteamId": "STEAM_0:1:796767048",
-    "timestamp": "2025-12-03T14:35:32.000Z",
-    "zipFilename": "00012003_STEAM_0_1_796767048_20251203-143532.zip",
-    "path": "speedrun_1000fps_battle/00012003_STEAM_0_1_796767048_20251203-143532.zip",
     "archivedAt": "2025-12-03T18:00:06.706Z"
   },
   {

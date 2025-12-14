@@ -18,7 +18,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-11-28 |
 | [deathrun_grass](./deathrun_grass) | 1 | 2025-11-04 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-12-04 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-12-13 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 2 | 2025-11-28 |
 | [speedrun_alone](./speedrun_alone) | 1 | 2025-12-08 |
