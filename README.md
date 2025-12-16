@@ -37,6 +37,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_eastwood](./speedrun_eastwood) | 3 | 2025-11-25 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 1 | 2025-09-19 |
 | [speedrun_evidens](./speedrun_evidens) | 3 | 2025-12-02 |
+| [speedrun_exort](./speedrun_exort) | 1 | 2025-12-16 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-10 |
 | [speedrun_funeral](./speedrun_funeral) | 2 | 2025-11-24 |
@@ -78,10 +79,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_wander](./speedrun_wander) | 1 | 2025-10-06 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-10 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 4 | 2025-12-05 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-11-28 |
+| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-12-16 |
 
 ---
 
 ### Statistics
-- Total Maps: **73**
-- Total Demos: **166**
+- Total Maps: **74**
+- Total Demos: **167**
