@@ -49,7 +49,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_neocist](./speedrun_neocist) | 4 | 2025-12-12 |
 | [speedrun_poland](./speedrun_poland) | 5 | 2025-10-20 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-11-14 |
+| [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-12-19 |
 | [speedrun_pupsik](./speedrun_pupsik) | 1 | 2025-10-22 |
 | [speedrun_pupsik2](./speedrun_pupsik2) | 2 | 2025-10-05 |
 | [speedrun_r3x](./speedrun_r3x) | 1 | 2025-11-20 |
