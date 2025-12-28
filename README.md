@@ -51,6 +51,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_neocist](./speedrun_neocist) | 4 | 2025-12-12 |
 | [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 2 | 2025-12-27 |
+| [speedrun_perspective_beta2](./speedrun_perspective_beta2) | 1 | 2025-12-27 |
 | [speedrun_poland](./speedrun_poland) | 5 | 2025-10-20 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-12-19 |
 | [speedrun_pupsik](./speedrun_pupsik) | 2 | 2025-12-25 |
@@ -89,5 +90,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **79**
-- Total Demos: **179**
+- Total Maps: **80**
+- Total Demos: **180**
