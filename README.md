@@ -18,6 +18,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-11-28 |
 | [deathrun_grass](./deathrun_grass) | 1 | 2025-11-04 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
+| [deathrun_icemaru](./deathrun_icemaru) | 1 | 2025-12-29 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2025-12-13 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 2 | 2025-11-28 |
@@ -26,6 +27,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_amel](./speedrun_amel) | 1 | 2025-09-14 |
 | [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2025-12-11 |
+| [speedrun_bluepink_v2](./speedrun_bluepink_v2) | 1 | 2025-12-29 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 2 | 2025-11-22 |
 | [speedrun_calm](./speedrun_calm) | 2 | 2025-11-30 |
 | [speedrun_chemical](./speedrun_chemical) | 7 | 2025-11-13 |
@@ -45,7 +47,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_grasz_final](./speedrun_grasz_final) | 4 | 2025-12-13 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
 | [speedrun_Hugh](./speedrun_Hugh) | 1 | 2025-12-25 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 5 | 2025-12-11 |
+| [speedrun_jeans_short](./speedrun_jeans_short) | 6 | 2025-12-29 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 3 | 2025-11-17 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
@@ -73,7 +75,9 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_simplecity](./speedrun_simplecity) | 2 | 2025-10-07 |
 | [speedrun_solitude](./speedrun_solitude) | 1 | 2025-12-07 |
 | [speedrun_spiral](./speedrun_spiral) | 1 | 2025-10-07 |
+| [speedrun_straight_b1](./speedrun_straight_b1) | 1 | 2025-12-29 |
 | [speedrun_sudpi](./speedrun_sudpi) | 4 | 2025-12-04 |
+| [speedrun_sunnies_night](./speedrun_sunnies_night) | 1 | 2025-12-29 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 3 | 2025-11-10 |
 | [speedrun_svet](./speedrun_svet) | 3 | 2025-12-08 |
 | [speedrun_TN_f](./speedrun_TN_f) | 3 | 2025-11-04 |
@@ -92,5 +96,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **82**
-- Total Demos: **183**
+- Total Maps: **86**
+- Total Demos: **188**
