@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "29d384a55b79d7ab1294fdda35997a602c579b0a90a6dd888690e3e2def86178",
+    "uid": "TAQETLT2P",
+    "map": "cs_office",
+    "category": 0,
+    "time": 15401,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-29T19:42:34.000Z",
+    "zipFilename": "00015401_STEAM_0_1_408712_20251229-194234.zip",
+    "path": "cs_office/00015401_STEAM_0_1_408712_20251229-194234.zip",
+    "archivedAt": "2025-12-30T00:00:05.835Z"
+  },
+  {
     "demFileHash": "0324f8f86b66a752bd825f04879191c7caceb2fe9edb68732a8ea2bbfe67bca0",
     "uid": "LUVM802CL",
     "map": "speedrun_bluepink_v2",
