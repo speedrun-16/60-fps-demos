@@ -56,7 +56,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-28 |
 | [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 2 | 2025-12-27 |
 | [speedrun_perspective_beta2](./speedrun_perspective_beta2) | 1 | 2025-12-27 |
-| [speedrun_perspective_beta3](./speedrun_perspective_beta3) | 2 | 2025-12-28 |
+| [speedrun_perspective_beta3](./speedrun_perspective_beta3) | 2 | 2025-12-30 |
 | [speedrun_poland](./speedrun_poland) | 5 | 2025-10-20 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2025-12-19 |
 | [speedrun_pupsik](./speedrun_pupsik) | 2 | 2025-12-25 |
