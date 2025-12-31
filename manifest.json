@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "1f5a37df20163d1aa90a8a2c8f963333417f70ca9a7d27e9d7e88cb27cfe08f6",
+    "uid": "RSGLR1C6X",
+    "map": "speedrun_Domination",
+    "category": 0,
+    "time": 19541,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-30T22:01:29.000Z",
+    "zipFilename": "00019541_STEAM_0_1_408712_20251230-220129.zip",
+    "path": "speedrun_Domination/00019541_STEAM_0_1_408712_20251230-220129.zip",
+    "archivedAt": "2025-12-31T00:00:00.901Z"
+  },
+  {
+    "demFileHash": "e0bfd018a394a95d2255c8a5851b3feb3b1575e39fe10aaff74634ba5f8a79e4",
+    "uid": "FW58II5VE",
+    "map": "speedrun_superspeedrun",
+    "category": 0,
+    "time": 12379,
+    "playerSteamId": "STEAM_0:1:84733295",
+    "timestamp": "2025-12-30T18:16:15.000Z",
+    "zipFilename": "00012379_STEAM_0_1_84733295_20251230-181615.zip",
+    "path": "speedrun_superspeedrun/00012379_STEAM_0_1_84733295_20251230-181615.zip",
+    "archivedAt": "2025-12-31T00:00:00.901Z"
+  },
+  {
+    "demFileHash": "f1c3550f0a977b890ad5340fa75e45fa59071afaf459017ed74af14ab9addc7c",
+    "uid": "TCRHUDSRZ",
+    "map": "speedrun_enemy_easy",
+    "category": 0,
+    "time": 50383,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2025-12-30T22:35:42.000Z",
+    "zipFilename": "00050383_STEAM_0_1_408712_20251230-223542.zip",
+    "path": "speedrun_enemy_easy/00050383_STEAM_0_1_408712_20251230-223542.zip",
+    "archivedAt": "2025-12-31T00:00:00.901Z"
+  },
+  {
+    "demFileHash": "d3c3ca406aa8e766f63ca347c2a1b1f0ac67ff7007af0a4f82508651f23773f7",
+    "uid": "UGU2E6L3G",
+    "map": "speedrun_enemy_easy",
+    "category": 0,
+    "time": 52352,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-12-30T22:23:24.000Z",
+    "zipFilename": "00052352_STEAM_0_1_29970948_20251230-222324.zip",
+    "path": "speedrun_enemy_easy/00052352_STEAM_0_1_29970948_20251230-222324.zip",
+    "archivedAt": "2025-12-31T00:00:00.900Z"
+  },
+  {
     "demFileHash": "dd549b4e88259ed551c3c626b70aa24418a79c092beadba10119ae6332a9d0e6",
     "uid": "Z7K3XTNWC",
     "map": "speedrun_perspective_beta3",
