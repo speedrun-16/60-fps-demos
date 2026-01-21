@@ -10,7 +10,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [cs_office](./cs_office) | 1 | 2025-12-29 |
 | [de_aztec](./de_aztec) | 2 | 2025-12-27 |
 | [de_cbble](./de_cbble) | 1 | 2025-12-12 |
-| [de_dust](./de_dust) | 5 | 2026-01-19 |
+| [de_dust](./de_dust) | 5 | 2026-01-20 |
 | [de_dust2](./de_dust2) | 4 | 2025-10-20 |
 | [de_inferno](./de_inferno) | 3 | 2025-10-31 |
 | [de_train](./de_train) | 3 | 2026-01-05 |
