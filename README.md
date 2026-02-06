@@ -83,7 +83,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-10-16 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2026-01-05 |
-| [speedrun_several](./speedrun_several) | 3 | 2025-10-05 |
+| [speedrun_several](./speedrun_several) | 3 | 2026-02-06 |
 | [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-12-02 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-28 |
 | [speedrun_silent](./speedrun_silent) | 1 | 2026-01-21 |
