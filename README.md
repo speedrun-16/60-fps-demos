@@ -97,7 +97,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_sunnies_short](./speedrun_sunnies_short) | 1 | 2026-01-05 |
 | [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 3 | 2025-11-10 |
 | [speedrun_superspeedrun](./speedrun_superspeedrun) | 1 | 2025-12-30 |
-| [speedrun_svet](./speedrun_svet) | 3 | 2025-12-08 |
+| [speedrun_svet](./speedrun_svet) | 3 | 2026-03-08 |
 | [speedrun_TN_f](./speedrun_TN_f) | 3 | 2025-11-04 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-11-20 |
 | [speedrun_trahser_fix](./speedrun_trahser_fix) | 1 | 2026-01-05 |
