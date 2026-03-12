@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "7e4716f2892e1094836eda69710c2b781c7ed730e73146cf92a03c8014fd5358",
+    "uid": "Z6XKUKV7H",
+    "map": "deathrun_grass",
+    "category": 0,
+    "time": 17270,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2026-03-11T20:35:07.000Z",
+    "zipFilename": "00017270_STEAM_0_1_29970948_20260311-203507.zip",
+    "path": "deathrun_grass/00017270_STEAM_0_1_29970948_20260311-203507.zip",
+    "archivedAt": "2026-03-12T00:00:00.423Z"
+  },
+  {
     "demFileHash": "6547644479c9b1b8a1585a4ed6f295f11ff64578a22fa1fa6f5ab7c6020bab6f",
     "uid": "39EB24DEB",
     "map": "speedrun_svet",
