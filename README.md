@@ -15,7 +15,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_inferno](./de_inferno) | 3 | 2025-10-31 |
 | [de_train](./de_train) | 3 | 2026-01-05 |
 | [deathrun_antic](./deathrun_antic) | 1 | 2025-12-04 |
-| [deathrun_chemical](./deathrun_chemical) | 4 | 2026-01-02 |
+| [deathrun_chemical](./deathrun_chemical) | 4 | 2026-03-17 |
 | [deathrun_easy_v1](./deathrun_easy_v1) | 1 | 2025-11-28 |
 | [deathrun_grass](./deathrun_grass) | 2 | 2026-03-11 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
@@ -103,7 +103,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-11-20 |
 | [speedrun_trahser_fix](./speedrun_trahser_fix) | 1 | 2026-01-05 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 3 | 2025-12-25 |
-| [speedrun_vantara](./speedrun_vantara) | 1 | 2026-03-16 |
+| [speedrun_vantara](./speedrun_vantara) | 2 | 2026-03-17 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-27 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 1 | 2025-10-10 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-12-25 |
@@ -118,4 +118,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **107**
-- Total Demos: **233**
+- Total Demos: **234**
