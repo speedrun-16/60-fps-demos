@@ -38,7 +38,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_confusion3](./speedrun_confusion3) | 3 | 2025-12-13 |
 | [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-15 |
 | [speedrun_Domination](./speedrun_Domination) | 2 | 2025-12-30 |
-| [speedrun_dust2](./speedrun_dust2) | 2 | 2025-09-30 |
+| [speedrun_dust2](./speedrun_dust2) | 3 | 2026-04-09 |
 | [speedrun_eastwood](./speedrun_eastwood) | 3 | 2025-11-25 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 2 | 2026-01-31 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2026-01-07 |
@@ -111,7 +111,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_w00dfun](./speedrun_w00dfun) | 5 | 2025-12-13 |
 | [speedrun_wampirex](./speedrun_wampirex) | 2 | 2025-10-06 |
 | [speedrun_wander](./speedrun_wander) | 1 | 2025-10-06 |
-| [speedrun_wkr](./speedrun_wkr) | 1 | 2025-10-10 |
+| [speedrun_wkr](./speedrun_wkr) | 1 | 2026-04-09 |
 | [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 4 | 2025-12-05 |
 | [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-12-16 |
 
@@ -119,4 +119,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **108**
-- Total Demos: **236**
+- Total Demos: **237**
