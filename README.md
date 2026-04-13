@@ -43,7 +43,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_eastwood](./speedrun_eastwood) | 3 | 2025-11-25 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 2 | 2026-01-31 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2026-01-07 |
-| [speedrun_ender](./speedrun_ender) | 3 | 2026-01-22 |
+| [speedrun_ender](./speedrun_ender) | 4 | 2026-04-12 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2025-12-30 |
 | [speedrun_evidens](./speedrun_evidens) | 3 | 2025-12-02 |
 | [speedrun_exort](./speedrun_exort) | 2 | 2026-01-21 |
@@ -120,4 +120,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **109**
-- Total Demos: **241**
+- Total Demos: **242**
