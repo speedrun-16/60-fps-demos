@@ -21,6 +21,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
 | [deathrun_icemaru](./deathrun_icemaru) | 1 | 2025-12-29 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 7 | 2026-04-13 |
+| [speedrun_20min](./speedrun_20min) | 1 | 2026-04-15 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 2 | 2025-11-28 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-12-27 |
@@ -45,6 +46,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2026-01-07 |
 | [speedrun_ender](./speedrun_ender) | 4 | 2026-04-12 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2025-12-30 |
+| [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 1 | 2026-04-15 |
 | [speedrun_evidens](./speedrun_evidens) | 3 | 2025-12-02 |
 | [speedrun_exort](./speedrun_exort) | 2 | 2026-01-21 |
 | [speedrun_extasy](./speedrun_extasy) | 1 | 2026-03-12 |
@@ -119,5 +121,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **109**
-- Total Demos: **242**
+- Total Maps: **111**
+- Total Demos: **244**
