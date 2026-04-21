@@ -60,7 +60,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_jeans_short](./speedrun_jeans_short) | 6 | 2026-03-06 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 3 | 2025-11-17 |
 | [speedrun_lumina_beta2](./speedrun_lumina_beta2) | 1 | 2026-04-19 |
-| [speedrun_lumina_beta3](./speedrun_lumina_beta3) | 1 | 2026-04-20 |
+| [speedrun_lumina_beta3](./speedrun_lumina_beta3) | 1 | 2026-04-21 |
 | [speedrun_medium](./speedrun_medium) | 1 | 2026-02-22 |
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 2 | 2025-11-30 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
