@@ -6,10 +6,11 @@ This directory contains player records achieved in the **60 FPS** category for t
 
 | Rank | Best Time | Record Holder | Date                |
 | :--- | :-------- | :------------ | :------------------ |
-| #1   | [00:18.469](./00018469_STEAM_0_1_29970948_20251128-220731.zip) | [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948)   | 2025-11-28 22:07:31 |
+| #1   | [00:17.918](./00017918_STEAM_0_1_408712_20260423-174306.zip) | [STEAM_0:1:408712](https://speedrun16.com/profile/STEAM_0:1:408712)   | 2026-04-23 17:43:06 |
+| #2   | [00:18.469](./00018469_STEAM_0_1_29970948_20251128-220731.zip) | [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948)   | 2025-11-28 22:07:31 |
 
 ---
 
 ### Record Summary
-**Record Holder:** [00:18.469](./00018469_STEAM_0_1_29970948_20251128-220731.zip) (by [STEAM_0:1:29970948](https://speedrun16.com/profile/STEAM_0:1:29970948))  
-**Total PBs Archived:** 1
+**Record Holder:** [00:17.918](./00017918_STEAM_0_1_408712_20260423-174306.zip) (by [STEAM_0:1:408712](https://speedrun16.com/profile/STEAM_0:1:408712))  
+**Total PBs Archived:** 2
