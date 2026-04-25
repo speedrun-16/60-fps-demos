@@ -90,7 +90,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_record](./speedrun_record) | 1 | 2025-12-06 |
 | [speedrun_red_push](./speedrun_red_push) | 1 | 2026-04-15 |
 | [speedrun_reloaded](./speedrun_reloaded) | 3 | 2026-04-24 |
-| [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 1 | 2025-10-18 |
+| [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 1 | 2026-04-24 |
 | [speedrun_retro_mini](./speedrun_retro_mini) | 2 | 2025-11-28 |
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-10-16 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
