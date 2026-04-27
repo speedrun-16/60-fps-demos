@@ -116,7 +116,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-11-20 |
 | [speedrun_trahser_fix](./speedrun_trahser_fix) | 1 | 2026-01-05 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 3 | 2025-12-25 |
-| [speedrun_vantara](./speedrun_vantara) | 2 | 2026-03-17 |
+| [speedrun_vantara](./speedrun_vantara) | 3 | 2026-04-26 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-27 |
 | [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 1 | 2025-10-10 |
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-12-25 |
@@ -132,4 +132,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **121**
-- Total Demos: **263**
+- Total Demos: **264**
