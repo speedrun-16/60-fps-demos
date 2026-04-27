@@ -30,7 +30,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_amel](./speedrun_amel) | 3 | 2026-02-18 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2026-04-26 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2026-04-21 |
-| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-04-26 |
+| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-04-27 |
 | [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2025-12-11 |
 | [speedrun_bluepink_v2](./speedrun_bluepink_v2) | 1 | 2025-12-29 |
@@ -94,6 +94,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_reloaded](./speedrun_reloaded) | 3 | 2026-04-24 |
 | [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 1 | 2026-04-24 |
 | [speedrun_retro_mini](./speedrun_retro_mini) | 2 | 2025-11-28 |
+| [speedrun_retro_pro](./speedrun_retro_pro) | 2 | 2026-04-27 |
 | [speedrun_retz](./speedrun_retz) | 2 | 2025-10-16 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2026-01-05 |
@@ -131,5 +132,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **121**
-- Total Demos: **264**
+- Total Maps: **122**
+- Total Demos: **266**
