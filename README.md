@@ -23,6 +23,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_icemaru](./deathrun_icemaru) | 1 | 2025-12-29 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-04-27 |
 | [speedrun_20min](./speedrun_20min) | 1 | 2026-04-15 |
+| [speedrun_20min_copy](./speedrun_20min_copy) | 1 | 2026-04-27 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_al](./speedrun_al) | 2 | 2026-04-24 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-12-27 |
@@ -116,6 +117,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_TN_f](./speedrun_TN_f) | 3 | 2025-11-04 |
 | [speedrun_tr](./speedrun_tr) | 1 | 2025-11-20 |
 | [speedrun_trahser_fix](./speedrun_trahser_fix) | 1 | 2026-01-05 |
+| [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-04-27 |
 | [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 3 | 2025-12-25 |
 | [speedrun_vantara](./speedrun_vantara) | 3 | 2026-04-26 |
 | [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-27 |
@@ -132,5 +134,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **122**
-- Total Demos: **268**
+- Total Maps: **124**
+- Total Demos: **270**
