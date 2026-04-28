@@ -31,7 +31,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_amel](./speedrun_amel) | 3 | 2026-02-18 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2026-04-26 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2026-04-21 |
-| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-04-27 |
+| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-04-28 |
 | [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2025-12-11 |
 | [speedrun_bluepink_v2](./speedrun_bluepink_v2) | 1 | 2025-12-29 |
@@ -73,7 +73,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-28 |
 | [speedrun_opcode_large_test](./speedrun_opcode_large_test) | 1 | 2026-01-31 |
 | [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-26 |
-| [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 3 | 2026-02-07 |
+| [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 4 | 2026-04-28 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 1 | 2026-04-16 |
 | [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 2 | 2025-12-27 |
 | [speedrun_perspective_beta2](./speedrun_perspective_beta2) | 1 | 2025-12-27 |
@@ -135,4 +135,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **124**
-- Total Demos: **270**
+- Total Demos: **271**
