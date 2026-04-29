@@ -29,7 +29,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-12-27 |
 | [speedrun_alone](./speedrun_alone) | 1 | 2025-12-08 |
 | [speedrun_amel](./speedrun_amel) | 3 | 2026-02-18 |
-| [speedrun_aqua](./speedrun_aqua) | 1 | 2026-04-29 |
+| [speedrun_aqua](./speedrun_aqua) | 2 | 2026-04-29 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2026-04-26 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2026-04-21 |
 | [speedrun_aurea](./speedrun_aurea) | 4 | 2026-04-28 |
@@ -65,6 +65,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_Hugh](./speedrun_Hugh) | 1 | 2025-12-25 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 6 | 2026-03-06 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 3 | 2025-11-17 |
+| [speedrun_leszcz](./speedrun_leszcz) | 2 | 2026-04-29 |
 | [speedrun_lumina_beta2](./speedrun_lumina_beta2) | 1 | 2026-04-19 |
 | [speedrun_lumina_beta3](./speedrun_lumina_beta3) | 2 | 2026-04-26 |
 | [speedrun_medium](./speedrun_medium) | 1 | 2026-02-22 |
@@ -137,5 +138,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **127**
-- Total Demos: **279**
+- Total Maps: **128**
+- Total Demos: **282**
