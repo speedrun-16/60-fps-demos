@@ -52,7 +52,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ender](./speedrun_ender) | 4 | 2026-04-12 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2025-12-30 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 1 | 2026-04-15 |
-| [speedrun_evidens](./speedrun_evidens) | 3 | 2025-12-02 |
+| [speedrun_evidens](./speedrun_evidens) | 3 | 2026-04-29 |
 | [speedrun_exort](./speedrun_exort) | 2 | 2026-01-21 |
 | [speedrun_extasy](./speedrun_extasy) | 1 | 2026-03-12 |
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
@@ -100,7 +100,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 1 | 2026-04-24 |
 | [speedrun_retro_mini](./speedrun_retro_mini) | 2 | 2025-11-28 |
 | [speedrun_retro_pro](./speedrun_retro_pro) | 2 | 2026-04-27 |
-| [speedrun_retz](./speedrun_retz) | 2 | 2025-10-16 |
+| [speedrun_retz](./speedrun_retz) | 2 | 2026-04-29 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2026-01-05 |
 | [speedrun_several](./speedrun_several) | 3 | 2026-02-06 |
