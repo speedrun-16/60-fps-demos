@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "9d5ce70a175eecf7bae8fe032c605feee7a2eddab4e3b8c4be3f76a6a7d6e9ed",
+    "uid": "PG708IETV",
+    "map": "speedrun_muhaha",
+    "category": 0,
+    "time": 11691,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-04-30T17:51:26.000Z",
+    "zipFilename": "00011691_STEAM_0_1_771348382_20260430-175126.zip",
+    "path": "speedrun_muhaha/00011691_STEAM_0_1_771348382_20260430-175126.zip",
+    "archivedAt": "2026-04-30T18:00:12.904Z"
+  },
+  {
     "demFileHash": "082b75bc2cc325df75b1e637875525268916619c80c742d435d575560cc7e408",
     "uid": "QR7ZVR3TO",
     "map": "speedrun_retz",
