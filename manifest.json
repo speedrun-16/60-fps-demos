@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "fe52a2a5f283948469ccf97c4692cf5ecc6bd7e8b2d9d4fd82fb3a445173b976",
+    "uid": "UT88H4YK2",
+    "map": "speedrun_wander",
+    "category": 0,
+    "time": 20336,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-01T20:27:26.000Z",
+    "zipFilename": "00020336_STEAM_0_1_771348382_20260501-202726.zip",
+    "path": "speedrun_wander/00020336_STEAM_0_1_771348382_20260501-202726.zip",
+    "archivedAt": "2026-05-02T00:00:12.670Z"
+  },
+  {
     "demFileHash": "9d5ce70a175eecf7bae8fe032c605feee7a2eddab4e3b8c4be3f76a6a7d6e9ed",
     "uid": "PG708IETV",
     "map": "speedrun_muhaha",
