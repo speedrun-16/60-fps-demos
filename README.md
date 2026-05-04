@@ -47,7 +47,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_Domination](./speedrun_Domination) | 2 | 2025-12-30 |
 | [speedrun_dust2](./speedrun_dust2) | 3 | 2026-04-09 |
 | [speedrun_eastwood](./speedrun_eastwood) | 3 | 2025-11-25 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2026-04-27 |
+| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2026-05-04 |
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2026-01-07 |
 | [speedrun_ender](./speedrun_ender) | 4 | 2026-04-12 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2025-12-30 |
@@ -102,7 +102,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retro_pro](./speedrun_retro_pro) | 2 | 2026-04-27 |
 | [speedrun_retz](./speedrun_retz) | 2 | 2026-04-29 |
 | [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
-| [speedrun_runners](./speedrun_runners) | 1 | 2026-01-05 |
+| [speedrun_runners](./speedrun_runners) | 2 | 2026-05-04 |
 | [speedrun_several](./speedrun_several) | 3 | 2026-02-06 |
 | [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-12-02 |
 | [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-28 |
@@ -139,4 +139,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **128**
-- Total Demos: **284**
+- Total Demos: **285**
