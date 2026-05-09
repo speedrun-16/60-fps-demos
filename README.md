@@ -21,6 +21,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_grass](./deathrun_grass) | 2 | 2026-03-11 |
 | [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
 | [deathrun_icemaru](./deathrun_icemaru) | 1 | 2025-12-29 |
+| [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-08 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-04-27 |
 | [speedrun_20min](./speedrun_20min) | 1 | 2026-04-15 |
 | [speedrun_20min_copy](./speedrun_20min_copy) | 1 | 2026-04-27 |
@@ -138,5 +139,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **128**
-- Total Demos: **287**
+- Total Maps: **129**
+- Total Demos: **288**
