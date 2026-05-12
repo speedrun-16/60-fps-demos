@@ -33,7 +33,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_aqua](./speedrun_aqua) | 2 | 2026-04-29 |
 | [speedrun_artakey](./speedrun_artakey) | 1 | 2026-04-26 |
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2026-04-21 |
-| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-04-28 |
+| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-05-12 |
 | [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
 | [speedrun_bieber](./speedrun_bieber) | 1 | 2026-04-29 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2025-12-11 |
