@@ -25,7 +25,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-04-27 |
 | [speedrun_20min](./speedrun_20min) | 1 | 2026-04-15 |
 | [speedrun_20min_copy](./speedrun_20min_copy) | 1 | 2026-04-27 |
-| [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
+| [speedrun_30min](./speedrun_30min) | 3 | 2026-05-16 |
 | [speedrun_al](./speedrun_al) | 2 | 2026-04-24 |
 | [speedrun_alcium](./speedrun_alcium) | 1 | 2025-12-27 |
 | [speedrun_alone](./speedrun_alone) | 1 | 2025-12-08 |
@@ -141,4 +141,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **130**
-- Total Demos: **295**
+- Total Demos: **296**
