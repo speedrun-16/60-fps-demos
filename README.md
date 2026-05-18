@@ -52,6 +52,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2026-01-07 |
 | [speedrun_ender](./speedrun_ender) | 4 | 2026-04-12 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2025-12-30 |
+| [speedrun_error](./speedrun_error) | 1 | 2026-05-17 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 1 | 2026-04-15 |
 | [speedrun_evidens](./speedrun_evidens) | 3 | 2026-04-29 |
 | [speedrun_exort](./speedrun_exort) | 2 | 2026-01-21 |
@@ -59,7 +60,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
 | [speedrun_faster](./speedrun_faster) | 1 | 2025-11-10 |
 | [speedrun_funeral](./speedrun_funeral) | 2 | 2025-11-24 |
-| [speedrun_garden](./speedrun_garden) | 1 | 2026-01-05 |
+| [speedrun_garden](./speedrun_garden) | 2 | 2026-05-17 |
 | [speedrun_govno_remake_kaniel](./speedrun_govno_remake_kaniel) | 1 | 2026-04-26 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 4 | 2026-04-10 |
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
@@ -140,5 +141,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **130**
-- Total Demos: **296**
+- Total Maps: **131**
+- Total Demos: **298**
