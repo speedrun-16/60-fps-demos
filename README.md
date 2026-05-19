@@ -35,7 +35,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2026-04-21 |
 | [speedrun_aurea](./speedrun_aurea) | 4 | 2026-05-12 |
 | [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
-| [speedrun_bieber](./speedrun_bieber) | 1 | 2026-04-29 |
+| [speedrun_bieber](./speedrun_bieber) | 2 | 2026-05-19 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2025-12-11 |
 | [speedrun_bluepink_v2](./speedrun_bluepink_v2) | 1 | 2025-12-29 |
 | [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 3 | 2026-05-13 |
@@ -53,6 +53,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_ender](./speedrun_ender) | 4 | 2026-04-12 |
 | [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2025-12-30 |
 | [speedrun_error](./speedrun_error) | 1 | 2026-05-17 |
+| [speedrun_euphoria](./speedrun_euphoria) | 1 | 2026-05-19 |
 | [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 1 | 2026-04-15 |
 | [speedrun_evidens](./speedrun_evidens) | 3 | 2026-04-29 |
 | [speedrun_exort](./speedrun_exort) | 2 | 2026-01-21 |
@@ -66,6 +67,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
 | [speedrun_Hugh](./speedrun_Hugh) | 1 | 2025-12-25 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 6 | 2026-05-16 |
+| [speedrun_joker_maxfps](./speedrun_joker_maxfps) | 1 | 2026-05-19 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 3 | 2025-11-17 |
 | [speedrun_leszcz](./speedrun_leszcz) | 2 | 2026-04-29 |
 | [speedrun_lumina_beta2](./speedrun_lumina_beta2) | 1 | 2026-04-19 |
@@ -141,5 +143,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **131**
-- Total Demos: **298**
+- Total Maps: **133**
+- Total Demos: **301**
