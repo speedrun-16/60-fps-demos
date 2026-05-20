@@ -1,5 +1,53 @@
 [
   {
+    "demFileHash": "bc642a1f4c88143bb4f014b7e69d94a2169f2eaed986ebc0b985b10c0f54048f",
+    "uid": "WDO8CU0HE",
+    "map": "speedrun_Tibeck",
+    "category": 0,
+    "time": 15596,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-20T16:28:04.000Z",
+    "zipFilename": "00015596_STEAM_0_1_771348382_20260520-162804.zip",
+    "path": "speedrun_Tibeck/00015596_STEAM_0_1_771348382_20260520-162804.zip",
+    "archivedAt": "2026-05-20T18:00:00.767Z"
+  },
+  {
+    "demFileHash": "d6455406aeee0e33cdc95438d919f3d7bd6048aeccba2a58bd55e7665269fd2b",
+    "uid": "IZLCOCHZI",
+    "map": "speedrun_pryda_v1",
+    "category": 0,
+    "time": 10999,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-20T14:50:38.000Z",
+    "zipFilename": "00010999_STEAM_0_1_771348382_20260520-145038.zip",
+    "path": "speedrun_pryda_v1/00010999_STEAM_0_1_771348382_20260520-145038.zip",
+    "archivedAt": "2026-05-20T18:00:00.767Z"
+  },
+  {
+    "demFileHash": "2f8dfd5ec2c0e92373df346018104706c275481f491a47fc9c2ac35ae30d8786",
+    "uid": "1PL7W9ECC",
+    "map": "deathrun_easy_v1",
+    "category": 0,
+    "time": 17897,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-20T15:23:44.000Z",
+    "zipFilename": "00017897_STEAM_0_1_771348382_20260520-152344.zip",
+    "path": "deathrun_easy_v1/00017897_STEAM_0_1_771348382_20260520-152344.zip",
+    "archivedAt": "2026-05-20T18:00:00.767Z"
+  },
+  {
+    "demFileHash": "4c7fa48b3a7ebf2ab3b86e0c5a42e66a20d50cc5a0e27eea7a945b802e0d9b76",
+    "uid": "SR9R4YTLX",
+    "map": "speedrun_Tibeck",
+    "category": 0,
+    "time": 15896,
+    "playerSteamId": "STEAM_0:1:447056338",
+    "timestamp": "2026-05-20T16:38:43.000Z",
+    "zipFilename": "00015896_STEAM_0_1_447056338_20260520-163843.zip",
+    "path": "speedrun_Tibeck/00015896_STEAM_0_1_447056338_20260520-163843.zip",
+    "archivedAt": "2026-05-20T18:00:00.767Z"
+  },
+  {
     "demFileHash": "3ad6d9f1c2524f71f05831e99b71d51f4646d25dda15813be0d28b74570e0b71",
     "uid": "LIWNNRCRI",
     "map": "speedrun_neocist",
