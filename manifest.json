@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "1e3e48fa9387fc2db2b0a82312ec4984bf73bcd8d1589c8f6f7985e3083ec488",
+    "uid": "68GNU5CIZ",
+    "map": "speedrun_easy_v3",
+    "category": 0,
+    "time": 17603,
+    "playerSteamId": "STEAM_0:1:408712",
+    "timestamp": "2026-05-22T14:25:15.000Z",
+    "zipFilename": "00017603_STEAM_0_1_408712_20260522-142515.zip",
+    "path": "speedrun_easy_v3/00017603_STEAM_0_1_408712_20260522-142515.zip",
+    "archivedAt": "2026-05-22T18:00:00.627Z"
+  },
+  {
     "demFileHash": "bc642a1f4c88143bb4f014b7e69d94a2169f2eaed986ebc0b985b10c0f54048f",
     "uid": "WDO8CU0HE",
     "map": "speedrun_Tibeck",
