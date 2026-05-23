@@ -69,6 +69,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_Hugh](./speedrun_Hugh) | 1 | 2025-12-25 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 6 | 2026-05-16 |
 | [speedrun_joker_maxfps](./speedrun_joker_maxfps) | 1 | 2026-05-19 |
+| [speedrun_joker2](./speedrun_joker2) | 2 | 2026-05-22 |
 | [speedrun_katozlandia](./speedrun_katozlandia) | 3 | 2025-11-17 |
 | [speedrun_leszcz](./speedrun_leszcz) | 2 | 2026-04-29 |
 | [speedrun_lumina_beta2](./speedrun_lumina_beta2) | 1 | 2026-04-19 |
@@ -81,7 +82,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-28 |
 | [speedrun_opcode_large_test](./speedrun_opcode_large_test) | 1 | 2026-01-31 |
 | [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-26 |
-| [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 4 | 2026-04-28 |
+| [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 4 | 2026-05-22 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-05-15 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 1 | 2026-04-16 |
 | [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 2 | 2025-12-27 |
@@ -145,5 +146,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **135**
-- Total Demos: **306**
+- Total Maps: **136**
+- Total Demos: **308**
