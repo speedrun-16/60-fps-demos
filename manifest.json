@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "9703029cc267a98066f7a568db99ec02df2b62524a227c2790f94c640819f829",
+    "uid": "VLNG240US",
+    "map": "speedrun_r3x_II",
+    "category": 0,
+    "time": 20497,
+    "playerSteamId": "STEAM_0:1:771348382",
+    "timestamp": "2026-05-24T15:08:50.000Z",
+    "zipFilename": "00020497_STEAM_0_1_771348382_20260524-150850.zip",
+    "path": "speedrun_r3x_II/00020497_STEAM_0_1_771348382_20260524-150850.zip",
+    "archivedAt": "2026-05-24T18:00:18.672Z"
+  },
+  {
     "demFileHash": "4e25134e323574037fdb8467147238eda902483426a9eaf8e889b53541acb657",
     "uid": "151U8V7ZP",
     "map": "speedrun_skyline",
