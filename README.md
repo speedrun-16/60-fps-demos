@@ -140,7 +140,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-12-25 |
 | [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-05-05 |
 | [speedrun_wampirex](./speedrun_wampirex) | 2 | 2025-10-06 |
-| [speedrun_wander](./speedrun_wander) | 2 | 2026-05-01 |
+| [speedrun_wander](./speedrun_wander) | 2 | 2026-05-26 |
 | [speedrun_wex](./speedrun_wex) | 1 | 2026-05-24 |
 | [speedrun_wkr](./speedrun_wkr) | 1 | 2026-04-09 |
 | [speedrun_yad](./speedrun_yad) | 1 | 2026-04-18 |
