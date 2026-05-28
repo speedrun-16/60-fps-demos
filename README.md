@@ -81,11 +81,12 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2026-04-30 |
 | [speedrun_neocist](./speedrun_neocist) | 5 | 2026-05-19 |
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-28 |
-| [speedrun_opcode_large_test](./speedrun_opcode_large_test) | 1 | 2026-01-31 |
+| [speedrun_opcode_large_test](./speedrun_opcode_large_test) | 2 | 2026-05-28 |
 | [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-26 |
 | [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 4 | 2026-05-22 |
 | [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-05-15 |
 | [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 1 | 2026-04-16 |
+| [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 1 | 2026-05-28 |
 | [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 2 | 2025-12-27 |
 | [speedrun_perspective_beta2](./speedrun_perspective_beta2) | 1 | 2025-12-27 |
 | [speedrun_perspective_beta3](./speedrun_perspective_beta3) | 2 | 2025-12-30 |
@@ -150,5 +151,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **140**
-- Total Demos: **316**
+- Total Maps: **141**
+- Total Demos: **318**
