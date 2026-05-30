@@ -79,7 +79,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 3 | 2026-04-26 |
 | [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
 | [speedrun_muhaha](./speedrun_muhaha) | 3 | 2026-04-30 |
-| [speedrun_neocist](./speedrun_neocist) | 5 | 2026-05-19 |
+| [speedrun_neocist](./speedrun_neocist) | 5 | 2026-05-29 |
 | [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-28 |
 | [speedrun_opcode_large_test](./speedrun_opcode_large_test) | 2 | 2026-05-28 |
 | [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-26 |
