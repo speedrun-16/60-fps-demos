@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "7bebdd1b56b27ff4c011ff5b5af6b5a766078d64432b88fd76920d7a1e647777",
+    "uid": "JM3RNGQTJ",
+    "map": "speedrun_bunnyrace_beta2",
+    "category": 0,
+    "time": 40825,
+    "playerSteamId": "STEAM_0:1:155808091",
+    "timestamp": "2026-06-12T19:22:59.000Z",
+    "zipFilename": "00040825_STEAM_0_1_155808091_20260612-192259.zip",
+    "path": "speedrun_bunnyrace_beta2/00040825_STEAM_0_1_155808091_20260612-192259.zip",
+    "archivedAt": "2026-06-13T00:00:00.550Z"
+  },
+  {
     "demFileHash": "3f27f12fd36b87f8df24885682fc315ce8b9f99eaa06525796cda4c1d02b6891",
     "uid": "ESCBNJA3G",
     "map": "speedrun_pupsik",

@@ -39,7 +39,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_bieber](./speedrun_bieber) | 3 | 2026-05-26 |
 | [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2025-12-11 |
 | [speedrun_bluepink_v2](./speedrun_bluepink_v2) | 1 | 2025-12-29 |
-| [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 3 | 2026-05-23 |
+| [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 4 | 2026-06-12 |
 | [speedrun_calm](./speedrun_calm) | 3 | 2026-05-05 |
 | [speedrun_chemical](./speedrun_chemical) | 9 | 2026-05-12 |
 | [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 4 | 2026-04-28 |
@@ -154,4 +154,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **143**
-- Total Demos: **323**
+- Total Demos: **324**
