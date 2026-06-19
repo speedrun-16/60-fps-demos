@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_voidsanctum_beta1",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "R42TX5LTQ",
+      "rid": 9195,
+      "hash": "81d659a31e5bac2eefad2ec44b5d6762f2cb8e20723e4a5e5a25f9b40c80b54b",
+      "t": 37940,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-10T21:34:44Z",
+      "zip": "00037940_STEAM_0_1_29970948_20251010-213444.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_voidsanctum_beta1-20251010-#R42TX5LTQ.analysis.json",
+          "off": 90,
+          "size": 262323
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_voidsanctum_beta1-20251010-#R42TX5LTQ.dem",
+          "off": 262493,
+          "size": 303244
+        },
+        {
+          "type": "replay",
+          "name": "9195.replay.xz",
+          "off": 565781,
+          "size": 42952
+        }
+      ]
+    }
+  ]
+}

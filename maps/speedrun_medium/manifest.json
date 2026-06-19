@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_medium",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "72QQ6H3TN",
+      "rid": 50999,
+      "hash": "5cfa60183b4b22be85a11212012686fbd362c529111228cc56ab057fa777e1e0",
+      "t": 14024,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-10T13:47:28Z",
+      "zip": "00014024_STEAM_0_1_771348382_20260510-134728.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_medium-20260510-#72QQ6H3TN.analysis.json",
+          "off": 79,
+          "size": 106592
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_medium-20260510-#72QQ6H3TN.dem",
+          "off": 106740,
+          "size": 132651
+        },
+        {
+          "type": "replay",
+          "name": "50999.replay.xz",
+          "off": 239436,
+          "size": 17968
+        }
+      ]
+    },
+    {
+      "uid": "2I21SAO17",
+      "rid": 50988,
+      "hash": "589b2172f683cdbafe936451df9b4c1df167c5db74d0ccc9fd64faee8e820f03",
+      "t": 14249,
+      "sid": "STEAM_0:0:220312997",
+      "at": "2026-05-10T12:56:35Z",
+      "zip": "00014249_STEAM_0_0_220312997_20260510-125635.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_medium-20260510-#2I21SAO17.analysis.json",
+          "off": 79,
+          "size": 112363
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_medium-20260510-#2I21SAO17.dem",
+          "off": 112511,
+          "size": 130394
+        },
+        {
+          "type": "replay",
+          "name": "50988.replay.xz",
+          "off": 242950,
+          "size": 17328
+        }
+      ]
+    },
+    {
+      "uid": "NHZ1YIQSS",
+      "rid": 34417,
+      "hash": "e6d0b860cf0f9b395006d43105ee4c4d5aded95eb813a21dcfdddc0747fd3b59",
+      "t": 14373,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-02-22T06:33:40Z",
+      "zip": "00014373_STEAM_0_1_29970948_20260222-063340.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_medium-20260222-#NHZ1YIQSS.analysis.json",
+          "off": 79,
+          "size": 119361
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_medium-20260222-#NHZ1YIQSS.dem",
+          "off": 119509,
+          "size": 128061
+        },
+        {
+          "type": "replay",
+          "name": "34417.replay.xz",
+          "off": 247615,
+          "size": 17388
+        }
+      ]
+    }
+  ]
+}

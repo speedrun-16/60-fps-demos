@@ -1,0 +1,35 @@
+{
+  "map": "de_cbble",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "NOCC1MAIV",
+      "rid": 21625,
+      "hash": "5e35cc446e2ae2a02ca829772149e6a1394b61dbcebfe07660d025a99ad0b46d",
+      "t": 9556,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-12-12T21:44:09Z",
+      "zip": "00009556_STEAM_0_1_29970948_20251212-214409.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_cbble-20251212-#NOCC1MAIV.analysis.json",
+          "off": 72,
+          "size": 83872
+        },
+        {
+          "type": "dem",
+          "name": "de_cbble-20251212-#NOCC1MAIV.dem",
+          "off": 84006,
+          "size": 107982
+        },
+        {
+          "type": "replay",
+          "name": "21625.replay.xz",
+          "off": 192033,
+          "size": 12600
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "map": "de_train",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "KF855LBO8",
+      "rid": 18847,
+      "hash": "e43a5b9b3e0e412807348c3791dad862f37ea4dd984319869496e9cf09e426ed",
+      "t": 9136,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-12-01T15:41:14Z",
+      "zip": "00009136_STEAM_0_1_771348382_20251201-154114.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_train-20251201-#KF855LBO8.analysis.json",
+          "off": 72,
+          "size": 81650
+        },
+        {
+          "type": "dem",
+          "name": "de_train-20251201-#KF855LBO8.dem",
+          "off": 81784,
+          "size": 96506
+        },
+        {
+          "type": "replay",
+          "name": "18847.replay.xz",
+          "off": 178335,
+          "size": 11796
+        }
+      ]
+    },
+    {
+      "uid": "9Y5J3P7ND",
+      "rid": 25502,
+      "hash": "905713b377657c7d657fcfaa5335aa01054092b12d30e2492c04d96096b45fb2",
+      "t": 9383,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-01-05T01:10:46Z",
+      "zip": "00009383_STEAM_0_1_408712_20260105-011046.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_train-20260105-#9Y5J3P7ND.analysis.json",
+          "off": 72,
+          "size": 86927
+        },
+        {
+          "type": "dem",
+          "name": "de_train-20260105-#9Y5J3P7ND.dem",
+          "off": 87061,
+          "size": 94407
+        },
+        {
+          "type": "replay",
+          "name": "25502.replay.xz",
+          "off": 181513,
+          "size": 12396
+        }
+      ]
+    },
+    {
+      "uid": "2FR4IRXS7",
+      "rid": 13742,
+      "hash": "bc79acda980f8ad71af6af0c3e28a8bba25f6e6796f98ef75ec045733b1239b6",
+      "t": 9532,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-04T21:46:29Z",
+      "zip": "00009532_STEAM_0_1_29970948_20251104-214629.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_train-20251104-#2FR4IRXS7.analysis.json",
+          "off": 72,
+          "size": 87061
+        },
+        {
+          "type": "dem",
+          "name": "de_train-20251104-#2FR4IRXS7.dem",
+          "off": 87195,
+          "size": 98277
+        },
+        {
+          "type": "replay",
+          "name": "13742.replay.xz",
+          "off": 185517,
+          "size": 12620
+        }
+      ]
+    }
+  ]
+}

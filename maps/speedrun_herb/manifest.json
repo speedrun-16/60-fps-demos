@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_herb",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "NOWEE6PAT",
+      "rid": 655,
+      "hash": "33f23fcbedaa1ea1e7062d02aeb4709e30dbf11b2b3a12b5aec6ff802179b9ed",
+      "t": 32822,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-09-15T08:50:45Z",
+      "zip": "00032822_STEAM_0_1_771348382_20250915-085045.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_herb-20250915-#NOWEE6PAT.analysis.json",
+          "off": 77,
+          "size": 216197
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_herb-20250915-#NOWEE6PAT.dem",
+          "off": 216341,
+          "size": 250445
+        },
+        {
+          "type": "replay",
+          "name": "655.replay.xz",
+          "off": 466829,
+          "size": 36708
+        }
+      ]
+    }
+  ]
+}

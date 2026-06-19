@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_bluepink_v2",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "LUVM802CL",
+      "rid": 24464,
+      "hash": "0324f8f86b66a752bd825f04879191c7caceb2fe9edb68732a8ea2bbfe67bca0",
+      "t": 8581,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-12-29T15:12:40Z",
+      "zip": "00008581_STEAM_0_1_408712_20251229-151240.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_bluepink_v2-20251229-#LUVM802CL.analysis.json",
+          "off": 84,
+          "size": 80135
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_bluepink_v2-20251229-#LUVM802CL.dem",
+          "off": 80293,
+          "size": 97896
+        },
+        {
+          "type": "replay",
+          "name": "24464.replay.xz",
+          "off": 178234,
+          "size": 10956
+        }
+      ]
+    }
+  ]
+}

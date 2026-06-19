@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_confusion3",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "A5AQCPZ3O",
+      "rid": 21652,
+      "hash": "9ac6f12eac67b1c75b54cc636a0ccb260797d2b3248703d3fa6e826fb572d620",
+      "t": 17125,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-12-13T03:20:02Z",
+      "zip": "00017125_STEAM_0_1_771348382_20251213-032002.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_confusion3-20251213-#A5AQCPZ3O.analysis.json",
+          "off": 83,
+          "size": 133900
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_confusion3-20251213-#A5AQCPZ3O.dem",
+          "off": 134056,
+          "size": 146715
+        },
+        {
+          "type": "replay",
+          "name": "21652.replay.xz",
+          "off": 280816,
+          "size": 21372
+        }
+      ]
+    },
+    {
+      "uid": "IWEBCGS3Q",
+      "rid": 20314,
+      "hash": "b1eabed34be5b1ac55ea531131a5a37bdf04cf6cb9d45fd8e4ac5282f9039e80",
+      "t": 17462,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-12-05T20:14:04Z",
+      "zip": "00017462_STEAM_0_1_796767048_20251205-201404.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_confusion3-20251205-#IWEBCGS3Q.analysis.json",
+          "off": 83,
+          "size": 128258
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_confusion3-20251205-#IWEBCGS3Q.dem",
+          "off": 128414,
+          "size": 158645
+        },
+        {
+          "type": "replay",
+          "name": "20314.replay.xz",
+          "off": 287104,
+          "size": 21460
+        }
+      ]
+    },
+    {
+      "uid": "STUI9XC44",
+      "rid": 9922,
+      "hash": "6bf06dd2074fd51c9ac8533662fb76ff158f076641a4b54cd9aec58a2b3bbcdc",
+      "t": 17894,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-10-17T15:59:40Z",
+      "zip": "00017894_STEAM_0_1_926467834_20251017-155940.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_confusion3-20251017-#STUI9XC44.analysis.json",
+          "off": 83,
+          "size": 132183
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_confusion3-20251017-#STUI9XC44.dem",
+          "off": 132339,
+          "size": 145490
+        },
+        {
+          "type": "replay",
+          "name": "9922.replay.xz",
+          "off": 277873,
+          "size": 21268
+        }
+      ]
+    }
+  ]
+}

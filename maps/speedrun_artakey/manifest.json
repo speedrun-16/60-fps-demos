@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_artakey",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "I52EXCN4P",
+      "rid": 45167,
+      "hash": "0b0405611d79505125a8aedc970856567498508ed20a95c992d3a6674fcaa75a",
+      "t": 23761,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-26T09:53:49Z",
+      "zip": "00023761_STEAM_0_1_771348382_20260426-095349.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_artakey-20260426-#I52EXCN4P.analysis.json",
+          "off": 80,
+          "size": 172742
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_artakey-20260426-#I52EXCN4P.dem",
+          "off": 172892,
+          "size": 198735
+        },
+        {
+          "type": "replay",
+          "name": "45167.replay.xz",
+          "off": 371672,
+          "size": 28604
+        }
+      ]
+    }
+  ]
+}

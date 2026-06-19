@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_pryda_v1",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "3TQEMWTKQ",
+      "rid": 26292,
+      "hash": "b7543fef91179a2179a7b25293b5be76c7e665f3d356057b26352563d2715833",
+      "t": 10970,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-01-11T00:49:05Z",
+      "zip": "00010970_STEAM_0_0_24751394_20260111-004905.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pryda_v1-20260111-#3TQEMWTKQ.analysis.json",
+          "off": 81,
+          "size": 102978
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pryda_v1-20260111-#3TQEMWTKQ.dem",
+          "off": 103130,
+          "size": 117159
+        },
+        {
+          "type": "replay",
+          "name": "26292.replay.xz",
+          "off": 220334,
+          "size": 14260
+        }
+      ]
+    },
+    {
+      "uid": "IZLCOCHZI",
+      "rid": 54858,
+      "hash": "d6455406aeee0e33cdc95438d919f3d7bd6048aeccba2a58bd55e7665269fd2b",
+      "t": 10999,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-05-20T14:50:38Z",
+      "zip": "00010999_STEAM_0_1_771348382_20260520-145038.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pryda_v1-20260520-#IZLCOCHZI.analysis.json",
+          "off": 81,
+          "size": 92521
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pryda_v1-20260520-#IZLCOCHZI.dem",
+          "off": 92673,
+          "size": 114344
+        },
+        {
+          "type": "replay",
+          "name": "54858.replay.xz",
+          "off": 207062,
+          "size": 14572
+        }
+      ]
+    },
+    {
+      "uid": "ZN3RES7XO",
+      "rid": 26263,
+      "hash": "cc3d1bf5c0e85559ef3897f2bbf9e79cf003a7e438ce8af4ccbe21954e70919b",
+      "t": 11151,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-01-11T00:21:18Z",
+      "zip": "00011151_STEAM_0_1_408712_20260111-002118.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pryda_v1-20260111-#ZN3RES7XO.analysis.json",
+          "off": 81,
+          "size": 94793
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pryda_v1-20260111-#ZN3RES7XO.dem",
+          "off": 94945,
+          "size": 108173
+        },
+        {
+          "type": "replay",
+          "name": "26263.replay.xz",
+          "off": 203163,
+          "size": 14452
+        }
+      ]
+    }
+  ]
+}

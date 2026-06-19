@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_meowkatozz_demise",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "E3HDTEJ3W",
+      "rid": 45088,
+      "hash": "6ad87a83a2995573a927e7f590aa124a752465c962d10e978642e3728ae8400c",
+      "t": 24646,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-25T19:56:06Z",
+      "zip": "00024646_STEAM_0_1_771348382_20260425-195606.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_meowkatozz_demise-20260425-#E3HDTEJ3W.analysis.json",
+          "off": 90,
+          "size": 172197
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_meowkatozz_demise-20260425-#E3HDTEJ3W.dem",
+          "off": 172367,
+          "size": 192008
+        },
+        {
+          "type": "replay",
+          "name": "45088.replay.xz",
+          "off": 364420,
+          "size": 29108
+        }
+      ]
+    },
+    {
+      "uid": "W3C67IMLH",
+      "rid": 45139,
+      "hash": "26ad9b26fea14da873eb5da959bb59ecda16b88752a7468100c7816c46aaa1a3",
+      "t": 25351,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-04-26T01:46:33Z",
+      "zip": "00025351_STEAM_0_1_408712_20260426-014633.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_meowkatozz_demise-20260426-#W3C67IMLH.analysis.json",
+          "off": 90,
+          "size": 187822
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_meowkatozz_demise-20260426-#W3C67IMLH.dem",
+          "off": 187992,
+          "size": 214928
+        },
+        {
+          "type": "replay",
+          "name": "45139.replay.xz",
+          "off": 402965,
+          "size": 29444
+        }
+      ]
+    },
+    {
+      "uid": "MMR44DNQZ",
+      "rid": 18479,
+      "hash": "89374cbea49677bc2f73e3baadcf47c3de271d07d066f92a018ebc56e3687dd9",
+      "t": 26033,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-30T02:54:12Z",
+      "zip": "00026033_STEAM_0_1_29970948_20251130-025412.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_meowkatozz_demise-20251130-#MMR44DNQZ.analysis.json",
+          "off": 90,
+          "size": 189156
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_meowkatozz_demise-20251130-#MMR44DNQZ.dem",
+          "off": 189326,
+          "size": 209451
+        },
+        {
+          "type": "replay",
+          "name": "18479.replay.xz",
+          "off": 398822,
+          "size": 30408
+        }
+      ]
+    }
+  ]
+}

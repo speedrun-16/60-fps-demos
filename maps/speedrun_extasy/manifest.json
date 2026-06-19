@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_extasy",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "8FCB5UKME",
+      "rid": 35863,
+      "hash": "88b163b34807d3352701b620f875d11aaa4a7e33e2a6aaa63893d1f09451e0e0",
+      "t": 10729,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-03-12T17:38:51Z",
+      "zip": "00010729_STEAM_0_1_408712_20260312-173851.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_extasy-20260312-#8FCB5UKME.analysis.json",
+          "off": 79,
+          "size": 95124
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_extasy-20260312-#8FCB5UKME.dem",
+          "off": 95272,
+          "size": 109659
+        },
+        {
+          "type": "replay",
+          "name": "35863.replay.xz",
+          "off": 204976,
+          "size": 13440
+        }
+      ]
+    }
+  ]
+}

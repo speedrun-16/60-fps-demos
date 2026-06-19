@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_easy_v1_remake_kaniel",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "0GETSF081",
+      "rid": 25682,
+      "hash": "5762a6ec0308afb7a90917c302042bffb0ccc65621c03d6317a4a474ea39affb",
+      "t": 17895,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-01-07T01:05:52Z",
+      "zip": "00017895_STEAM_0_1_408712_20260107-010552.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_easy_v1_remake_kaniel-20260107-#0GETSF081.analysis.json",
+          "off": 94,
+          "size": 141767
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_easy_v1_remake_kaniel-20260107-#0GETSF081.dem",
+          "off": 141945,
+          "size": 153832
+        },
+        {
+          "type": "replay",
+          "name": "25682.replay.xz",
+          "off": 295822,
+          "size": 20764
+        }
+      ]
+    }
+  ]
+}

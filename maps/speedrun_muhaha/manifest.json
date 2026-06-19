@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_muhaha",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "4RKA9GI79",
+      "rid": 26462,
+      "hash": "d8e7cfec772ca327ca889bd5b170e39e09373384a53cb559411c55a7cb69c18a",
+      "t": 11643,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-01-12T00:36:24Z",
+      "zip": "00011643_STEAM_0_0_24751394_20260112-003624.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_muhaha-20260112-#4RKA9GI79.analysis.json",
+          "off": 79,
+          "size": 101761
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_muhaha-20260112-#4RKA9GI79.dem",
+          "off": 101909,
+          "size": 112489
+        },
+        {
+          "type": "replay",
+          "name": "26462.replay.xz",
+          "off": 214443,
+          "size": 13988
+        }
+      ]
+    },
+    {
+      "uid": "PG708IETV",
+      "rid": 47173,
+      "hash": "9d5ce70a175eecf7bae8fe032c605feee7a2eddab4e3b8c4be3f76a6a7d6e9ed",
+      "t": 11691,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-30T17:51:26Z",
+      "zip": "00011691_STEAM_0_1_771348382_20260430-175126.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_muhaha-20260430-#PG708IETV.analysis.json",
+          "off": 79,
+          "size": 92378
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_muhaha-20260430-#PG708IETV.dem",
+          "off": 92526,
+          "size": 118442
+        },
+        {
+          "type": "replay",
+          "name": "47173.replay.xz",
+          "off": 211013,
+          "size": 14684
+        }
+      ]
+    },
+    {
+      "uid": "YDLJC8M3T",
+      "rid": 26443,
+      "hash": "df331df873b593c0818ac19642b1609e1b4d52fc0eb85ddd46d6e781779800f3",
+      "t": 12008,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-01-12T00:16:23Z",
+      "zip": "00012008_STEAM_0_1_408712_20260112-001623.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_muhaha-20260112-#YDLJC8M3T.analysis.json",
+          "off": 79,
+          "size": 103964
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_muhaha-20260112-#YDLJC8M3T.dem",
+          "off": 104112,
+          "size": 124855
+        },
+        {
+          "type": "replay",
+          "name": "26443.replay.xz",
+          "off": 229012,
+          "size": 14804
+        }
+      ]
+    }
+  ]
+}

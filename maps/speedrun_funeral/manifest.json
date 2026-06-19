@@ -1,0 +1,64 @@
+{
+  "map": "speedrun_funeral",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "EBWAYZ7U1",
+      "rid": 17727,
+      "hash": "d2c69bc6339c5913811440fb43721c7576e56bbdb8d003ebea7c456daf63f956",
+      "t": 30378,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-11-24T01:01:28Z",
+      "zip": "00030378_STEAM_0_1_408712_20251124-010128.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_funeral-20251124-#EBWAYZ7U1.analysis.json",
+          "off": 80,
+          "size": 216812
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_funeral-20251124-#EBWAYZ7U1.dem",
+          "off": 216962,
+          "size": 231708
+        },
+        {
+          "type": "replay",
+          "name": "17727.replay.xz",
+          "off": 448715,
+          "size": 33756
+        }
+      ]
+    },
+    {
+      "uid": "P4OQ8UJCD",
+      "rid": 17722,
+      "hash": "c50fd21a24b63ba08ee2dbbb44067eacecbe25fce786c44d8235f5e1a102ca36",
+      "t": 32694,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-24T00:53:26Z",
+      "zip": "00032694_STEAM_0_1_29970948_20251124-005326.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_funeral-20251124-#P4OQ8UJCD.analysis.json",
+          "off": 80,
+          "size": 230917
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_funeral-20251124-#P4OQ8UJCD.dem",
+          "off": 231067,
+          "size": 258084
+        },
+        {
+          "type": "replay",
+          "name": "17722.replay.xz",
+          "off": 489196,
+          "size": 37920
+        }
+      ]
+    }
+  ]
+}

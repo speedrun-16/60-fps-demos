@@ -1,0 +1,35 @@
+{
+  "map": "cs_office",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "TAQETLT2P",
+      "rid": 24503,
+      "hash": "29d384a55b79d7ab1294fdda35997a602c579b0a90a6dd888690e3e2def86178",
+      "t": 15401,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-12-29T19:42:34Z",
+      "zip": "00015401_STEAM_0_1_408712_20251229-194234.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "cs_office-20251229-#TAQETLT2P.analysis.json",
+          "off": 73,
+          "size": 143882
+        },
+        {
+          "type": "dem",
+          "name": "cs_office-20251229-#TAQETLT2P.dem",
+          "off": 144018,
+          "size": 156896
+        },
+        {
+          "type": "replay",
+          "name": "24503.replay.xz",
+          "off": 300959,
+          "size": 19948
+        }
+      ]
+    }
+  ]
+}

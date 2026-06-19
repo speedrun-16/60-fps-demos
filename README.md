@@ -1,157 +1,23 @@
-# Category Archive: 60 FPS
+# 60 FPS Demo Archive
 
-This repository is a structured archive for personal best demos achieved in the **60 FPS** category.
+Personal best demo archive for the 60 FPS category.
 
-## Map List
+## Statistics
 
-| Map Name | Demos | Last Updated |
-| :--- | :---- | :--- |
-| [cs_militia](./cs_militia) | 3 | 2025-09-30 |
-| [cs_office](./cs_office) | 1 | 2025-12-29 |
-| [de_aztec](./de_aztec) | 2 | 2025-12-27 |
-| [de_cbble](./de_cbble) | 1 | 2025-12-12 |
-| [de_dust](./de_dust) | 6 | 2026-05-27 |
-| [de_dust2](./de_dust2) | 4 | 2025-10-20 |
-| [de_inferno](./de_inferno) | 3 | 2025-10-31 |
-| [de_nuke](./de_nuke) | 1 | 2026-05-26 |
-| [de_train](./de_train) | 3 | 2026-01-05 |
-| [deathrun_antic](./deathrun_antic) | 1 | 2025-12-04 |
-| [deathrun_chemical](./deathrun_chemical) | 4 | 2026-04-17 |
-| [deathrun_easy_v1](./deathrun_easy_v1) | 3 | 2026-05-20 |
-| [deathrun_forest](./deathrun_forest) | 1 | 2026-04-24 |
-| [deathrun_grass](./deathrun_grass) | 2 | 2026-03-11 |
-| [deathrun_greenworld_v1](./deathrun_greenworld_v1) | 2 | 2025-10-19 |
-| [deathrun_icemaru](./deathrun_icemaru) | 1 | 2025-12-29 |
-| [deathrun_w00dfun](./deathrun_w00dfun) | 1 | 2026-05-08 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 8 | 2026-05-26 |
-| [speedrun_20min](./speedrun_20min) | 1 | 2026-04-15 |
-| [speedrun_20min_copy](./speedrun_20min_copy) | 2 | 2026-06-02 |
-| [speedrun_30min](./speedrun_30min) | 3 | 2026-05-16 |
-| [speedrun_al](./speedrun_al) | 2 | 2026-04-24 |
-| [speedrun_alcium](./speedrun_alcium) | 1 | 2025-12-27 |
-| [speedrun_alone](./speedrun_alone) | 1 | 2025-12-08 |
-| [speedrun_amel](./speedrun_amel) | 3 | 2026-02-18 |
-| [speedrun_aqua](./speedrun_aqua) | 2 | 2026-04-29 |
-| [speedrun_artakey](./speedrun_artakey) | 1 | 2026-04-26 |
-| [speedrun_artakey_no_ramp](./speedrun_artakey_no_ramp) | 2 | 2026-04-21 |
-| [speedrun_aurea](./speedrun_aurea) | 4 | 2026-05-12 |
-| [speedrun_backrooms](./speedrun_backrooms) | 2 | 2025-11-24 |
-| [speedrun_bieber](./speedrun_bieber) | 3 | 2026-05-26 |
-| [speedrun_bieber_maxfps](./speedrun_bieber_maxfps) | 1 | 2025-12-11 |
-| [speedrun_bluepink_v2](./speedrun_bluepink_v2) | 1 | 2025-12-29 |
-| [speedrun_bunnyrace_beta2](./speedrun_bunnyrace_beta2) | 4 | 2026-06-12 |
-| [speedrun_calm](./speedrun_calm) | 3 | 2026-05-05 |
-| [speedrun_chemical](./speedrun_chemical) | 9 | 2026-05-12 |
-| [speedrun_chemical_maxfps](./speedrun_chemical_maxfps) | 4 | 2026-04-28 |
-| [speedrun_chemicalz](./speedrun_chemicalz) | 2 | 2025-10-08 |
-| [speedrun_confusion3](./speedrun_confusion3) | 3 | 2025-12-13 |
-| [speedrun_deceit](./speedrun_deceit) | 1 | 2025-11-15 |
-| [speedrun_Domination](./speedrun_Domination) | 2 | 2025-12-30 |
-| [speedrun_dust2](./speedrun_dust2) | 3 | 2026-04-09 |
-| [speedrun_dust2_kaniel](./speedrun_dust2_kaniel) | 1 | 2026-05-30 |
-| [speedrun_eastwood](./speedrun_eastwood) | 3 | 2025-11-25 |
-| [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2026-05-04 |
-| [speedrun_easy_v1_remake_kaniel](./speedrun_easy_v1_remake_kaniel) | 1 | 2026-01-07 |
-| [speedrun_easy_v3](./speedrun_easy_v3) | 1 | 2026-05-22 |
-| [speedrun_ender](./speedrun_ender) | 4 | 2026-04-12 |
-| [speedrun_enemy_easy](./speedrun_enemy_easy) | 2 | 2025-12-30 |
-| [speedrun_error](./speedrun_error) | 1 | 2026-05-17 |
-| [speedrun_euphoria](./speedrun_euphoria) | 1 | 2026-05-19 |
-| [speedrun_evi_maxfps](./speedrun_evi_maxfps) | 1 | 2026-04-15 |
-| [speedrun_evidens](./speedrun_evidens) | 3 | 2026-04-29 |
-| [speedrun_exort](./speedrun_exort) | 2 | 2026-01-21 |
-| [speedrun_extasy](./speedrun_extasy) | 1 | 2026-03-12 |
-| [speedrun_faded_bronze](./speedrun_faded_bronze) | 1 | 2025-11-19 |
-| [speedrun_faster](./speedrun_faster) | 1 | 2025-11-10 |
-| [speedrun_funeral](./speedrun_funeral) | 2 | 2025-11-24 |
-| [speedrun_garden](./speedrun_garden) | 2 | 2026-05-17 |
-| [speedrun_govno_remake_kaniel](./speedrun_govno_remake_kaniel) | 1 | 2026-04-26 |
-| [speedrun_grasz_final](./speedrun_grasz_final) | 4 | 2026-04-10 |
-| [speedrun_herb](./speedrun_herb) | 1 | 2025-09-15 |
-| [speedrun_Hugh](./speedrun_Hugh) | 1 | 2025-12-25 |
-| [speedrun_jeans_short](./speedrun_jeans_short) | 6 | 2026-05-16 |
-| [speedrun_joker_maxfps](./speedrun_joker_maxfps) | 1 | 2026-05-19 |
-| [speedrun_joker2](./speedrun_joker2) | 2 | 2026-05-22 |
-| [speedrun_katozlandia](./speedrun_katozlandia) | 3 | 2025-11-17 |
-| [speedrun_leszcz](./speedrun_leszcz) | 2 | 2026-04-29 |
-| [speedrun_lumina_beta2](./speedrun_lumina_beta2) | 1 | 2026-04-19 |
-| [speedrun_lumina_beta3](./speedrun_lumina_beta3) | 2 | 2026-05-03 |
-| [speedrun_medium](./speedrun_medium) | 3 | 2026-05-10 |
-| [speedrun_meowkatozz_demise](./speedrun_meowkatozz_demise) | 3 | 2026-04-26 |
-| [speedrun_mnogostrafe2](./speedrun_mnogostrafe2) | 1 | 2025-11-19 |
-| [speedrun_muhaha](./speedrun_muhaha) | 3 | 2026-04-30 |
-| [speedrun_neocist](./speedrun_neocist) | 5 | 2026-05-29 |
-| [speedrun_noob](./speedrun_noob) | 1 | 2026-06-04 |
-| [speedrun_null_test3](./speedrun_null_test3) | 1 | 2025-12-28 |
-| [speedrun_opcode_large_test](./speedrun_opcode_large_test) | 2 | 2026-05-28 |
-| [speedrun_opcode_medium_beta2](./speedrun_opcode_medium_beta2) | 1 | 2026-01-26 |
-| [speedrun_opcode_medium_beta3](./speedrun_opcode_medium_beta3) | 4 | 2026-05-22 |
-| [speedrun_outside_estonia](./speedrun_outside_estonia) | 1 | 2026-05-15 |
-| [speedrun_outside_estonia2](./speedrun_outside_estonia2) | 1 | 2026-04-16 |
-| [speedrun_outside_estonia3](./speedrun_outside_estonia3) | 1 | 2026-05-28 |
-| [speedrun_perspective_beta1](./speedrun_perspective_beta1) | 2 | 2025-12-27 |
-| [speedrun_perspective_beta2](./speedrun_perspective_beta2) | 1 | 2025-12-27 |
-| [speedrun_perspective_beta3](./speedrun_perspective_beta3) | 2 | 2025-12-30 |
-| [speedrun_perspective_beta4](./speedrun_perspective_beta4) | 3 | 2026-04-28 |
-| [speedrun_phe3](./speedrun_phe3) | 1 | 2026-04-28 |
-| [speedrun_poland](./speedrun_poland) | 5 | 2025-10-20 |
-| [speedrun_pool_simple](./speedrun_pool_simple) | 3 | 2026-02-16 |
-| [speedrun_pryda_v1](./speedrun_pryda_v1) | 3 | 2026-05-20 |
-| [speedrun_pryda_v2](./speedrun_pryda_v2) | 6 | 2026-04-28 |
-| [speedrun_pupsik](./speedrun_pupsik) | 4 | 2026-06-07 |
-| [speedrun_pupsik2](./speedrun_pupsik2) | 5 | 2026-01-16 |
-| [speedrun_r3x](./speedrun_r3x) | 1 | 2025-11-20 |
-| [speedrun_r3x_final](./speedrun_r3x_final) | 4 | 2026-05-28 |
-| [speedrun_r3x_II](./speedrun_r3x_II) | 2 | 2026-05-24 |
-| [speedrun_raduga_fix](./speedrun_raduga_fix) | 1 | 2025-11-11 |
-| [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
-| [speedrun_record](./speedrun_record) | 2 | 2026-05-26 |
-| [speedrun_red_push](./speedrun_red_push) | 1 | 2026-04-15 |
-| [speedrun_reloaded](./speedrun_reloaded) | 3 | 2026-04-24 |
-| [speedrun_reloaded_edition](./speedrun_reloaded_edition) | 1 | 2026-04-24 |
-| [speedrun_retro_mini](./speedrun_retro_mini) | 2 | 2025-11-28 |
-| [speedrun_retro_pro](./speedrun_retro_pro) | 2 | 2026-04-27 |
-| [speedrun_retz](./speedrun_retz) | 2 | 2026-04-29 |
-| [speedrun_rondo_alpha-v1](./speedrun_rondo_alpha-v1) | 2 | 2025-12-06 |
-| [speedrun_runners](./speedrun_runners) | 2 | 2026-05-04 |
-| [speedrun_several](./speedrun_several) | 4 | 2026-05-09 |
-| [speedrun_several_longer](./speedrun_several_longer) | 2 | 2025-12-02 |
-| [speedrun_several_trilogy](./speedrun_several_trilogy) | 1 | 2025-11-28 |
-| [speedrun_silent](./speedrun_silent) | 1 | 2026-01-21 |
-| [speedrun_simplecity](./speedrun_simplecity) | 2 | 2025-10-07 |
-| [speedrun_skyline](./speedrun_skyline) | 1 | 2026-05-24 |
-| [speedrun_small_white](./speedrun_small_white) | 1 | 2026-04-22 |
-| [speedrun_solitude](./speedrun_solitude) | 1 | 2025-12-07 |
-| [speedrun_spiral](./speedrun_spiral) | 3 | 2026-01-18 |
-| [speedrun_straight_b1](./speedrun_straight_b1) | 1 | 2025-12-29 |
-| [speedrun_sudpi](./speedrun_sudpi) | 4 | 2025-12-04 |
-| [speedrun_sunnies_night](./speedrun_sunnies_night) | 1 | 2025-12-29 |
-| [speedrun_sunnies_short](./speedrun_sunnies_short) | 1 | 2026-01-05 |
-| [speedrun_SuNsHiNe_new](./speedrun_SuNsHiNe_new) | 3 | 2025-11-10 |
-| [speedrun_superspeedrun](./speedrun_superspeedrun) | 1 | 2025-12-30 |
-| [speedrun_svet](./speedrun_svet) | 5 | 2026-04-12 |
-| [speedrun_Tibeck](./speedrun_Tibeck) | 2 | 2026-05-20 |
-| [speedrun_TN_f](./speedrun_TN_f) | 3 | 2025-11-04 |
-| [speedrun_toni](./speedrun_toni) | 1 | 2026-05-23 |
-| [speedrun_tr](./speedrun_tr) | 1 | 2025-11-20 |
-| [speedrun_trahser_fix](./speedrun_trahser_fix) | 1 | 2026-01-05 |
-| [speedrun_trasher2](./speedrun_trasher2) | 1 | 2026-04-27 |
-| [speedrun_triskelion_ruins_beta2](./speedrun_triskelion_ruins_beta2) | 3 | 2025-12-25 |
-| [speedrun_vantara](./speedrun_vantara) | 5 | 2026-05-14 |
-| [speedrun_veryeasy](./speedrun_veryeasy) | 3 | 2025-12-27 |
-| [speedrun_voidsanctum_beta1](./speedrun_voidsanctum_beta1) | 1 | 2025-10-10 |
-| [speedrun_voidsanctum_beta2](./speedrun_voidsanctum_beta2) | 1 | 2025-12-25 |
-| [speedrun_w00dfun](./speedrun_w00dfun) | 6 | 2026-05-05 |
-| [speedrun_wampirex](./speedrun_wampirex) | 2 | 2025-10-06 |
-| [speedrun_wander](./speedrun_wander) | 2 | 2026-05-26 |
-| [speedrun_wex](./speedrun_wex) | 1 | 2026-05-24 |
-| [speedrun_wkr](./speedrun_wkr) | 1 | 2026-04-09 |
-| [speedrun_yad](./speedrun_yad) | 1 | 2026-04-18 |
-| [speedrun_yagrehsart_100fps](./speedrun_yagrehsart_100fps) | 4 | 2025-12-05 |
-| [speedrun_yagrehsart_fix](./speedrun_yagrehsart_fix) | 4 | 2025-12-16 |
+| Metric | Value |
+| :-- | --: |
+| Maps | 143 |
+| Archived PBs | 324 |
+| Latest Update | 2026-06-12 |
 
----
+## Structure
 
-### Statistics
-- Total Maps: **143**
-- Total Demos: **324**
+| Path | Contents |
+| :-- | :-- |
+| `manifest.json` | Repository summary and per-map manifest pointers |
+| `maps/<map>/manifest.json` | Runs archived for one map |
+| `maps/<map>/*.zip` | Demo archive files |
+
+## Access
+
+Use `manifest.json` as the entry point. Each map manifest contains archive filenames and byte ranges for files inside each zip.

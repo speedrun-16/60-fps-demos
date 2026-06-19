@@ -1,0 +1,151 @@
+{
+  "map": "speedrun_svet",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "HMXF6OSVZ",
+      "rid": 40456,
+      "hash": "993a9c345db746f72deb1d73b3597983626447a362d06a961114fc40632d561d",
+      "t": 20058,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-12T16:35:49Z",
+      "zip": "00020058_STEAM_0_1_771348382_20260412-163549.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20260412-#HMXF6OSVZ.analysis.json",
+          "off": 77,
+          "size": 150679
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20260412-#HMXF6OSVZ.dem",
+          "off": 150823,
+          "size": 174720
+        },
+        {
+          "type": "replay",
+          "name": "40456.replay.xz",
+          "off": 325588,
+          "size": 23560
+        }
+      ]
+    },
+    {
+      "uid": "HTD3RN8ND",
+      "rid": 40432,
+      "hash": "3d281f103209f65349489a6a61a1f594edd7fec07de6a9e3ad3314260c8119aa",
+      "t": 20112,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-04-12T16:00:35Z",
+      "zip": "00020112_STEAM_0_1_408712_20260412-160035.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20260412-#HTD3RN8ND.analysis.json",
+          "off": 77,
+          "size": 154164
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20260412-#HTD3RN8ND.dem",
+          "off": 154308,
+          "size": 166595
+        },
+        {
+          "type": "replay",
+          "name": "40432.replay.xz",
+          "off": 320948,
+          "size": 23664
+        }
+      ]
+    },
+    {
+      "uid": "DFUUADBTO",
+      "rid": 14125,
+      "hash": "f33bd1fbb87bae178132221839f97a997b3f74a8078854c81911095263b102a7",
+      "t": 20165,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-11-09T15:37:55Z",
+      "zip": "00020165_STEAM_0_0_24751394_20251109-153755.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20251109-#DFUUADBTO.analysis.json",
+          "off": 77,
+          "size": 162392
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20251109-#DFUUADBTO.dem",
+          "off": 162536,
+          "size": 169881
+        },
+        {
+          "type": "replay",
+          "name": "14125.replay.xz",
+          "off": 332462,
+          "size": 23836
+        }
+      ]
+    },
+    {
+      "uid": "39EB24DEB",
+      "rid": 35679,
+      "hash": "6547644479c9b1b8a1585a4ed6f295f11ff64578a22fa1fa6f5ab7c6020bab6f",
+      "t": 20303,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-03-09T18:28:30Z",
+      "zip": "00020303_STEAM_0_1_29970948_20260309-182830.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20260309-#39EB24DEB.analysis.json",
+          "off": 77,
+          "size": 157679
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20260309-#39EB24DEB.dem",
+          "off": 157823,
+          "size": 167225
+        },
+        {
+          "type": "replay",
+          "name": "35679.replay.xz",
+          "off": 325093,
+          "size": 24012
+        }
+      ]
+    },
+    {
+      "uid": "14GXAG189",
+      "rid": 20681,
+      "hash": "7b5be62be600991fdd1677b0adae9fdd3dccbd70064a374a51ea56fec7ef8e74",
+      "t": 20619,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-12-08T13:24:53Z",
+      "zip": "00020619_STEAM_0_1_926467834_20251208-132453.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_svet-20251208-#14GXAG189.analysis.json",
+          "off": 77,
+          "size": 149622
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_svet-20251208-#14GXAG189.dem",
+          "off": 149766,
+          "size": 155765
+        },
+        {
+          "type": "replay",
+          "name": "20681.replay.xz",
+          "off": 305576,
+          "size": 22952
+        }
+      ]
+    }
+  ]
+}

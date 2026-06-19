@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_triskelion_ruins_beta2",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "AC47TB6KD",
+      "rid": 23811,
+      "hash": "96883360e83ce9801e63ed82ecfe8e692be7aae17bbe7299f00896b236100d27",
+      "t": 15748,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-12-25T22:05:57Z",
+      "zip": "00015748_STEAM_0_1_408712_20251225-220557.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251225-#AC47TB6KD.analysis.json",
+          "off": 95,
+          "size": 125448
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251225-#AC47TB6KD.dem",
+          "off": 125628,
+          "size": 160289
+        },
+        {
+          "type": "replay",
+          "name": "23811.replay.xz",
+          "off": 285962,
+          "size": 19164
+        }
+      ]
+    },
+    {
+      "uid": "2PDY2OEO6",
+      "rid": 13215,
+      "hash": "aa17c84db1befd78b8348578f363b2fb4624b800458aa5c5e06b5f8ed0718dfd",
+      "t": 15822,
+      "sid": "STEAM_0:1:796767048",
+      "at": "2025-11-02T20:49:24Z",
+      "zip": "00015822_STEAM_0_1_796767048_20251102-204924.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#2PDY2OEO6.analysis.json",
+          "off": 95,
+          "size": 114166
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#2PDY2OEO6.dem",
+          "off": 114346,
+          "size": 156099
+        },
+        {
+          "type": "replay",
+          "name": "13215.replay.xz",
+          "off": 270490,
+          "size": 18852
+        }
+      ]
+    },
+    {
+      "uid": "D147FHB1N",
+      "rid": 13181,
+      "hash": "e53e59149b5b676562149b82753437e024b3b4fae370c392da75470e01a5138e",
+      "t": 16207,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-02T20:32:12Z",
+      "zip": "00016207_STEAM_0_1_29970948_20251102-203212.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#D147FHB1N.analysis.json",
+          "off": 95,
+          "size": 132675
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_triskelion_ruins_beta2-20251102-#D147FHB1N.dem",
+          "off": 132855,
+          "size": 168733
+        },
+        {
+          "type": "replay",
+          "name": "13181.replay.xz",
+          "off": 301633,
+          "size": 19632
+        }
+      ]
+    }
+  ]
+}

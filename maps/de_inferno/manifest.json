@@ -1,0 +1,93 @@
+{
+  "map": "de_inferno",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "X21VNONMY",
+      "rid": 12811,
+      "hash": "18f70a178f2eb926f79979ba57dc31ad14ce46e9de6b9bb4c019b3deb70b961c",
+      "t": 9090,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-10-31T02:15:21Z",
+      "zip": "00009090_STEAM_0_1_29970948_20251031-021521.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_inferno-20251031-#X21VNONMY.analysis.json",
+          "off": 74,
+          "size": 79886
+        },
+        {
+          "type": "dem",
+          "name": "de_inferno-20251031-#X21VNONMY.dem",
+          "off": 80024,
+          "size": 96169
+        },
+        {
+          "type": "replay",
+          "name": "12811.replay.xz",
+          "off": 176238,
+          "size": 11828
+        }
+      ]
+    },
+    {
+      "uid": "75VZ76SCJ",
+      "rid": 12844,
+      "hash": "cd275311b573fa1d31cf4f4ba9b5ca468504a6b526894913a367643cdfa6091c",
+      "t": 9182,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-10-31T02:32:08Z",
+      "zip": "00009182_STEAM_0_1_408712_20251031-023208.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_inferno-20251031-#75VZ76SCJ.analysis.json",
+          "off": 74,
+          "size": 82968
+        },
+        {
+          "type": "dem",
+          "name": "de_inferno-20251031-#75VZ76SCJ.dem",
+          "off": 83106,
+          "size": 94189
+        },
+        {
+          "type": "replay",
+          "name": "12844.replay.xz",
+          "off": 177340,
+          "size": 11596
+        }
+      ]
+    },
+    {
+      "uid": "ABMDX1FWX",
+      "rid": 9972,
+      "hash": "c252f0f7ffdcb492d40c8e59961a9f4d2125dd2babb640e57235cbc67d5411da",
+      "t": 9397,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-10-17T23:44:41Z",
+      "zip": "00009397_STEAM_0_1_926467834_20251017-234441.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "de_inferno-20251017-#ABMDX1FWX.analysis.json",
+          "off": 74,
+          "size": 85216
+        },
+        {
+          "type": "dem",
+          "name": "de_inferno-20251017-#ABMDX1FWX.dem",
+          "off": 85354,
+          "size": 95553
+        },
+        {
+          "type": "replay",
+          "name": "9972.replay.xz",
+          "off": 180951,
+          "size": 11872
+        }
+      ]
+    }
+  ]
+}

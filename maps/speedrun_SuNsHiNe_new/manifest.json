@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_SuNsHiNe_new",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "9ZUU5IHAV",
+      "rid": 8903,
+      "hash": "fb4262cc0f3ff4a30729436978b97c8216a4150f26bc145b728167b5a4123d11",
+      "t": 12207,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-10-07T23:58:07Z",
+      "zip": "00012207_STEAM_0_1_408712_20251007-235807.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_SuNsHiNe_new-20251007-#9ZUU5IHAV.analysis.json",
+          "off": 85,
+          "size": 104426
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_SuNsHiNe_new-20251007-#9ZUU5IHAV.dem",
+          "off": 104586,
+          "size": 111835
+        },
+        {
+          "type": "replay",
+          "name": "8903.replay.xz",
+          "off": 216465,
+          "size": 14660
+        }
+      ]
+    },
+    {
+      "uid": "H8OE373J0",
+      "rid": 2148,
+      "hash": "8468831b764cd91bedbed212ae9324e0a6590147bfbfef59297dd51b08fdaa10",
+      "t": 12248,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-17T00:57:46Z",
+      "zip": "00012248_STEAM_0_0_24751394_20250917-005746.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_SuNsHiNe_new-20250917-#H8OE373J0.analysis.json",
+          "off": 85,
+          "size": 99965
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_SuNsHiNe_new-20250917-#H8OE373J0.dem",
+          "off": 100125,
+          "size": 123388
+        },
+        {
+          "type": "replay",
+          "name": "2148.replay.xz",
+          "off": 223557,
+          "size": 14644
+        }
+      ]
+    },
+    {
+      "uid": "HU9OS3MTQ",
+      "rid": 14164,
+      "hash": "890624e1e71d3e63ab55a6f3edcab4bf5a2291478eacb33dc57112d560882860",
+      "t": 12334,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-10T02:27:49Z",
+      "zip": "00012334_STEAM_0_1_29970948_20251110-022749.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_SuNsHiNe_new-20251110-#HU9OS3MTQ.analysis.json",
+          "off": 85,
+          "size": 103973
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_SuNsHiNe_new-20251110-#HU9OS3MTQ.dem",
+          "off": 104133,
+          "size": 118088
+        },
+        {
+          "type": "replay",
+          "name": "14164.replay.xz",
+          "off": 222266,
+          "size": 15572
+        }
+      ]
+    }
+  ]
+}

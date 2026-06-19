@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_pool_simple",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "HYC74ZVJR",
+      "rid": 33264,
+      "hash": "af89c3a98582ef99dde1bd2d7efb19f50566da7fd3643268159dff96d124b846",
+      "t": 14401,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-02-16T05:06:44Z",
+      "zip": "00014401_STEAM_0_1_771348382_20260216-050644.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pool_simple-20260216-#HYC74ZVJR.analysis.json",
+          "off": 84,
+          "size": 116737
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pool_simple-20260216-#HYC74ZVJR.dem",
+          "off": 116895,
+          "size": 129176
+        },
+        {
+          "type": "replay",
+          "name": "33264.replay.xz",
+          "off": 246116,
+          "size": 18284
+        }
+      ]
+    },
+    {
+      "uid": "D1KQV2EP1",
+      "rid": 5246,
+      "hash": "fba178eeda2ba84449980e20c6ec910e88d578f0ad046ac7abb72d961acdee77",
+      "t": 14992,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-09-24T14:11:02Z",
+      "zip": "00014992_STEAM_0_1_926467834_20250924-141102.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pool_simple-20250924-#D1KQV2EP1.analysis.json",
+          "off": 84,
+          "size": 118669
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pool_simple-20250924-#D1KQV2EP1.dem",
+          "off": 118827,
+          "size": 134547
+        },
+        {
+          "type": "replay",
+          "name": "5246.replay.xz",
+          "off": 253418,
+          "size": 18344
+        }
+      ]
+    },
+    {
+      "uid": "09YSO96JL",
+      "rid": 7384,
+      "hash": "e88b05d8fd6463d0f85540c75927245c6b2c10b81d8d48cf53e94494f78ad3bb",
+      "t": 15560,
+      "sid": "STEAM_0:1:84733295",
+      "at": "2025-10-01T15:40:26Z",
+      "zip": "00015560_STEAM_0_1_84733295_20251001-154026.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_pool_simple-20251001-#09YSO96JL.analysis.json",
+          "off": 84,
+          "size": 127092
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_pool_simple-20251001-#09YSO96JL.dem",
+          "off": 127250,
+          "size": 142195
+        },
+        {
+          "type": "replay",
+          "name": "7384.replay.xz",
+          "off": 269489,
+          "size": 18612
+        }
+      ]
+    }
+  ]
+}

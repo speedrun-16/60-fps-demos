@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_eastwood",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "91AYOZC1T",
+      "rid": 17952,
+      "hash": "5135eea7c30265303974ae54ff5b548d06f4d9aeffcf5c134b71e7cb084519bd",
+      "t": 20271,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-11-25T02:45:57Z",
+      "zip": "00020271_STEAM_0_1_408712_20251125-024557.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251125-#91AYOZC1T.analysis.json",
+          "off": 81,
+          "size": 152691
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251125-#91AYOZC1T.dem",
+          "off": 152843,
+          "size": 170848
+        },
+        {
+          "type": "replay",
+          "name": "17952.replay.xz",
+          "off": 323736,
+          "size": 23384
+        }
+      ]
+    },
+    {
+      "uid": "3GTSLCHMJ",
+      "rid": 9952,
+      "hash": "4e0521ce44717b4762852f70b7f7896fc29e6a1adf9231eb9560deac1f4fd3bb",
+      "t": 20306,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-10-17T18:03:22Z",
+      "zip": "00020306_STEAM_0_0_24751394_20251017-180322.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251017-#3GTSLCHMJ.analysis.json",
+          "off": 81,
+          "size": 154394
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251017-#3GTSLCHMJ.dem",
+          "off": 154546,
+          "size": 159745
+        },
+        {
+          "type": "replay",
+          "name": "9952.replay.xz",
+          "off": 314335,
+          "size": 23328
+        }
+      ]
+    },
+    {
+      "uid": "INV6321WQ",
+      "rid": 17951,
+      "hash": "e907190ca6e5d4f47a3231db0bd8dc8b2e721c96e2cdc2f6985419645046aff0",
+      "t": 21087,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2025-11-25T02:45:06Z",
+      "zip": "00021087_STEAM_0_1_29970948_20251125-024506.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_eastwood-20251125-#INV6321WQ.analysis.json",
+          "off": 81,
+          "size": 163335
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_eastwood-20251125-#INV6321WQ.dem",
+          "off": 163487,
+          "size": 170922
+        },
+        {
+          "type": "replay",
+          "name": "17951.replay.xz",
+          "off": 334454,
+          "size": 24460
+        }
+      ]
+    }
+  ]
+}

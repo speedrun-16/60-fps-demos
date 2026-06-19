@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_alcium",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "HLDFX5641",
+      "rid": 24158,
+      "hash": "9ae42e92109a13cfdfda81daa17377bb9fe29c08858e3e7245fdf7567a87dffb",
+      "t": 9104,
+      "sid": "STEAM_0:1:408712",
+      "at": "2025-12-27T15:51:04Z",
+      "zip": "00009104_STEAM_0_1_408712_20251227-155104.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_alcium-20251227-#HLDFX5641.analysis.json",
+          "off": 79,
+          "size": 87419
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_alcium-20251227-#HLDFX5641.dem",
+          "off": 87567,
+          "size": 97430
+        },
+        {
+          "type": "replay",
+          "name": "24158.replay.xz",
+          "off": 185042,
+          "size": 12244
+        }
+      ]
+    }
+  ]
+}

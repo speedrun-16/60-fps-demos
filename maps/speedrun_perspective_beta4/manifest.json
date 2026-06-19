@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_perspective_beta4",
+  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "runs": [
+    {
+      "uid": "OKQWC5KVW",
+      "rid": 32526,
+      "hash": "21b266e59e2648e0a87d99c70de460427f1a60704dac7ee43d47754552fb878a",
+      "t": 30956,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-02-09T01:34:31Z",
+      "zip": "00030956_STEAM_0_1_408712_20260209-013431.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_perspective_beta4-20260209-#OKQWC5KVW.analysis.json",
+          "off": 90,
+          "size": 222205
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_perspective_beta4-20260209-#OKQWC5KVW.dem",
+          "off": 222375,
+          "size": 237055
+        },
+        {
+          "type": "replay",
+          "name": "32526.replay.xz",
+          "off": 459475,
+          "size": 35532
+        }
+      ]
+    },
+    {
+      "uid": "NVP3LV4B8",
+      "rid": 26346,
+      "hash": "1dcc8ccb1333bb9bc3424461b9e6f9d446828ae78f2bde73523b4ae94e303afc",
+      "t": 30982,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2026-01-11T18:07:53Z",
+      "zip": "00030982_STEAM_0_0_24751394_20260111-180753.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_perspective_beta4-20260111-#NVP3LV4B8.analysis.json",
+          "off": 90,
+          "size": 231071
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_perspective_beta4-20260111-#NVP3LV4B8.dem",
+          "off": 231241,
+          "size": 251731
+        },
+        {
+          "type": "replay",
+          "name": "26346.replay.xz",
+          "off": 483017,
+          "size": 36232
+        }
+      ]
+    },
+    {
+      "uid": "NVEPXRUFH",
+      "rid": 46129,
+      "hash": "163bafae20b56e18a9e9e875f677fea124e224a213cb97088042c1f8d95748b8",
+      "t": 32504,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-04-28T06:50:50Z",
+      "zip": "00032504_STEAM_0_1_155808091_20260428-065050.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_perspective_beta4-20260428-#NVEPXRUFH.analysis.json",
+          "off": 90,
+          "size": 230002
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_perspective_beta4-20260428-#NVEPXRUFH.dem",
+          "off": 230172,
+          "size": 252690
+        },
+        {
+          "type": "replay",
+          "name": "46129.replay.xz",
+          "off": 482907,
+          "size": 36388
+        }
+      ]
+    }
+  ]
+}
