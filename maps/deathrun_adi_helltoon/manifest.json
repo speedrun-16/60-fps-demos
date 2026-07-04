@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_adi_helltoon",
+  "updatedAt": "2026-07-04T18:00:00.639Z",
+  "runs": [
+    {
+      "uid": "XWM90UQ8X",
+      "rid": 67393,
+      "hash": "fd4308f5d1debfa4ffb955d76faae54d9be7080f90c4c65c5adfd6a2ce435597",
+      "t": 13332,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-07-04T15:24:56.000Z",
+      "zip": "00013332_STEAM_0_1_155808091_20260704-152456.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_adi_helltoon-20260704-#XWM90UQ8X.dem",
+          "off": 75,
+          "size": 135599
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_adi_helltoon-20260704-#XWM90UQ8X.analysis.json",
+          "off": 135759,
+          "size": 110107
+        },
+        {
+          "type": "replay",
+          "name": "67393.replay.xz",
+          "off": 245911,
+          "size": 16636
+        }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-07-04T06:00:00.522Z",
+  "updatedAt": "2026-07-04T18:00:00.640Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -363,6 +363,12 @@
       "at": "2026-04-15T11:34:01Z",
       "manifest": "maps/speedrun_evi_maxfps/manifest.json"
     },
+    "deathrun_adi_helltoon": {
+      "n": 1,
+      "best": 13332,
+      "at": "2026-07-04T15:24:56.000Z",
+      "manifest": "maps/deathrun_adi_helltoon/manifest.json"
+    },
     "speedrun_runners": {
       "n": 3,
       "best": 16740,
@@ -632,6 +638,12 @@
       "best": 11383,
       "at": "2026-05-22T18:54:28Z",
       "manifest": "maps/speedrun_opcode_medium_beta3/manifest.json"
+    },
+    "speedrun_bliggle": {
+      "n": 1,
+      "best": 29833,
+      "at": "2026-07-04T16:18:06.000Z",
+      "manifest": "maps/speedrun_bliggle/manifest.json"
     },
     "speedrun_chemicalz": {
       "n": 2,

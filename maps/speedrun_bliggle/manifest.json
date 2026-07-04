@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_bliggle",
+  "updatedAt": "2026-07-04T18:00:00.640Z",
+  "runs": [
+    {
+      "uid": "LUTQBWTCY",
+      "rid": 67409,
+      "hash": "7646d8a5bad88907f9e93fd72d682e9828dc1f922dbd84faf438a7018e571a0c",
+      "t": 29833,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-07-04T16:18:06.000Z",
+      "zip": "00029833_STEAM_0_1_155808091_20260704-161806.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_bliggle-20260704-#LUTQBWTCY.dem",
+          "off": 70,
+          "size": 241775
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_bliggle-20260704-#LUTQBWTCY.analysis.json",
+          "off": 241925,
+          "size": 209905
+        },
+        {
+          "type": "replay",
+          "name": "67409.replay.xz",
+          "off": 451875,
+          "size": 34192
+        }
+      ]
+    }
+  ]
+}
