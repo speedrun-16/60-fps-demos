@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-07-04T18:00:00.640Z",
+  "updatedAt": "2026-07-05T00:00:00.701Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -340,9 +340,9 @@
       "manifest": "maps/deathrun_greenworld_v1/manifest.json"
     },
     "speedrun_tr": {
-      "n": 1,
-      "best": 18247,
-      "at": "2025-11-20T19:10:40Z",
+      "n": 4,
+      "best": 17989,
+      "at": "2026-07-04T21:58:42.000Z",
       "manifest": "maps/speedrun_tr/manifest.json"
     },
     "speedrun_r3x": {
@@ -598,9 +598,9 @@
       "manifest": "maps/speedrun_sunnies_short/manifest.json"
     },
     "speedrun_triskelion_ruins_beta2": {
-      "n": 3,
+      "n": 4,
       "best": 15748,
-      "at": "2025-12-25T22:05:57Z",
+      "at": "2026-07-04T22:44:02.000Z",
       "manifest": "maps/speedrun_triskelion_ruins_beta2/manifest.json"
     },
     "speedrun_spiral": {

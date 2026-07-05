@@ -7,7 +7,7 @@ Personal best demo archive for the 60 FPS category.
 | Metric | Value |
 | :-- | --: |
 | Maps | 145 |
-| Archived PBs | 328 |
+| Archived PBs | 332 |
 | Latest Update | 2026-07-04 |
 
 ## Structure

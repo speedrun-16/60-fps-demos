@@ -1,7 +1,94 @@
 {
   "map": "speedrun_tr",
-  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "updatedAt": "2026-07-05T00:00:00.701Z",
   "runs": [
+    {
+      "uid": "QZ1AH0YQI",
+      "rid": 67694,
+      "hash": "941b95ce052e9a8439900e4f6babf5a49583dcf71199b773a92b22b89502ac3a",
+      "t": 17989,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-04T21:58:42.000Z",
+      "zip": "00017989_STEAM_0_1_771348382_20260704-215842.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_tr-20260704-#QZ1AH0YQI.dem",
+          "off": 65,
+          "size": 180085
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_tr-20260704-#QZ1AH0YQI.analysis.json",
+          "off": 180225,
+          "size": 135324
+        },
+        {
+          "type": "replay",
+          "name": "67694.replay.xz",
+          "off": 315594,
+          "size": 22044
+        }
+      ]
+    },
+    {
+      "uid": "N4N9XJOS9",
+      "rid": 67680,
+      "hash": "071540eb49ee5a35546d5f401166355c9909729fdc89a8d0ed82e63da2127228",
+      "t": 18073,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-04T21:52:46.000Z",
+      "zip": "00018073_STEAM_0_0_631815948_20260704-215246.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_tr-20260704-#N4N9XJOS9.dem",
+          "off": 65,
+          "size": 165287
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_tr-20260704-#N4N9XJOS9.analysis.json",
+          "off": 165427,
+          "size": 133493
+        },
+        {
+          "type": "replay",
+          "name": "67680.replay.xz",
+          "off": 298965,
+          "size": 21840
+        }
+      ]
+    },
+    {
+      "uid": "XFQVVX9KS",
+      "rid": 67478,
+      "hash": "dafe252b5f979f18b85085e169210a54a0f897d1ca7c4bc58a1dee1078e2f8ef",
+      "t": 18187,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-07-04T19:42:51.000Z",
+      "zip": "00018187_STEAM_0_1_155808091_20260704-194251.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_tr-20260704-#XFQVVX9KS.dem",
+          "off": 65,
+          "size": 155209
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_tr-20260704-#XFQVVX9KS.analysis.json",
+          "off": 155349,
+          "size": 129478
+        },
+        {
+          "type": "replay",
+          "name": "67478.replay.xz",
+          "off": 284872,
+          "size": 22264
+        }
+      ]
+    },
     {
       "uid": "MVYZIKZ5L",
       "rid": 16245,
