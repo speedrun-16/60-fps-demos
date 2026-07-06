@@ -1,33 +1,62 @@
 {
   "map": "speedrun_celerior_beta1",
-  "updatedAt": "2026-07-06T06:00:00.468Z",
+  "updatedAt": "2026-07-06T18:00:04.669Z",
   "runs": [
     {
-      "uid": "TCBVQMXTL",
-      "rid": 68104,
-      "hash": "742d96d7477c1f4c43c87aa4a156c46d847751f2b755d1e03c267a08cd52daa8",
-      "t": 22894,
+      "uid": "Z1S78UTBB",
+      "rid": 68369,
+      "hash": "9072673a3af2d9117a50edf0d71705ee17d7f3f3bd7fb6425bcea1b6fd992736",
+      "t": 22447,
       "sid": "STEAM_0:1:155808091",
-      "at": "2026-07-06T00:08:09.000Z",
-      "zip": "00022894_STEAM_0_1_155808091_20260706-000809.zip",
+      "at": "2026-07-06T16:40:21.000Z",
+      "zip": "00022447_STEAM_0_1_155808091_20260706-164021.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_celerior_beta1-20260706-#TCBVQMXTL.dem",
+          "name": "speedrun_celerior_beta1-20260706-#Z1S78UTBB.dem",
           "off": 77,
-          "size": 200932
+          "size": 189842
         },
         {
           "type": "analysis",
-          "name": "speedrun_celerior_beta1-20260706-#TCBVQMXTL.analysis.json",
-          "off": 201096,
-          "size": 165883
+          "name": "speedrun_celerior_beta1-20260706-#Z1S78UTBB.analysis.json",
+          "off": 190006,
+          "size": 160010
         },
         {
           "type": "replay",
-          "name": "68104.replay.xz",
-          "off": 367024,
-          "size": 27236
+          "name": "68369.replay.xz",
+          "off": 350061,
+          "size": 27052
+        }
+      ]
+    },
+    {
+      "uid": "C5YX55FT1",
+      "rid": 68346,
+      "hash": "f4d8128bab58b0fa2f44eb5c2bf9b06419f0dc12f9c4d5e3390e4a4cf2a02d89",
+      "t": 23135,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-06T15:37:56.000Z",
+      "zip": "00023135_STEAM_0_1_771348382_20260706-153756.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_celerior_beta1-20260706-#C5YX55FT1.dem",
+          "off": 77,
+          "size": 209264
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_celerior_beta1-20260706-#C5YX55FT1.analysis.json",
+          "off": 209428,
+          "size": 157846
+        },
+        {
+          "type": "replay",
+          "name": "68346.replay.xz",
+          "off": 367319,
+          "size": 29388
         }
       ]
     }
