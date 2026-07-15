@@ -1,7 +1,36 @@
 {
   "map": "de_inferno",
-  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "updatedAt": "2026-07-15T12:00:01.076Z",
   "runs": [
+    {
+      "uid": "GIXIAEHU1",
+      "rid": 70296,
+      "hash": "c8eb7f45bd28d2b779b5d899b97f04c0f7c290526600f09f57fbd2353ff76d5b",
+      "t": 8988,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-15T06:58:51.000Z",
+      "zip": "00008988_STEAM_0_1_771348382_20260715-065851.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "de_inferno-20260715-#GIXIAEHU1.dem",
+          "off": 64,
+          "size": 102143
+        },
+        {
+          "type": "analysis",
+          "name": "de_inferno-20260715-#GIXIAEHU1.analysis.json",
+          "off": 102281,
+          "size": 76284
+        },
+        {
+          "type": "replay",
+          "name": "70296.replay.xz",
+          "off": 178610,
+          "size": 11784
+        }
+      ]
+    },
     {
       "uid": "X21VNONMY",
       "rid": 12811,
