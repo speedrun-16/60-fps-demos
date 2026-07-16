@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-07-15T12:00:01.076Z",
+  "updatedAt": "2026-07-16T00:00:00.437Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -830,6 +830,12 @@
       "best": 30159,
       "at": "2026-05-19T15:38:35Z",
       "manifest": "maps/speedrun_euphoria/manifest.json"
+    },
+    "deathrun_aztec_hd": {
+      "n": 1,
+      "best": 16745,
+      "at": "2026-07-15T18:38:28.000Z",
+      "manifest": "maps/deathrun_aztec_hd/manifest.json"
     },
     "deathrun_grass": {
       "n": 2,

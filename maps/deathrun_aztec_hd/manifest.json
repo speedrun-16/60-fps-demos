@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_aztec_hd",
+  "updatedAt": "2026-07-16T00:00:00.437Z",
+  "runs": [
+    {
+      "uid": "YVXH8YUWC",
+      "rid": 70723,
+      "hash": "973236d00cab23cb942d627b49a9edbfbe928cfc2ee1672d5445464a3e169a9a",
+      "t": 16745,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-07-15T18:38:28.000Z",
+      "zip": "00016745_STEAM_0_1_155808091_20260715-183828.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_aztec_hd-20260715-#YVXH8YUWC.dem",
+          "off": 71,
+          "size": 143187
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_aztec_hd-20260715-#YVXH8YUWC.analysis.json",
+          "off": 143339,
+          "size": 128630
+        },
+        {
+          "type": "replay",
+          "name": "70723.replay.xz",
+          "off": 272014,
+          "size": 19456
+        }
+      ]
+    }
+  ]
+}
