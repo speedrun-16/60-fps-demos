@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-07-20T06:00:00.421Z",
+  "updatedAt": "2026-07-22T00:00:07.241Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -788,6 +788,12 @@
       "best": 23140,
       "at": "2026-04-29T13:29:48Z",
       "manifest": "maps/speedrun_aqua/manifest.json"
+    },
+    "deathrun_rock-n-run_remix": {
+      "n": 2,
+      "best": 26162,
+      "at": "2026-07-21T20:17:46.000Z",
+      "manifest": "maps/deathrun_rock-n-run_remix/manifest.json"
     },
     "speedrun_funeral": {
       "n": 2,

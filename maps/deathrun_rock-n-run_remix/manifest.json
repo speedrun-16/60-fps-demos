@@ -1,0 +1,64 @@
+{
+  "map": "deathrun_rock-n-run_remix",
+  "updatedAt": "2026-07-22T00:00:07.241Z",
+  "runs": [
+    {
+      "uid": "H6B2YS84N",
+      "rid": 73607,
+      "hash": "e054fa10591bbe62935aaef908f423a7e47c9d039ee35670955acd5f8a00ae82",
+      "t": 26162,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-21T20:17:46.000Z",
+      "zip": "00026162_STEAM_0_1_771348382_20260721-201746.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_rock-n-run_remix-20260721-#H6B2YS84N.dem",
+          "off": 79,
+          "size": 215870
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_rock-n-run_remix-20260721-#H6B2YS84N.analysis.json",
+          "off": 216038,
+          "size": 163527
+        },
+        {
+          "type": "replay",
+          "name": "73607.replay.xz",
+          "off": 379610,
+          "size": 31424
+        }
+      ]
+    },
+    {
+      "uid": "4J244HDHL",
+      "rid": 73564,
+      "hash": "9832b68ed28d1918388973626e77037220ba52909d6a96afdeaa56ab315d26ef",
+      "t": 30135,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-07-21T18:33:37.000Z",
+      "zip": "00030135_STEAM_0_1_408712_20260721-183337.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_rock-n-run_remix-20260721-#4J244HDHL.dem",
+          "off": 79,
+          "size": 284639
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_rock-n-run_remix-20260721-#4J244HDHL.analysis.json",
+          "off": 284807,
+          "size": 220820
+        },
+        {
+          "type": "replay",
+          "name": "73564.replay.xz",
+          "off": 505672,
+          "size": 35020
+        }
+      ]
+    }
+  ]
+}
