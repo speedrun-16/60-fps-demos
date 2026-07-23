@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_hiddenlab",
+  "updatedAt": "2026-07-23T00:00:07.051Z",
+  "runs": [
+    {
+      "uid": "CWT7GUT6U",
+      "rid": 74058,
+      "hash": "dc5af4b1b26284b07eacaade15472d9af1cd1c5e5562ea2489f256ca7b026941",
+      "t": 15047,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-07-22T20:26:42.000Z",
+      "zip": "00015047_STEAM_0_1_771348382_20260722-202642.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_hiddenlab-20260722-#CWT7GUT6U.dem",
+          "off": 72,
+          "size": 145615
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_hiddenlab-20260722-#CWT7GUT6U.analysis.json",
+          "off": 145769,
+          "size": 117845
+        },
+        {
+          "type": "replay",
+          "name": "74058.replay.xz",
+          "off": 263659,
+          "size": 19816
+        }
+      ]
+    }
+  ]
+}
