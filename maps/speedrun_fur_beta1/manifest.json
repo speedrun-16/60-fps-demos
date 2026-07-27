@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_fur_beta1",
+  "updatedAt": "2026-07-27T12:00:01.608Z",
+  "runs": [
+    {
+      "uid": "AEMWAYRNB",
+      "rid": 75553,
+      "hash": "7f823f5c6426b93b1fe3484a83ba08a85d2c078e760d228dcf6a4b520629ea26",
+      "t": 769422,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-07-27T09:20:06.000Z",
+      "zip": "00769422_STEAM_0_0_631815948_20260727-092006.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_fur_beta1-20260727-#AEMWAYRNB.dem",
+          "off": 72,
+          "size": 5007717
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_fur_beta1-20260727-#AEMWAYRNB.analysis.json",
+          "off": 5007871,
+          "size": 4709297
+        },
+        {
+          "type": "replay",
+          "name": "75553.replay.xz",
+          "off": 9717213,
+          "size": 746808
+        }
+      ]
+    }
+  ]
+}
