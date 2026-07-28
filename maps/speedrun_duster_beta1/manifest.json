@@ -1,33 +1,33 @@
 {
   "map": "speedrun_duster_beta1",
-  "updatedAt": "2026-07-28T00:00:00.809Z",
+  "updatedAt": "2026-07-28T06:00:04.618Z",
   "runs": [
     {
-      "uid": "EFXLF6R9N",
-      "rid": 75872,
-      "hash": "053bd1808358f7a87a1a68a7426e20dafa7dc34e58dbfb816643740e0abe2fb0",
-      "t": 26535,
+      "uid": "BMWGS0K5P",
+      "rid": 75883,
+      "hash": "806ea0d10bd8b447c192b4e56fd55516fe349b259de22ad23835191b3482e92c",
+      "t": 26486,
       "sid": "STEAM_0:1:771348382",
-      "at": "2026-07-27T23:58:30.000Z",
-      "zip": "00026535_STEAM_0_1_771348382_20260727-235830.zip",
+      "at": "2026-07-28T00:15:42.000Z",
+      "zip": "00026486_STEAM_0_1_771348382_20260728-001542.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_duster_beta1-20260727-#EFXLF6R9N.dem",
+          "name": "speedrun_duster_beta1-20260728-#BMWGS0K5P.dem",
           "off": 75,
-          "size": 236998
+          "size": 242652
         },
         {
           "type": "analysis",
-          "name": "speedrun_duster_beta1-20260727-#EFXLF6R9N.analysis.json",
-          "off": 237158,
-          "size": 190866
+          "name": "speedrun_duster_beta1-20260728-#BMWGS0K5P.analysis.json",
+          "off": 242812,
+          "size": 189437
         },
         {
           "type": "replay",
-          "name": "75872.replay.xz",
-          "off": 428069,
-          "size": 29736
+          "name": "75883.replay.xz",
+          "off": 432294,
+          "size": 29404
         }
       ]
     }
