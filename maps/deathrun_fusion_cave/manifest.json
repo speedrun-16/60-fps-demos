@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_fusion_cave",
+  "updatedAt": "2026-07-30T18:00:00.428Z",
+  "runs": [
+    {
+      "uid": "JFUWX3LY7",
+      "rid": 76625,
+      "hash": "26bc261cc263c679d2a60b3e05f476905c764be9ed600485764bb9770c0f7515",
+      "t": 16955,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-07-30T15:44:45.000Z",
+      "zip": "00016955_STEAM_0_1_155808091_20260730-154445.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_fusion_cave-20260730-#JFUWX3LY7.dem",
+          "off": 74,
+          "size": 170234
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_fusion_cave-20260730-#JFUWX3LY7.analysis.json",
+          "off": 170392,
+          "size": 144502
+        },
+        {
+          "type": "replay",
+          "name": "76625.replay.xz",
+          "off": 314939,
+          "size": 21196
+        }
+      ]
+    }
+  ]
+}
