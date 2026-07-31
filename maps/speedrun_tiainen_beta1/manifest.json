@@ -1,33 +1,33 @@
 {
   "map": "speedrun_tiainen_beta1",
-  "updatedAt": "2026-07-31T00:00:04.537Z",
+  "updatedAt": "2026-07-31T06:00:03.981Z",
   "runs": [
     {
-      "uid": "MRH7JSWDB",
-      "rid": 76637,
-      "hash": "6bb469beaf321f531f9bf97873b89e8668184f80acd0eaa9fdcf5c8239448da3",
-      "t": 66225,
+      "uid": "LSKX9VXPE",
+      "rid": 76651,
+      "hash": "1fcecfc43cc87369c3c0edae5f08442cd4b12f3c1f58b6417323336e5db6a4a0",
+      "t": 65599,
       "sid": "STEAM_0:1:155808091",
-      "at": "2026-07-30T21:31:49.000Z",
-      "zip": "00066225_STEAM_0_1_155808091_20260730-213149.zip",
+      "at": "2026-07-31T03:50:31.000Z",
+      "zip": "00065599_STEAM_0_1_155808091_20260731-035031.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_tiainen_beta1-20260730-#MRH7JSWDB.dem",
+          "name": "speedrun_tiainen_beta1-20260731-#LSKX9VXPE.dem",
           "off": 76,
-          "size": 474036
+          "size": 463649
         },
         {
           "type": "analysis",
-          "name": "speedrun_tiainen_beta1-20260730-#MRH7JSWDB.analysis.json",
-          "off": 474198,
-          "size": 430233
+          "name": "speedrun_tiainen_beta1-20260731-#LSKX9VXPE.analysis.json",
+          "off": 463811,
+          "size": 369278
         },
         {
           "type": "replay",
-          "name": "76637.replay.xz",
-          "off": 904476,
-          "size": 75576
+          "name": "76651.replay.xz",
+          "off": 833134,
+          "size": 74360
         }
       ]
     }
