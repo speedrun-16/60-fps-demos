@@ -1,4 +1,4 @@
-# speedrun_phe3
+# speedrun_revived_odd_max
 
 Personal best demo archive for this map in the 60 FPS category.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in the 60 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 3 |
+| Archived PBs | 2 |
 | Latest Update | 2026-08-01 |
 
 ## Structure
