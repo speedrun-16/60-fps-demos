@@ -1,6 +1,6 @@
 {
   "map": "deathrun_rock-n-run_remix",
-  "updatedAt": "2026-07-22T00:00:07.241Z",
+  "updatedAt": "2026-08-03T18:00:01.195Z",
   "runs": [
     {
       "uid": "H6B2YS84N",
@@ -28,6 +28,35 @@
           "name": "73607.replay.xz",
           "off": 379610,
           "size": 31424
+        }
+      ]
+    },
+    {
+      "uid": "WTMUAPIL6",
+      "rid": 77536,
+      "hash": "d550dfb77fb4d65da874c00838c490f14edd1a98b64800083d9dd5923a22934e",
+      "t": 29955,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-03T13:46:46.000Z",
+      "zip": "00029955_STEAM_0_1_155808091_20260803-134646.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_rock-n-run_remix-20260803-#WTMUAPIL6.dem",
+          "off": 79,
+          "size": 238594
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_rock-n-run_remix-20260803-#WTMUAPIL6.analysis.json",
+          "off": 238762,
+          "size": 211739
+        },
+        {
+          "type": "replay",
+          "name": "77536.replay.xz",
+          "off": 450546,
+          "size": 35180
         }
       ]
     },

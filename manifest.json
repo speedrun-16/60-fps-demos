@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-03T06:00:04.482Z",
+  "updatedAt": "2026-08-03T18:00:01.195Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -328,9 +328,9 @@
       "manifest": "maps/speedrun_faster/manifest.json"
     },
     "speedrun_neocist": {
-      "n": 5,
-      "best": 21367,
-      "at": "2026-05-29T18:17:47Z",
+      "n": 6,
+      "best": 21347,
+      "at": "2026-08-03T15:01:38.000Z",
       "manifest": "maps/speedrun_neocist/manifest.json"
     },
     "speedrun_mnogostrafe2": {
@@ -374,6 +374,12 @@
       "best": 20271,
       "at": "2025-11-25T02:45:57Z",
       "manifest": "maps/speedrun_eastwood/manifest.json"
+    },
+    "speedrun_w00dfun_nw": {
+      "n": 2,
+      "best": 15102,
+      "at": "2026-08-03T17:33:47.000Z",
+      "manifest": "maps/speedrun_w00dfun_nw/manifest.json"
     },
     "speedrun_amel": {
       "n": 3,
@@ -838,9 +844,9 @@
       "manifest": "maps/speedrun_aqua/manifest.json"
     },
     "deathrun_rock-n-run_remix": {
-      "n": 2,
+      "n": 3,
       "best": 26162,
-      "at": "2026-07-21T20:17:46.000Z",
+      "at": "2026-08-03T13:46:46.000Z",
       "manifest": "maps/deathrun_rock-n-run_remix/manifest.json"
     },
     "speedrun_funeral": {
