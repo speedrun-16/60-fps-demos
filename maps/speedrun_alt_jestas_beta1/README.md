@@ -1,4 +1,4 @@
-# speedrun_duster_beta1
+# speedrun_alt_jestas_beta1
 
 Personal best demo archive for this map in the 60 FPS category.
 

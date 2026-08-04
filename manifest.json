@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-04T00:00:00.484Z",
+  "updatedAt": "2026-08-04T06:00:04.357Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -89,8 +89,8 @@
     },
     "speedrun_duster_beta1": {
       "n": 2,
-      "best": 26320,
-      "at": "2026-08-03T22:18:46.000Z",
+      "best": 26178,
+      "at": "2026-08-04T02:02:19.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
@@ -302,6 +302,12 @@
       "best": 9561,
       "at": "2025-12-27T11:13:31Z",
       "manifest": "maps/de_aztec/manifest.json"
+    },
+    "speedrun_alt_terassi": {
+      "n": 1,
+      "best": 24277,
+      "at": "2026-08-04T03:30:16.000Z",
+      "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
       "n": 1,
@@ -890,6 +896,12 @@
       "best": 18080,
       "at": "2025-11-28T02:48:55Z",
       "manifest": "maps/speedrun_several_trilogy/manifest.json"
+    },
+    "speedrun_alt_jestas_beta1": {
+      "n": 2,
+      "best": 20484,
+      "at": "2026-08-04T04:48:48.000Z",
+      "manifest": "maps/speedrun_alt_jestas_beta1/manifest.json"
     },
     "de_train": {
       "n": 3,
