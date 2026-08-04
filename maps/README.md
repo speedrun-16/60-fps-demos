@@ -6,8 +6,8 @@ Map-level archive directory for the 60 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 159 |
-| Archived PBs | 362 |
+| Maps | 160 |
+| Archived PBs | 364 |
 | Latest Update | 2026-08-03 |
 
 ## Structure
