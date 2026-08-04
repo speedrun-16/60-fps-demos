@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-04T06:00:04.357Z",
+  "updatedAt": "2026-08-04T18:00:04.819Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -898,9 +898,9 @@
       "manifest": "maps/speedrun_several_trilogy/manifest.json"
     },
     "speedrun_alt_jestas_beta1": {
-      "n": 2,
-      "best": 20484,
-      "at": "2026-08-04T04:48:48.000Z",
+      "n": 3,
+      "best": 20067,
+      "at": "2026-08-04T16:53:40.000Z",
       "manifest": "maps/speedrun_alt_jestas_beta1/manifest.json"
     },
     "de_train": {
