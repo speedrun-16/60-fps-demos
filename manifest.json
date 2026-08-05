@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-05T06:00:00.828Z",
+  "updatedAt": "2026-08-05T12:00:00.443Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -154,9 +154,9 @@
       "manifest": "maps/speedrun_w00dfun/manifest.json"
     },
     "speedrun_outside_estonia": {
-      "n": 1,
-      "best": 12172,
-      "at": "2026-05-15T23:08:57Z",
+      "n": 2,
+      "best": 12151,
+      "at": "2026-08-05T11:10:34.000Z",
       "manifest": "maps/speedrun_outside_estonia/manifest.json"
     },
     "speedrun_artakey_no_ramp": {
