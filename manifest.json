@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-04T18:00:04.819Z",
+  "updatedAt": "2026-08-05T00:00:00.702Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -88,9 +88,9 @@
       "manifest": "maps/speedrun_sudpi/manifest.json"
     },
     "speedrun_duster_beta1": {
-      "n": 2,
-      "best": 26178,
-      "at": "2026-08-04T02:02:19.000Z",
+      "n": 3,
+      "best": 26072,
+      "at": "2026-08-04T23:43:40.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
@@ -659,8 +659,8 @@
     },
     "speedrun_pryda_v2": {
       "n": 6,
-      "best": 13549,
-      "at": "2026-04-28T07:02:58Z",
+      "best": 13528,
+      "at": "2026-08-04T21:06:10.000Z",
       "manifest": "maps/speedrun_pryda_v2/manifest.json"
     },
     "speedrun_sunnies_short": {
@@ -719,8 +719,8 @@
     },
     "speedrun_spg_b1": {
       "n": 2,
-      "best": 28818,
-      "at": "2026-07-05T17:37:05.000Z",
+      "best": 28598,
+      "at": "2026-08-04T23:08:24.000Z",
       "manifest": "maps/speedrun_spg_b1/manifest.json"
     },
     "speedrun_chemicalz": {
