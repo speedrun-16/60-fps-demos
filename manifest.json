@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-05T12:00:00.443Z",
+  "updatedAt": "2026-08-05T18:00:00.660Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -154,9 +154,9 @@
       "manifest": "maps/speedrun_w00dfun/manifest.json"
     },
     "speedrun_outside_estonia": {
-      "n": 2,
-      "best": 12151,
-      "at": "2026-08-05T11:10:34.000Z",
+      "n": 3,
+      "best": 12117,
+      "at": "2026-08-05T14:43:51.000Z",
       "manifest": "maps/speedrun_outside_estonia/manifest.json"
     },
     "speedrun_artakey_no_ramp": {
@@ -239,8 +239,8 @@
     },
     "speedrun_celer": {
       "n": 2,
-      "best": 11892,
-      "at": "2026-08-03T01:27:31.000Z",
+      "best": 11887,
+      "at": "2026-08-05T15:01:11.000Z",
       "manifest": "maps/speedrun_celer/manifest.json"
     },
     "speedrun_meowkatozz_demise": {
@@ -551,8 +551,8 @@
     },
     "speedrun_lumina_beta3": {
       "n": 2,
-      "best": 40644,
-      "at": "2026-05-03T16:02:59Z",
+      "best": 40339,
+      "at": "2026-08-05T16:24:57.000Z",
       "manifest": "maps/speedrun_lumina_beta3/manifest.json"
     },
     "speedrun_retro_pro": {
@@ -599,8 +599,8 @@
     },
     "speedrun_small_white": {
       "n": 4,
-      "best": 12268,
-      "at": "2026-08-05T04:50:38.000Z",
+      "best": 12266,
+      "at": "2026-08-05T14:36:18.000Z",
       "manifest": "maps/speedrun_small_white/manifest.json"
     },
     "speedrun_wampirex": {
