@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-05T00:00:00.702Z",
+  "updatedAt": "2026-08-05T06:00:00.828Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -122,6 +122,12 @@
       "best": 20058,
       "at": "2026-04-12T16:35:49Z",
       "manifest": "maps/speedrun_svet/manifest.json"
+    },
+    "speedrun_celerior": {
+      "n": 2,
+      "best": 22369,
+      "at": "2026-08-05T01:45:02.000Z",
+      "manifest": "maps/speedrun_celerior/manifest.json"
     },
     "speedrun_bieber_maxfps": {
       "n": 1,
@@ -435,6 +441,12 @@
       "at": "2026-04-15T11:34:01Z",
       "manifest": "maps/speedrun_evi_maxfps/manifest.json"
     },
+    "speedrun_sunnies": {
+      "n": 1,
+      "best": 20120,
+      "at": "2026-08-05T02:33:40.000Z",
+      "manifest": "maps/speedrun_sunnies/manifest.json"
+    },
     "deathrun_adi_helltoon": {
       "n": 1,
       "best": 13332,
@@ -586,9 +598,9 @@
       "manifest": "maps/speedrun_yagrehsart_100fps/manifest.json"
     },
     "speedrun_small_white": {
-      "n": 2,
-      "best": 12381,
-      "at": "2026-07-27T20:11:28.000Z",
+      "n": 4,
+      "best": 12268,
+      "at": "2026-08-05T04:50:38.000Z",
       "manifest": "maps/speedrun_small_white/manifest.json"
     },
     "speedrun_wampirex": {
