@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-05T18:00:00.660Z",
+  "updatedAt": "2026-08-06T00:00:00.491Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -702,7 +702,7 @@
     "speedrun_aurea": {
       "n": 4,
       "best": 32408,
-      "at": "2026-05-12T13:49:21Z",
+      "at": "2026-08-05T20:13:03.000Z",
       "manifest": "maps/speedrun_aurea/manifest.json"
     },
     "speedrun_opcode_medium_beta2": {
@@ -712,9 +712,9 @@
       "manifest": "maps/speedrun_opcode_medium_beta2/manifest.json"
     },
     "speedrun_30min": {
-      "n": 3,
+      "n": 4,
       "best": 10167,
-      "at": "2026-05-16T09:33:37Z",
+      "at": "2026-08-05T20:51:23.000Z",
       "manifest": "maps/speedrun_30min/manifest.json"
     },
     "speedrun_opcode_medium_beta3": {
