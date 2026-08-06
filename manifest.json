@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-06T00:00:00.491Z",
+  "updatedAt": "2026-08-06T06:00:01.128Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -347,8 +347,8 @@
     },
     "speedrun_neocist": {
       "n": 6,
-      "best": 21347,
-      "at": "2026-08-03T15:01:38.000Z",
+      "best": 21107,
+      "at": "2026-08-06T04:04:46.000Z",
       "manifest": "maps/speedrun_neocist/manifest.json"
     },
     "speedrun_mnogostrafe2": {
