@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-07T00:00:00.538Z",
+  "updatedAt": "2026-08-07T06:00:00.645Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -212,6 +212,12 @@
       "best": 12295,
       "at": "2026-05-16T12:35:40Z",
       "manifest": "maps/speedrun_jeans_short/manifest.json"
+    },
+    "speedrun_hatemeworld_b1": {
+      "n": 1,
+      "best": 32416,
+      "at": "2026-08-07T02:04:22.000Z",
+      "manifest": "maps/speedrun_hatemeworld_b1/manifest.json"
     },
     "speedrun_Tibeck": {
       "n": 2,
@@ -621,6 +627,12 @@
       "at": "2025-10-07T23:37:27Z",
       "manifest": "maps/speedrun_simplecity/manifest.json"
     },
+    "speedrun_utug2": {
+      "n": 1,
+      "best": 19544,
+      "at": "2026-08-07T02:15:40.000Z",
+      "manifest": "maps/speedrun_utug2/manifest.json"
+    },
     "speedrun_muhaha": {
       "n": 3,
       "best": 11643,
@@ -701,8 +713,8 @@
     },
     "speedrun_aurea": {
       "n": 4,
-      "best": 32408,
-      "at": "2026-08-05T20:13:03.000Z",
+      "best": 32383,
+      "at": "2026-08-07T03:28:58.000Z",
       "manifest": "maps/speedrun_aurea/manifest.json"
     },
     "speedrun_opcode_medium_beta2": {
@@ -760,9 +772,9 @@
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_pryda_v1": {
-      "n": 3,
-      "best": 10970,
-      "at": "2026-05-20T14:50:38Z",
+      "n": 4,
+      "best": 10968,
+      "at": "2026-08-07T00:51:59.000Z",
       "manifest": "maps/speedrun_pryda_v1/manifest.json"
     },
     "speedrun_reloaded_edition": {

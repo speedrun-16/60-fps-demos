@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_hatemeworld_b1",
+  "updatedAt": "2026-08-07T06:00:00.644Z",
+  "runs": [
+    {
+      "uid": "211DJZ7U5",
+      "rid": 78742,
+      "hash": "b2424f2eb3bb7b44eeae82a26685b17c7da3987d529d77d611d08fe835cb81c5",
+      "t": 32416,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-07T02:04:22.000Z",
+      "zip": "00032416_STEAM_0_1_155808091_20260807-020422.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_hatemeworld_b1-20260807-#211DJZ7U5.dem",
+          "off": 77,
+          "size": 250786
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_hatemeworld_b1-20260807-#211DJZ7U5.analysis.json",
+          "off": 250950,
+          "size": 217918
+        },
+        {
+          "type": "replay",
+          "name": "78742.replay.xz",
+          "off": 468913,
+          "size": 36792
+        }
+      ]
+    }
+  ]
+}
