@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_ruska_beta1",
+  "updatedAt": "2026-08-07T00:00:00.538Z",
+  "runs": [
+    {
+      "uid": "HFO323LYN",
+      "rid": 78688,
+      "hash": "2a59d16b7dbe90af219c63dc848a1da29c7eace4bc3c7e61347b4d3ab144e552",
+      "t": 54476,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-06T21:01:43.000Z",
+      "zip": "00054476_STEAM_0_1_155808091_20260806-210143.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_ruska_beta1-20260806-#HFO323LYN.dem",
+          "off": 74,
+          "size": 406462
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_ruska_beta1-20260806-#HFO323LYN.analysis.json",
+          "off": 406620,
+          "size": 349773
+        },
+        {
+          "type": "replay",
+          "name": "78688.replay.xz",
+          "off": 756438,
+          "size": 61092
+        }
+      ]
+    }
+  ]
+}

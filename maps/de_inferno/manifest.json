@@ -1,6 +1,6 @@
 {
   "map": "de_inferno",
-  "updatedAt": "2026-07-15T12:00:01.076Z",
+  "updatedAt": "2026-08-07T00:00:00.538Z",
   "runs": [
     {
       "uid": "GIXIAEHU1",
@@ -57,6 +57,35 @@
           "name": "12811.replay.xz",
           "off": 176238,
           "size": 11828
+        }
+      ]
+    },
+    {
+      "uid": "BFAKVW5TK",
+      "rid": 78698,
+      "hash": "474cebb26e74935a44ea7f471982807b89785606aa73044fbc5ebc9c479af27b",
+      "t": 9133,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-06T22:04:30.000Z",
+      "zip": "00009133_STEAM_0_1_155808091_20260806-220430.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "de_inferno-20260806-#BFAKVW5TK.dem",
+          "off": 64,
+          "size": 98651
+        },
+        {
+          "type": "analysis",
+          "name": "de_inferno-20260806-#BFAKVW5TK.analysis.json",
+          "off": 98789,
+          "size": 76574
+        },
+        {
+          "type": "replay",
+          "name": "78698.replay.xz",
+          "off": 175408,
+          "size": 12248
         }
       ]
     },

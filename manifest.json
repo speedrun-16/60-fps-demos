@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-06T18:00:04.269Z",
+  "updatedAt": "2026-08-07T00:00:00.538Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -34,9 +34,9 @@
       "manifest": "maps/speedrun_perspective_beta3/manifest.json"
     },
     "de_inferno": {
-      "n": 4,
+      "n": 5,
       "best": 8988,
-      "at": "2026-07-15T06:58:51.000Z",
+      "at": "2026-08-06T22:04:30.000Z",
       "manifest": "maps/de_inferno/manifest.json"
     },
     "speedrun_exort": {
@@ -740,6 +740,12 @@
       "best": 19139,
       "at": "2025-10-08T19:42:42Z",
       "manifest": "maps/speedrun_chemicalz/manifest.json"
+    },
+    "speedrun_ruska_beta1": {
+      "n": 1,
+      "best": 54476,
+      "at": "2026-08-06T21:01:43.000Z",
+      "manifest": "maps/speedrun_ruska_beta1/manifest.json"
     },
     "speedrun_bluepink_v2": {
       "n": 1,
