@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-07T12:00:04.395Z",
+  "updatedAt": "2026-08-08T06:00:06.446Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -104,6 +104,12 @@
       "best": 12172,
       "at": "2026-04-24T14:58:19Z",
       "manifest": "maps/speedrun_reloaded/manifest.json"
+    },
+    "speedrun_vbnstyle": {
+      "n": 1,
+      "best": 20021,
+      "at": "2026-08-08T00:18:28.000Z",
+      "manifest": "maps/speedrun_vbnstyle/manifest.json"
     },
     "deathrun_forest": {
       "n": 1,
