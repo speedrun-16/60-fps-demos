@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-10T06:00:00.415Z",
+  "updatedAt": "2026-08-11T00:00:00.441Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -250,9 +250,9 @@
       "manifest": "maps/speedrun_garden/manifest.json"
     },
     "speedrun_celer": {
-      "n": 2,
+      "n": 3,
       "best": 11887,
-      "at": "2026-08-05T15:01:11.000Z",
+      "at": "2026-08-10T20:50:51.000Z",
       "manifest": "maps/speedrun_celer/manifest.json"
     },
     "speedrun_meowkatozz_demise": {
