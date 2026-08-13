@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-13T00:00:04.674Z",
+  "updatedAt": "2026-08-13T18:00:04.127Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -76,9 +76,9 @@
       "manifest": "maps/speedrun_Domination/manifest.json"
     },
     "speedrun_pupsik": {
-      "n": 4,
+      "n": 5,
       "best": 10712,
-      "at": "2026-06-07T12:26:33Z",
+      "at": "2026-08-13T13:31:32.000Z",
       "manifest": "maps/speedrun_pupsik/manifest.json"
     },
     "speedrun_sudpi": {
