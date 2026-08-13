@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-12T06:00:00.400Z",
+  "updatedAt": "2026-08-13T00:00:04.674Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -214,9 +214,9 @@
       "manifest": "maps/speedrun_confusion3/manifest.json"
     },
     "speedrun_jeans_short": {
-      "n": 6,
+      "n": 7,
       "best": 12295,
-      "at": "2026-05-16T12:35:40Z",
+      "at": "2026-08-12T20:30:10.000Z",
       "manifest": "maps/speedrun_jeans_short/manifest.json"
     },
     "speedrun_hatemeworld_b1": {
@@ -390,7 +390,7 @@
     "speedrun_1000fps_battle": {
       "n": 9,
       "best": 11974,
-      "at": "2026-07-11T08:19:21.000Z",
+      "at": "2026-08-12T21:33:43.000Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
     "speedrun_perspective_beta2": {
