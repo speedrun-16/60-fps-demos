@@ -1,6 +1,6 @@
 {
   "map": "speedrun_trahser_fix",
-  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "updatedAt": "2026-08-16T00:00:04.596Z",
   "runs": [
     {
       "uid": "8LE629NNJ",
@@ -28,6 +28,35 @@
           "name": "25494.replay.xz",
           "off": 123962,
           "size": 7304
+        }
+      ]
+    },
+    {
+      "uid": "2RZD3X8RT",
+      "rid": 82622,
+      "hash": "3e4facbe3a8ddf63b57be907a1f3ef8852e884d5f0844ec9fb9623abbcd96ff7",
+      "t": 4968,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-15T22:09:05.000Z",
+      "zip": "00004968_STEAM_0_1_155808091_20260815-220905.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_trahser_fix-20260815-#2RZD3X8RT.dem",
+          "off": 74,
+          "size": 69845
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_trahser_fix-20260815-#2RZD3X8RT.analysis.json",
+          "off": 70003,
+          "size": 47021
+        },
+        {
+          "type": "replay",
+          "name": "82622.replay.xz",
+          "off": 117069,
+          "size": 7028
         }
       ]
     }
