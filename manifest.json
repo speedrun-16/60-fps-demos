@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-17T00:00:01.222Z",
+  "updatedAt": "2026-08-17T18:00:00.981Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -417,6 +417,12 @@
       "at": "2026-08-03T17:33:47.000Z",
       "manifest": "maps/speedrun_w00dfun_nw/manifest.json"
     },
+    "speedrun_sunnies_flat": {
+      "n": 1,
+      "best": 23430,
+      "at": "2026-08-17T13:38:00.000Z",
+      "manifest": "maps/speedrun_sunnies_flat/manifest.json"
+    },
     "speedrun_amel": {
       "n": 3,
       "best": 10170,
@@ -617,8 +623,8 @@
     },
     "speedrun_furame": {
       "n": 2,
-      "best": 24237,
-      "at": "2026-08-16T02:01:12.000Z",
+      "best": 24169,
+      "at": "2026-08-17T15:59:53.000Z",
       "manifest": "maps/speedrun_furame/manifest.json"
     },
     "speedrun_small_white": {
@@ -808,9 +814,9 @@
       "manifest": "maps/speedrun_reloaded_edition/manifest.json"
     },
     "speedrun_sunnies_night": {
-      "n": 1,
-      "best": 18736,
-      "at": "2025-12-29T15:38:17Z",
+      "n": 2,
+      "best": 18594,
+      "at": "2026-08-17T13:19:20.000Z",
       "manifest": "maps/speedrun_sunnies_night/manifest.json"
     },
     "speedrun_bunnyrace_beta2": {
@@ -874,9 +880,9 @@
       "manifest": "maps/speedrun_alcium/manifest.json"
     },
     "speedrun_red_push": {
-      "n": 1,
+      "n": 2,
       "best": 23695,
-      "at": "2026-04-15T22:52:27Z",
+      "at": "2026-08-17T13:45:33.000Z",
       "manifest": "maps/speedrun_red_push/manifest.json"
     },
     "deathrun_icemaru": {
@@ -929,8 +935,8 @@
     },
     "speedrun_chemical": {
       "n": 10,
-      "best": 11316,
-      "at": "2026-08-15T23:58:27.000Z",
+      "best": 11282,
+      "at": "2026-08-17T17:35:49.000Z",
       "manifest": "maps/speedrun_chemical/manifest.json"
     },
     "speedrun_bieber": {
@@ -964,9 +970,9 @@
       "manifest": "maps/de_train/manifest.json"
     },
     "speedrun_euphoria": {
-      "n": 1,
-      "best": 30159,
-      "at": "2026-05-19T15:38:35Z",
+      "n": 2,
+      "best": 27859,
+      "at": "2026-08-17T16:27:37.000Z",
       "manifest": "maps/speedrun_euphoria/manifest.json"
     },
     "deathrun_aztec_hd": {
@@ -992,6 +998,12 @@
       "best": 15237,
       "at": "2025-10-20T16:02:12Z",
       "manifest": "maps/speedrun_poland/manifest.json"
+    },
+    "speedrun_zhrkv": {
+      "n": 1,
+      "best": 16312,
+      "at": "2026-08-17T13:40:27.000Z",
+      "manifest": "maps/speedrun_zhrkv/manifest.json"
     },
     "deathrun_w00dfun": {
       "n": 1,

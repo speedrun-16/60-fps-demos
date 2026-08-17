@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_sunnies_flat",
+  "updatedAt": "2026-08-17T18:00:00.979Z",
+  "runs": [
+    {
+      "uid": "K154MHDRZ",
+      "rid": 83866,
+      "hash": "9b3fe1d802229f23051125bb83bb2be32b1170671a0363bde10fd058755ec27d",
+      "t": 23430,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-17T13:38:00.000Z",
+      "zip": "00023430_STEAM_0_1_155808091_20260817-133800.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_sunnies_flat-20260817-#K154MHDRZ.dem",
+          "off": 75,
+          "size": 187559
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_sunnies_flat-20260817-#K154MHDRZ.analysis.json",
+          "off": 187719,
+          "size": 168348
+        },
+        {
+          "type": "replay",
+          "name": "83866.replay.xz",
+          "off": 356112,
+          "size": 26212
+        }
+      ]
+    }
+  ]
+}
