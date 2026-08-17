@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-16T18:00:25.537Z",
+  "updatedAt": "2026-08-17T00:00:01.222Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -260,6 +260,12 @@
       "best": 24646,
       "at": "2026-04-26T01:46:33Z",
       "manifest": "maps/speedrun_meowkatozz_demise/manifest.json"
+    },
+    "speedrun_tracer": {
+      "n": 1,
+      "best": 10297,
+      "at": "2026-08-16T19:32:57.000Z",
+      "manifest": "maps/speedrun_tracer/manifest.json"
     },
     "speedrun_raduga_fix": {
       "n": 1,
@@ -676,9 +682,9 @@
       "manifest": "maps/speedrun_trasher2/manifest.json"
     },
     "speedrun_20min": {
-      "n": 2,
+      "n": 3,
       "best": 9428,
-      "at": "2026-08-16T14:40:52.000Z",
+      "at": "2026-08-16T21:49:40.000Z",
       "manifest": "maps/speedrun_20min/manifest.json"
     },
     "speedrun_perspective_beta1": {
@@ -788,6 +794,12 @@
       "best": 10968,
       "at": "2026-08-07T00:51:59.000Z",
       "manifest": "maps/speedrun_pryda_v1/manifest.json"
+    },
+    "speedrun_siano": {
+      "n": 1,
+      "best": 21189,
+      "at": "2026-08-16T18:31:34.000Z",
+      "manifest": "maps/speedrun_siano/manifest.json"
     },
     "speedrun_reloaded_edition": {
       "n": 1,
