@@ -1,6 +1,6 @@
 {
   "map": "speedrun_runners",
-  "updatedAt": "2026-07-04T06:00:00.522Z",
+  "updatedAt": "2026-08-19T18:00:00.592Z",
   "runs": [
     {
       "uid": "L2VJ4VA4P",
@@ -32,31 +32,31 @@
       ]
     },
     {
-      "uid": "9E8MJIG8A",
-      "rid": 67242,
-      "hash": "189297d19545df025af5d9c7330e8b75a5604efb560194b4e6e0f9c43309de71",
-      "t": 16812,
+      "uid": "G9BVJF0UX",
+      "rid": 84719,
+      "hash": "db61bb68124d3a4adf2bc4bff30ecf18f4be2dc7bcae3f3b3a2790d1ea11dae2",
+      "t": 16773,
       "sid": "STEAM_0:1:155808091",
-      "at": "2026-07-04T03:13:05.000Z",
-      "zip": "00016812_STEAM_0_1_155808091_20260704-031305.zip",
+      "at": "2026-08-19T16:58:33.000Z",
+      "zip": "00016773_STEAM_0_1_155808091_20260819-165833.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_runners-20260704-#9E8MJIG8A.dem",
+          "name": "speedrun_runners-20260819-#G9BVJF0UX.dem",
           "off": 70,
-          "size": 142355
+          "size": 155629
         },
         {
           "type": "analysis",
-          "name": "speedrun_runners-20260704-#9E8MJIG8A.analysis.json",
-          "off": 142505,
-          "size": 112355
+          "name": "speedrun_runners-20260819-#G9BVJF0UX.analysis.json",
+          "off": 155779,
+          "size": 123830
         },
         {
           "type": "replay",
-          "name": "67242.replay.xz",
-          "off": 254905,
-          "size": 20412
+          "name": "84719.replay.xz",
+          "off": 279654,
+          "size": 19492
         }
       ]
     },
