@@ -1,4 +1,4 @@
-# speedrun_pupsik2
+# deathrun_aztec_hd_v2_rmk
 
 Personal best demo archive for this map in the 60 FPS category.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in the 60 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 7 |
+| Archived PBs | 1 |
 | Latest Update | 2026-08-21 |
 
 ## Structure

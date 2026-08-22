@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_aztec_hd_v2_rmk",
+  "updatedAt": "2026-08-22T00:00:00.789Z",
+  "runs": [
+    {
+      "uid": "MSC8KGPLD",
+      "rid": 85542,
+      "hash": "8ba0aada3d3060c8d76436d7138f04daa8efad6d7a300e014ef37466dbd42551",
+      "t": 38559,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-08-21T21:34:38.000Z",
+      "zip": "00038559_STEAM_0_1_408712_20260821-213438.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_aztec_hd_v2_rmk-20260821-#MSC8KGPLD.dem",
+          "off": 78,
+          "size": 351446
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_aztec_hd_v2_rmk-20260821-#MSC8KGPLD.analysis.json",
+          "off": 351612,
+          "size": 263630
+        },
+        {
+          "type": "replay",
+          "name": "85542.replay.xz",
+          "off": 615287,
+          "size": 42476
+        }
+      ]
+    }
+  ]
+}
