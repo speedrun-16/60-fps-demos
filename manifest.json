@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-22T00:00:00.791Z",
+  "updatedAt": "2026-08-23T00:00:00.730Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -26,6 +26,12 @@
       "best": 14268,
       "at": "2026-08-03T20:47:15.000Z",
       "manifest": "maps/speedrun_kwadrat/manifest.json"
+    },
+    "speedrun_coan_rmk": {
+      "n": 1,
+      "best": 37017,
+      "at": "2026-08-22T22:33:42.000Z",
+      "manifest": "maps/speedrun_coan_rmk/manifest.json"
     },
     "speedrun_perspective_beta3": {
       "n": 2,
@@ -330,7 +336,7 @@
     "speedrun_nazwa-robocza": {
       "n": 3,
       "best": 14167,
-      "at": "2026-07-22T17:22:25.000Z",
+      "at": "2026-08-22T20:31:18.000Z",
       "manifest": "maps/speedrun_nazwa-robocza/manifest.json"
     },
     "speedrun_pool_simple": {
@@ -526,9 +532,9 @@
       "manifest": "maps/speedrun_toni/manifest.json"
     },
     "speedrun_phe3": {
-      "n": 3,
+      "n": 4,
       "best": 13383,
-      "at": "2026-08-01T19:34:59.000Z",
+      "at": "2026-08-22T21:07:33.000Z",
       "manifest": "maps/speedrun_phe3/manifest.json"
     },
     "cs_office": {
@@ -832,9 +838,9 @@
       "manifest": "maps/speedrun_pryda_v1/manifest.json"
     },
     "speedrun_siano": {
-      "n": 1,
-      "best": 21189,
-      "at": "2026-08-16T18:31:34.000Z",
+      "n": 2,
+      "best": 20171,
+      "at": "2026-08-22T21:38:56.000Z",
       "manifest": "maps/speedrun_siano/manifest.json"
     },
     "speedrun_reloaded_edition": {

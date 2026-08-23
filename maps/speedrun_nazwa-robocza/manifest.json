@@ -1,6 +1,6 @@
 {
   "map": "speedrun_nazwa-robocza",
-  "updatedAt": "2026-07-22T18:00:06.274Z",
+  "updatedAt": "2026-08-23T00:00:00.730Z",
   "runs": [
     {
       "uid": "CKALL0GY5",
@@ -32,6 +32,35 @@
       ]
     },
     {
+      "uid": "636HW3SBQ",
+      "rid": 85724,
+      "hash": "92420c4c0d8b8eb2b5eff5cffb46da78a717c569cf159e475ef150cab7b0b250",
+      "t": 14499,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-08-22T20:31:18.000Z",
+      "zip": "00014499_STEAM_0_1_408712_20260822-203118.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_nazwa-robocza-20260822-#636HW3SBQ.dem",
+          "off": 76,
+          "size": 151629
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_nazwa-robocza-20260822-#636HW3SBQ.analysis.json",
+          "off": 151791,
+          "size": 122226
+        },
+        {
+          "type": "replay",
+          "name": "85724.replay.xz",
+          "off": 274062,
+          "size": 18048
+        }
+      ]
+    },
+    {
       "uid": "7N1XKHOW5",
       "rid": 72536,
       "hash": "742895aa02a0f1a020b520d6c64d65c98219cc6068c4d6847a47eb9086691bab",
@@ -57,35 +86,6 @@
           "name": "72536.replay.xz",
           "off": 236751,
           "size": 18228
-        }
-      ]
-    },
-    {
-      "uid": "LTRSIOLON",
-      "rid": 73956,
-      "hash": "2a073bd041654b093b7dc8dc50499a0630171f8da6de47d8f91d140a7dcd0090",
-      "t": 15123,
-      "sid": "STEAM_0:1:408712",
-      "at": "2026-07-22T17:22:25.000Z",
-      "zip": "00015123_STEAM_0_1_408712_20260722-172225.zip",
-      "files": [
-        {
-          "type": "dem",
-          "name": "speedrun_nazwa-robocza-20260722-#LTRSIOLON.dem",
-          "off": 76,
-          "size": 135022
-        },
-        {
-          "type": "analysis",
-          "name": "speedrun_nazwa-robocza-20260722-#LTRSIOLON.analysis.json",
-          "off": 135184,
-          "size": 115804
-        },
-        {
-          "type": "replay",
-          "name": "73956.replay.xz",
-          "off": 251033,
-          "size": 18176
         }
       ]
     }
