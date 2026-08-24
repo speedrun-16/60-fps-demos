@@ -1,7 +1,36 @@
 {
   "map": "speedrun_coan_rmk",
-  "updatedAt": "2026-08-23T00:00:00.729Z",
+  "updatedAt": "2026-08-24T18:00:00.722Z",
   "runs": [
+    {
+      "uid": "REEISEAG0",
+      "rid": 86209,
+      "hash": "1ad6817dd3b2f647ce63bb2eeb373c25ae01f95557e5a22f98f871ee7105ede7",
+      "t": 31793,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-24T16:35:35.000Z",
+      "zip": "00031793_STEAM_0_1_155808091_20260824-163535.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_coan_rmk-20260824-#REEISEAG0.dem",
+          "off": 71,
+          "size": 242030
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_coan_rmk-20260824-#REEISEAG0.analysis.json",
+          "off": 242182,
+          "size": 218047
+        },
+        {
+          "type": "replay",
+          "name": "86209.replay.xz",
+          "off": 460274,
+          "size": 37008
+        }
+      ]
+    },
     {
       "uid": "S6YXN23UF",
       "rid": 85777,

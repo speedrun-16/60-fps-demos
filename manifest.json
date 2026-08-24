@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-24T12:00:00.483Z",
+  "updatedAt": "2026-08-24T18:00:00.722Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -28,9 +28,9 @@
       "manifest": "maps/speedrun_kwadrat/manifest.json"
     },
     "speedrun_coan_rmk": {
-      "n": 1,
-      "best": 37017,
-      "at": "2026-08-22T22:33:42.000Z",
+      "n": 2,
+      "best": 31793,
+      "at": "2026-08-24T16:35:35.000Z",
       "manifest": "maps/speedrun_coan_rmk/manifest.json"
     },
     "speedrun_perspective_beta3": {
@@ -107,8 +107,8 @@
     },
     "speedrun_duster_beta1": {
       "n": 3,
-      "best": 25872,
-      "at": "2026-08-19T17:42:09.000Z",
+      "best": 25832,
+      "at": "2026-08-24T14:01:13.000Z",
       "manifest": "maps/speedrun_duster_beta1/manifest.json"
     },
     "speedrun_retz": {
@@ -464,6 +464,12 @@
       "best": 10170,
       "at": "2026-02-18T18:31:17Z",
       "manifest": "maps/speedrun_amel/manifest.json"
+    },
+    "speedrun_miqu": {
+      "n": 1,
+      "best": 23217,
+      "at": "2026-08-24T17:10:14.000Z",
+      "manifest": "maps/speedrun_miqu/manifest.json"
     },
     "deathrun_greenworld_v1": {
       "n": 2,

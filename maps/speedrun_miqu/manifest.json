@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_miqu",
+  "updatedAt": "2026-08-24T18:00:00.721Z",
+  "runs": [
+    {
+      "uid": "L0FOHKUNI",
+      "rid": 86225,
+      "hash": "44b14562f3b3566c0fb1b0e4dcfa3b96720a4c620703ffd9bb6f1f76859a4c60",
+      "t": 23217,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-24T17:10:14.000Z",
+      "zip": "00023217_STEAM_0_1_155808091_20260824-171014.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_miqu-20260824-#L0FOHKUNI.dem",
+          "off": 67,
+          "size": 183780
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_miqu-20260824-#L0FOHKUNI.analysis.json",
+          "off": 183924,
+          "size": 155536
+        },
+        {
+          "type": "replay",
+          "name": "86225.replay.xz",
+          "off": 339505,
+          "size": 27000
+        }
+      ]
+    }
+  ]
+}
