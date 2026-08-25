@@ -1,4 +1,4 @@
-# speedrun_tr
+# speedrun_wonderland5_beta1
 
 Personal best demo archive for this map in the 60 FPS category.
 
@@ -6,7 +6,7 @@ Personal best demo archive for this map in the 60 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 4 |
+| Archived PBs | 2 |
 | Latest Update | 2026-08-25 |
 
 ## Structure
