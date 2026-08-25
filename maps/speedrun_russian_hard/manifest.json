@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_russian_hard",
+  "updatedAt": "2026-08-25T00:00:00.446Z",
+  "runs": [
+    {
+      "uid": "EOX4DVXYS",
+      "rid": 86284,
+      "hash": "9332dedc602787ef6a838084249a54dfb03affead52ce83a5d0468d88610c3dd",
+      "t": 19053,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-24T22:43:03.000Z",
+      "zip": "00019053_STEAM_0_1_155808091_20260824-224303.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_russian_hard-20260824-#EOX4DVXYS.dem",
+          "off": 75,
+          "size": 157727
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_russian_hard-20260824-#EOX4DVXYS.analysis.json",
+          "off": 157887,
+          "size": 138053
+        },
+        {
+          "type": "replay",
+          "name": "86284.replay.xz",
+          "off": 295985,
+          "size": 21608
+        }
+      ]
+    }
+  ]
+}
