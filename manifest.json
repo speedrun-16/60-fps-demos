@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-25T18:00:00.801Z",
+  "updatedAt": "2026-08-26T00:00:01.399Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -393,6 +393,12 @@
       "at": "2026-05-26T21:45:50Z",
       "manifest": "maps/speedrun_record/manifest.json"
     },
+    "speedrun_df_r7_brigi": {
+      "n": 5,
+      "best": 17106,
+      "at": "2026-08-25T20:26:23.000Z",
+      "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
+    },
     "speedrun_katozlandia": {
       "n": 3,
       "best": 6660,
@@ -486,7 +492,7 @@
     "speedrun_tr": {
       "n": 4,
       "best": 17989,
-      "at": "2026-08-25T17:57:50.000Z",
+      "at": "2026-08-25T18:10:52.000Z",
       "manifest": "maps/speedrun_tr/manifest.json"
     },
     "speedrun_r3x": {
@@ -688,9 +694,9 @@
       "manifest": "maps/speedrun_wampirex/manifest.json"
     },
     "speedrun_wander": {
-      "n": 2,
-      "best": 20326,
-      "at": "2026-05-26T16:06:55Z",
+      "n": 3,
+      "best": 20271,
+      "at": "2026-08-25T21:09:04.000Z",
       "manifest": "maps/speedrun_wander/manifest.json"
     },
     "speedrun_simplecity": {

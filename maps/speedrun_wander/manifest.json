@@ -1,33 +1,62 @@
 {
   "map": "speedrun_wander",
-  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "updatedAt": "2026-08-26T00:00:01.398Z",
   "runs": [
     {
-      "uid": "RNOHU4ZIU",
-      "rid": 56893,
-      "hash": "2f9d7c249a59f8e6e410bcf28824e8cb52cb54df185ce04ec1b4ba3afadbc761",
-      "t": 20326,
+      "uid": "UKSTJ5N7Y",
+      "rid": 86867,
+      "hash": "115558224c87576bbfebfe16e434740b266679e1146c9be93b0290ceb11afa8e",
+      "t": 20271,
       "sid": "STEAM_0:1:408712",
-      "at": "2026-05-26T16:06:55Z",
-      "zip": "00020326_STEAM_0_1_408712_20260526-160655.zip",
+      "at": "2026-08-25T21:02:05.000Z",
+      "zip": "00020271_STEAM_0_1_408712_20260825-210205.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_wander-20260526-#RNOHU4ZIU.analysis.json",
-          "off": 79,
-          "size": 157781
+          "type": "dem",
+          "name": "speedrun_wander-20260825-#UKSTJ5N7Y.dem",
+          "off": 69,
+          "size": 194814
         },
         {
-          "type": "dem",
-          "name": "speedrun_wander-20260526-#RNOHU4ZIU.dem",
-          "off": 157929,
-          "size": 173856
+          "type": "analysis",
+          "name": "speedrun_wander-20260825-#UKSTJ5N7Y.analysis.json",
+          "off": 194962,
+          "size": 152032
         },
         {
           "type": "replay",
-          "name": "56893.replay.xz",
-          "off": 331830,
-          "size": 24512
+          "name": "86867.replay.xz",
+          "off": 347039,
+          "size": 24456
+        }
+      ]
+    },
+    {
+      "uid": "BMRMUP9E8",
+      "rid": 86870,
+      "hash": "96b74a9fa30e7761da42be5fa135e919eba87e56146dc5ac0926d038cc94b233",
+      "t": 20303,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-25T21:09:04.000Z",
+      "zip": "00020303_STEAM_0_1_155808091_20260825-210904.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_wander-20260825-#BMRMUP9E8.dem",
+          "off": 69,
+          "size": 171925
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_wander-20260825-#BMRMUP9E8.analysis.json",
+          "off": 172073,
+          "size": 133904
+        },
+        {
+          "type": "replay",
+          "name": "86870.replay.xz",
+          "off": 306022,
+          "size": 24816
         }
       ]
     },
