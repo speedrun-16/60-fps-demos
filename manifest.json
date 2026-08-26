@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-26T00:00:01.399Z",
+  "updatedAt": "2026-08-26T12:00:00.829Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -395,8 +395,8 @@
     },
     "speedrun_df_r7_brigi": {
       "n": 5,
-      "best": 17106,
-      "at": "2026-08-25T20:26:23.000Z",
+      "best": 17057,
+      "at": "2026-08-26T09:41:07.000Z",
       "manifest": "maps/speedrun_df_r7_brigi/manifest.json"
     },
     "speedrun_katozlandia": {
@@ -454,9 +454,9 @@
       "manifest": "maps/speedrun_perspective_beta2/manifest.json"
     },
     "speedrun_eastwood": {
-      "n": 3,
-      "best": 20271,
-      "at": "2025-11-25T02:45:57Z",
+      "n": 4,
+      "best": 19530,
+      "at": "2026-08-26T09:36:26.000Z",
       "manifest": "maps/speedrun_eastwood/manifest.json"
     },
     "speedrun_w00dfun_nw": {
@@ -491,8 +491,8 @@
     },
     "speedrun_tr": {
       "n": 4,
-      "best": 17989,
-      "at": "2026-08-25T18:10:52.000Z",
+      "best": 17973,
+      "at": "2026-08-26T10:19:26.000Z",
       "manifest": "maps/speedrun_tr/manifest.json"
     },
     "speedrun_r3x": {
@@ -533,8 +533,8 @@
     },
     "speedrun_runners": {
       "n": 3,
-      "best": 16711,
-      "at": "2026-08-25T16:10:16.000Z",
+      "best": 16698,
+      "at": "2026-08-26T10:40:35.000Z",
       "manifest": "maps/speedrun_runners/manifest.json"
     },
     "speedrun_joker_maxfps": {
@@ -695,8 +695,8 @@
     },
     "speedrun_wander": {
       "n": 3,
-      "best": 20271,
-      "at": "2026-08-25T21:09:04.000Z",
+      "best": 20268,
+      "at": "2026-08-26T10:05:49.000Z",
       "manifest": "maps/speedrun_wander/manifest.json"
     },
     "speedrun_simplecity": {
