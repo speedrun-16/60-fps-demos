@@ -1,6 +1,6 @@
 {
   "map": "speedrun_wonderland5_beta1",
-  "updatedAt": "2026-08-25T18:00:00.800Z",
+  "updatedAt": "2026-08-26T18:00:05.643Z",
   "runs": [
     {
       "uid": "1K95PW9G5",
@@ -32,31 +32,60 @@
       ]
     },
     {
-      "uid": "11S3IVQJC",
-      "rid": 86370,
-      "hash": "d397b47e1ea062f9ef365a9242fde06d349b45568aa090bedca20e0abcc675e3",
-      "t": 37260,
+      "uid": "26OTEIGFI",
+      "rid": 87147,
+      "hash": "7f76b04939f678991377a45287a26cf675689b5f8efbb67f369f71467b36a5c5",
+      "t": 37076,
       "sid": "STEAM_0:1:155808091",
-      "at": "2026-08-25T16:53:03.000Z",
-      "zip": "00037260_STEAM_0_1_155808091_20260825-165303.zip",
+      "at": "2026-08-26T15:46:39.000Z",
+      "zip": "00037076_STEAM_0_1_155808091_20260826-154639.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_wonderland5_beta1-20260825-#11S3IVQJC.dem",
+          "name": "speedrun_wonderland5_beta1-20260826-#26OTEIGFI.dem",
           "off": 80,
-          "size": 278826
+          "size": 276875
         },
         {
           "type": "analysis",
-          "name": "speedrun_wonderland5_beta1-20260825-#11S3IVQJC.analysis.json",
-          "off": 278996,
-          "size": 237418
+          "name": "speedrun_wonderland5_beta1-20260826-#26OTEIGFI.analysis.json",
+          "off": 277045,
+          "size": 227453
         },
         {
           "type": "replay",
-          "name": "86370.replay.xz",
-          "off": 516459,
-          "size": 44408
+          "name": "87147.replay.xz",
+          "off": 504543,
+          "size": 44268
+        }
+      ]
+    },
+    {
+      "uid": "IRR7FUAJI",
+      "rid": 87146,
+      "hash": "3001cb79bc3c4f82743c49c3b85d99a45deb9085629442bec506909a23159faa",
+      "t": 37471,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-08-26T15:42:44.000Z",
+      "zip": "00037471_STEAM_0_0_631815948_20260826-154244.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_wonderland5_beta1-20260826-#IRR7FUAJI.dem",
+          "off": 80,
+          "size": 300081
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_wonderland5_beta1-20260826-#IRR7FUAJI.analysis.json",
+          "off": 300251,
+          "size": 248726
+        },
+        {
+          "type": "replay",
+          "name": "87146.replay.xz",
+          "off": 549022,
+          "size": 43920
         }
       ]
     }

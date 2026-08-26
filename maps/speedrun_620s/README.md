@@ -1,4 +1,4 @@
-# speedrun_wonderland5_beta1
+# speedrun_620s
 
 Personal best demo archive for this map in the 60 FPS category.
 
