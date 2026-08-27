@@ -1,62 +1,62 @@
 {
   "map": "speedrun_eastwood",
-  "updatedAt": "2026-08-26T12:00:00.828Z",
+  "updatedAt": "2026-08-27T00:00:00.740Z",
   "runs": [
     {
-      "uid": "KPBJ5DNGZ",
-      "rid": 86901,
-      "hash": "7559a63618fce7e8130e3f5ac60f50d3e951314631fc71882753ad622de7c9de",
-      "t": 19530,
+      "uid": "PV57PK4FO",
+      "rid": 87166,
+      "hash": "4fedcce11e08e028eec1f64aab26ec6286c050481297a605ae95ef59f628aca7",
+      "t": 19465,
       "sid": "STEAM_0:1:155808091",
-      "at": "2026-08-26T09:36:26.000Z",
-      "zip": "00019530_STEAM_0_1_155808091_20260826-093626.zip",
+      "at": "2026-08-26T18:20:59.000Z",
+      "zip": "00019465_STEAM_0_1_155808091_20260826-182059.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_eastwood-20260826-#KPBJ5DNGZ.dem",
+          "name": "speedrun_eastwood-20260826-#PV57PK4FO.dem",
           "off": 71,
-          "size": 156433
+          "size": 158396
         },
         {
           "type": "analysis",
-          "name": "speedrun_eastwood-20260826-#KPBJ5DNGZ.analysis.json",
-          "off": 156585,
-          "size": 135869
+          "name": "speedrun_eastwood-20260826-#PV57PK4FO.analysis.json",
+          "off": 158548,
+          "size": 134300
         },
         {
           "type": "replay",
-          "name": "86901.replay.xz",
-          "off": 292499,
-          "size": 22036
+          "name": "87166.replay.xz",
+          "off": 292893,
+          "size": 22108
         }
       ]
     },
     {
-      "uid": "91AYOZC1T",
-      "rid": 17952,
-      "hash": "5135eea7c30265303974ae54ff5b548d06f4d9aeffcf5c134b71e7cb084519bd",
-      "t": 20271,
+      "uid": "N6GTC9FUN",
+      "rid": 87173,
+      "hash": "01c4f0a74aedf14f96b24a6e49308088a13e66e4abe1bd49b085c1c9587f9255",
+      "t": 19520,
       "sid": "STEAM_0:1:408712",
-      "at": "2025-11-25T02:45:57Z",
-      "zip": "00020271_STEAM_0_1_408712_20251125-024557.zip",
+      "at": "2026-08-26T18:46:12.000Z",
+      "zip": "00019520_STEAM_0_1_408712_20260826-184612.zip",
       "files": [
         {
-          "type": "analysis",
-          "name": "speedrun_eastwood-20251125-#91AYOZC1T.analysis.json",
-          "off": 81,
-          "size": 152691
+          "type": "dem",
+          "name": "speedrun_eastwood-20260826-#N6GTC9FUN.dem",
+          "off": 71,
+          "size": 186512
         },
         {
-          "type": "dem",
-          "name": "speedrun_eastwood-20251125-#91AYOZC1T.dem",
-          "off": 152843,
-          "size": 170848
+          "type": "analysis",
+          "name": "speedrun_eastwood-20260826-#N6GTC9FUN.analysis.json",
+          "off": 186664,
+          "size": 151988
         },
         {
           "type": "replay",
-          "name": "17952.replay.xz",
-          "off": 323736,
-          "size": 23384
+          "name": "87173.replay.xz",
+          "off": 338697,
+          "size": 23052
         }
       ]
     },

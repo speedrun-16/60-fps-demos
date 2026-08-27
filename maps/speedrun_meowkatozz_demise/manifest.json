@@ -1,6 +1,6 @@
 {
   "map": "speedrun_meowkatozz_demise",
-  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "updatedAt": "2026-08-27T00:00:00.739Z",
   "runs": [
     {
       "uid": "E3HDTEJ3W",
@@ -57,6 +57,35 @@
           "name": "45139.replay.xz",
           "off": 402965,
           "size": 29444
+        }
+      ]
+    },
+    {
+      "uid": "K63P2WA5O",
+      "rid": 87183,
+      "hash": "f72a04a79376233c268d9afe92fc6318a05fde269338f3abfe5bcc40cab9b354",
+      "t": 25401,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-26T19:43:50.000Z",
+      "zip": "00025401_STEAM_0_1_155808091_20260826-194350.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_meowkatozz_demise-20260826-#K63P2WA5O.dem",
+          "off": 80,
+          "size": 197363
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_meowkatozz_demise-20260826-#K63P2WA5O.analysis.json",
+          "off": 197533,
+          "size": 166056
+        },
+        {
+          "type": "replay",
+          "name": "87183.replay.xz",
+          "off": 363634,
+          "size": 29760
         }
       ]
     },

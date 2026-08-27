@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_desert_fix",
+  "updatedAt": "2026-08-27T00:00:00.738Z",
+  "runs": [
+    {
+      "uid": "T5G60S60V",
+      "rid": 87181,
+      "hash": "b9f15344b355d5737fd603b6f441c4f5db74102e913efe9b6776da4453fa07ba",
+      "t": 20777,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-26T19:34:55.000Z",
+      "zip": "00020777_STEAM_0_1_155808091_20260826-193455.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_desert_fix-20260826-#T5G60S60V.dem",
+          "off": 73,
+          "size": 176726
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_desert_fix-20260826-#T5G60S60V.analysis.json",
+          "off": 176882,
+          "size": 150418
+        },
+        {
+          "type": "replay",
+          "name": "87181.replay.xz",
+          "off": 327345,
+          "size": 24504
+        }
+      ]
+    }
+  ]
+}
