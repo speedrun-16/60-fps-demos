@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-28T00:00:01.280Z",
+  "updatedAt": "2026-08-28T12:00:00.685Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -934,9 +934,9 @@
       "manifest": "maps/speedrun_govno_remake_kaniel/manifest.json"
     },
     "speedrun_df_kool_mini7": {
-      "n": 3,
-      "best": 33385,
-      "at": "2026-08-27T23:32:53.000Z",
+      "n": 4,
+      "best": 32980,
+      "at": "2026-08-28T10:37:24.000Z",
       "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "speedrun_dust2_kaniel": {
