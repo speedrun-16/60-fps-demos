@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-27T00:00:00.740Z",
+  "updatedAt": "2026-08-28T00:00:01.280Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -284,6 +284,12 @@
       "best": 12452,
       "at": "2026-05-17T22:47:19Z",
       "manifest": "maps/speedrun_garden/manifest.json"
+    },
+    "speedrun_hop4": {
+      "n": 2,
+      "best": 8393,
+      "at": "2026-08-27T19:50:44.000Z",
+      "manifest": "maps/speedrun_hop4/manifest.json"
     },
     "speedrun_celer": {
       "n": 3,
@@ -926,6 +932,12 @@
       "best": 11469,
       "at": "2026-04-26T02:05:28Z",
       "manifest": "maps/speedrun_govno_remake_kaniel/manifest.json"
+    },
+    "speedrun_df_kool_mini7": {
+      "n": 3,
+      "best": 33385,
+      "at": "2026-08-27T23:32:53.000Z",
+      "manifest": "maps/speedrun_df_kool_mini7/manifest.json"
     },
     "speedrun_dust2_kaniel": {
       "n": 1,

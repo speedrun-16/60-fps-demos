@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_df_kool_mini7",
+  "updatedAt": "2026-08-28T00:00:01.279Z",
+  "runs": [
+    {
+      "uid": "I8DNFB93H",
+      "rid": 88264,
+      "hash": "ca928101aca12bb07efc9399ab60b2031d12161df45fe35972771d4c68381311",
+      "t": 33385,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-08-27T23:32:53.000Z",
+      "zip": "00033385_STEAM_0_1_155808091_20260827-233253.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_kool_mini7-20260827-#I8DNFB93H.dem",
+          "off": 76,
+          "size": 246878
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_kool_mini7-20260827-#I8DNFB93H.analysis.json",
+          "off": 247040,
+          "size": 218233
+        },
+        {
+          "type": "replay",
+          "name": "88264.replay.xz",
+          "off": 465318,
+          "size": 38268
+        }
+      ]
+    },
+    {
+      "uid": "WF296NTMU",
+      "rid": 88154,
+      "hash": "ef009b3b647ddd38da8f8237abe9bb3c57a1f175306bd5ac3fbdc85e999c2cc4",
+      "t": 33660,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-08-27T21:28:51.000Z",
+      "zip": "00033660_STEAM_0_1_408712_20260827-212851.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_kool_mini7-20260827-#WF296NTMU.dem",
+          "off": 76,
+          "size": 304803
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_kool_mini7-20260827-#WF296NTMU.analysis.json",
+          "off": 304965,
+          "size": 229389
+        },
+        {
+          "type": "replay",
+          "name": "88154.replay.xz",
+          "off": 534399,
+          "size": 39148
+        }
+      ]
+    },
+    {
+      "uid": "L13E0SA8M",
+      "rid": 88068,
+      "hash": "1e05c7727d587a9e76e8394793d22f1f300e3363824921590408fa7fa84fef8a",
+      "t": 34833,
+      "sid": "STEAM_0:1:29970948",
+      "at": "2026-08-27T20:06:56.000Z",
+      "zip": "00034833_STEAM_0_1_29970948_20260827-200656.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_df_kool_mini7-20260827-#L13E0SA8M.dem",
+          "off": 76,
+          "size": 276659
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_df_kool_mini7-20260827-#L13E0SA8M.analysis.json",
+          "off": 276821,
+          "size": 236160
+        },
+        {
+          "type": "replay",
+          "name": "88068.replay.xz",
+          "off": 513026,
+          "size": 39600
+        }
+      ]
+    }
+  ]
+}
