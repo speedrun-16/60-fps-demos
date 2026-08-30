@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-08-29T00:00:04.035Z",
+  "updatedAt": "2026-08-30T00:00:03.868Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -364,9 +364,9 @@
       "manifest": "maps/speedrun_pool_simple/manifest.json"
     },
     "speedrun_620s": {
-      "n": 3,
-      "best": 23547,
-      "at": "2026-08-26T19:16:57.000Z",
+      "n": 4,
+      "best": 23535,
+      "at": "2026-08-29T21:43:56.000Z",
       "manifest": "maps/speedrun_620s/manifest.json"
     },
     "de_aztec": {
