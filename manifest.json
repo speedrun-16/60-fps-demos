@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-09-01T18:00:00.554Z",
+  "updatedAt": "2026-09-02T06:00:00.802Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -110,6 +110,12 @@
       "best": 14785,
       "at": "2025-12-04T16:40:32Z",
       "manifest": "maps/speedrun_sudpi/manifest.json"
+    },
+    "speedrun_void": {
+      "n": 1,
+      "best": 23112,
+      "at": "2026-09-02T01:11:32.000Z",
+      "manifest": "maps/speedrun_void/manifest.json"
     },
     "speedrun_duster_beta1": {
       "n": 3,
@@ -404,6 +410,12 @@
       "best": 15140,
       "at": "2026-05-26T21:45:50Z",
       "manifest": "maps/speedrun_record/manifest.json"
+    },
+    "speedrun_abstract": {
+      "n": 1,
+      "best": 40843,
+      "at": "2026-09-02T02:47:54.000Z",
+      "manifest": "maps/speedrun_abstract/manifest.json"
     },
     "speedrun_desert_fix": {
       "n": 1,
@@ -735,6 +747,12 @@
       "at": "2026-08-07T02:15:40.000Z",
       "manifest": "maps/speedrun_utug2/manifest.json"
     },
+    "speedrun_thimple": {
+      "n": 1,
+      "best": 32889,
+      "at": "2026-09-02T02:22:22.000Z",
+      "manifest": "maps/speedrun_thimple/manifest.json"
+    },
     "deathrun_aztec_hd_v2_rmk": {
       "n": 1,
       "best": 38559,
@@ -770,6 +788,12 @@
       "best": 22340,
       "at": "2026-04-27T22:07:01Z",
       "manifest": "maps/speedrun_trasher2/manifest.json"
+    },
+    "speedrun_discolored": {
+      "n": 1,
+      "best": 18299,
+      "at": "2026-09-02T01:19:24.000Z",
+      "manifest": "maps/speedrun_discolored/manifest.json"
     },
     "speedrun_20min": {
       "n": 3,
@@ -866,6 +890,12 @@
       "best": 54476,
       "at": "2026-08-06T21:01:43.000Z",
       "manifest": "maps/speedrun_ruska_beta1/manifest.json"
+    },
+    "speedrun_otton": {
+      "n": 1,
+      "best": 18671,
+      "at": "2026-09-02T01:05:52.000Z",
+      "manifest": "maps/speedrun_otton/manifest.json"
     },
     "speedrun_bluepink_v2": {
       "n": 1,
@@ -1022,6 +1052,12 @@
       "best": 30378,
       "at": "2025-11-24T01:01:28Z",
       "manifest": "maps/speedrun_funeral/manifest.json"
+    },
+    "speedrun_runaway": {
+      "n": 1,
+      "best": 32475,
+      "at": "2026-09-02T01:16:11.000Z",
+      "manifest": "maps/speedrun_runaway/manifest.json"
     },
     "speedrun_artakey": {
       "n": 1,

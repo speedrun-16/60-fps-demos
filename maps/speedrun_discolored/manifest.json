@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_discolored",
+  "updatedAt": "2026-09-02T06:00:00.798Z",
+  "runs": [
+    {
+      "uid": "LQRTALJUY",
+      "rid": 89845,
+      "hash": "29575f9acd1deac22162b2e3a20f7a475e3351d1da2d7eeb46e79a4e656f2895",
+      "t": 18299,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-09-02T01:19:24.000Z",
+      "zip": "00018299_STEAM_0_1_408712_20260902-011924.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_discolored-20260902-#LQRTALJUY.dem",
+          "off": 73,
+          "size": 164840
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_discolored-20260902-#LQRTALJUY.analysis.json",
+          "off": 164996,
+          "size": 145177
+        },
+        {
+          "type": "replay",
+          "name": "89845.replay.xz",
+          "off": 310218,
+          "size": 22536
+        }
+      ]
+    }
+  ]
+}
