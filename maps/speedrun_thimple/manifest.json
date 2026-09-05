@@ -1,6 +1,6 @@
 {
   "map": "speedrun_thimple",
-  "updatedAt": "2026-09-04T06:00:00.612Z",
+  "updatedAt": "2026-09-05T00:00:00.613Z",
   "runs": [
     {
       "uid": "SCS08I3MZ",
@@ -32,6 +32,35 @@
       ]
     },
     {
+      "uid": "0BCEWBKZB",
+      "rid": 90453,
+      "hash": "e9226e632e943b0fec4422cb03dfa7cc77b4d9f9b95a6f8c123fc52940f178a0",
+      "t": 31703,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-09-04T23:13:14.000Z",
+      "zip": "00031703_STEAM_0_1_408712_20260904-231314.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_thimple-20260904-#0BCEWBKZB.dem",
+          "off": 70,
+          "size": 256692
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_thimple-20260904-#0BCEWBKZB.analysis.json",
+          "off": 256842,
+          "size": 222084
+        },
+        {
+          "type": "replay",
+          "name": "90453.replay.xz",
+          "off": 478971,
+          "size": 34984
+        }
+      ]
+    },
+    {
       "uid": "Y25WAJL5U",
       "rid": 90275,
       "hash": "5c3aab1ccb0b65be37dc7b2dd02b23921bef15eeba24d8582973077bbc6af6ea",
@@ -57,35 +86,6 @@
           "name": "90275.replay.xz",
           "off": 483607,
           "size": 35724
-        }
-      ]
-    },
-    {
-      "uid": "FS2D9YLXZ",
-      "rid": 89851,
-      "hash": "e4696452816ba522ef08f72bae0ebf30cd939f408191aa8e84613808b5e7f1c5",
-      "t": 32889,
-      "sid": "STEAM_0:1:408712",
-      "at": "2026-09-02T02:22:22.000Z",
-      "zip": "00032889_STEAM_0_1_408712_20260902-022222.zip",
-      "files": [
-        {
-          "type": "dem",
-          "name": "speedrun_thimple-20260902-#FS2D9YLXZ.dem",
-          "off": 70,
-          "size": 269537
-        },
-        {
-          "type": "analysis",
-          "name": "speedrun_thimple-20260902-#FS2D9YLXZ.analysis.json",
-          "off": 269687,
-          "size": 231724
-        },
-        {
-          "type": "replay",
-          "name": "89851.replay.xz",
-          "off": 501456,
-          "size": 36528
         }
       ]
     }

@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_valley",
+  "updatedAt": "2026-09-05T00:00:00.612Z",
+  "runs": [
+    {
+      "uid": "8MXA33SFW",
+      "rid": 90438,
+      "hash": "22123921b1d47d75e49139da534075456694c9dd97ace54c9cd41246fc2e364d",
+      "t": 38499,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-09-04T18:18:25.000Z",
+      "zip": "00038499_STEAM_0_1_155808091_20260904-181825.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_valley-20260904-#8MXA33SFW.dem",
+          "off": 69,
+          "size": 290050
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_valley-20260904-#8MXA33SFW.analysis.json",
+          "off": 290198,
+          "size": 253490
+        },
+        {
+          "type": "replay",
+          "name": "90438.replay.xz",
+          "off": 543733,
+          "size": 40952
+        }
+      ]
+    }
+  ]
+}
