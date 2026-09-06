@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-09-05T00:00:00.613Z",
+  "updatedAt": "2026-09-06T18:00:03.824Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -1078,9 +1078,9 @@
       "manifest": "maps/speedrun_artakey/manifest.json"
     },
     "speedrun_chemical": {
-      "n": 10,
+      "n": 11,
       "best": 11282,
-      "at": "2026-08-17T17:35:49.000Z",
+      "at": "2026-09-06T12:49:35.000Z",
       "manifest": "maps/speedrun_chemical/manifest.json"
     },
     "speedrun_bieber": {
