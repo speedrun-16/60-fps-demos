@@ -1,6 +1,6 @@
 {
   "map": "speedrun_coan_rmk",
-  "updatedAt": "2026-08-24T18:00:00.722Z",
+  "updatedAt": "2026-09-10T00:00:00.499Z",
   "runs": [
     {
       "uid": "REEISEAG0",
@@ -32,31 +32,31 @@
       ]
     },
     {
-      "uid": "S6YXN23UF",
-      "rid": 85777,
-      "hash": "d7fbe4b94c87978c1b8bdbe90356483d4866b11597105d3c83f3a54497b04042",
-      "t": 37017,
+      "uid": "8C9ZVYT43",
+      "rid": 91033,
+      "hash": "4ad54175519a93d6f43875044b65c654c5fd98aca02cbe63365a85fedaca65b3",
+      "t": 32179,
       "sid": "STEAM_0:1:408712",
-      "at": "2026-08-22T22:33:42.000Z",
-      "zip": "00037017_STEAM_0_1_408712_20260822-223342.zip",
+      "at": "2026-09-09T21:50:17.000Z",
+      "zip": "00032179_STEAM_0_1_408712_20260909-215017.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_coan_rmk-20260822-#S6YXN23UF.dem",
+          "name": "speedrun_coan_rmk-20260909-#8C9ZVYT43.dem",
           "off": 71,
-          "size": 293990
+          "size": 292150
         },
         {
           "type": "analysis",
-          "name": "speedrun_coan_rmk-20260822-#S6YXN23UF.analysis.json",
-          "off": 294142,
-          "size": 256235
+          "name": "speedrun_coan_rmk-20260909-#8C9ZVYT43.analysis.json",
+          "off": 292302,
+          "size": 233778
         },
         {
           "type": "replay",
-          "name": "85777.replay.xz",
-          "off": 550422,
-          "size": 42668
+          "name": "91033.replay.xz",
+          "off": 526125,
+          "size": 37688
         }
       ]
     }
