@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-09-10T00:00:00.499Z",
+  "updatedAt": "2026-09-19T00:00:00.821Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -388,9 +388,9 @@
       "manifest": "maps/speedrun_gargantuan/manifest.json"
     },
     "speedrun_alt_terassi": {
-      "n": 1,
-      "best": 24277,
-      "at": "2026-08-04T03:30:16.000Z",
+      "n": 2,
+      "best": 23767,
+      "at": "2026-09-18T18:38:01.000Z",
       "manifest": "maps/speedrun_alt_terassi/manifest.json"
     },
     "speedrun_outside_estonia3": {
@@ -580,9 +580,9 @@
       "manifest": "maps/speedrun_voidsanctum_beta1/manifest.json"
     },
     "speedrun_evidens_big": {
-      "n": 1,
-      "best": 20415,
-      "at": "2026-09-09T08:48:53.000Z",
+      "n": 2,
+      "best": 20369,
+      "at": "2026-09-18T19:44:13.000Z",
       "manifest": "maps/speedrun_evidens_big/manifest.json"
     },
     "speedrun_toni": {
@@ -610,9 +610,9 @@
       "manifest": "maps/speedrun_trahser_fix/manifest.json"
     },
     "speedrun_straight_b1": {
-      "n": 1,
-      "best": 27841,
-      "at": "2025-12-29T15:52:00Z",
+      "n": 2,
+      "best": 23272,
+      "at": "2026-09-18T21:16:31.000Z",
       "manifest": "maps/speedrun_straight_b1/manifest.json"
     },
     "speedrun_enemy_easy": {
@@ -718,9 +718,9 @@
       "manifest": "maps/speedrun_furame/manifest.json"
     },
     "speedrun_sqn": {
-      "n": 1,
-      "best": 30093,
-      "at": "2026-08-30T23:21:06.000Z",
+      "n": 2,
+      "best": 28880,
+      "at": "2026-09-18T20:36:14.000Z",
       "manifest": "maps/speedrun_sqn/manifest.json"
     },
     "speedrun_small_white": {
@@ -761,8 +761,8 @@
     },
     "speedrun_thimple": {
       "n": 3,
-      "best": 31586,
-      "at": "2026-09-04T23:13:14.000Z",
+      "best": 31585,
+      "at": "2026-09-18T21:23:28.000Z",
       "manifest": "maps/speedrun_thimple/manifest.json"
     },
     "deathrun_aztec_hd_v2_rmk": {
@@ -1115,8 +1115,8 @@
     },
     "speedrun_marsi": {
       "n": 2,
-      "best": 15101,
-      "at": "2026-09-09T09:18:03.000Z",
+      "best": 14989,
+      "at": "2026-09-18T19:30:27.000Z",
       "manifest": "maps/speedrun_marsi/manifest.json"
     },
     "de_train": {
@@ -1162,9 +1162,9 @@
       "manifest": "maps/speedrun_zhrkv/manifest.json"
     },
     "speedrun_def": {
-      "n": 1,
-      "best": 21947,
-      "at": "2026-09-01T16:11:53.000Z",
+      "n": 2,
+      "best": 21630,
+      "at": "2026-09-18T20:17:52.000Z",
       "manifest": "maps/speedrun_def/manifest.json"
     },
     "deathrun_w00dfun": {

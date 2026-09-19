@@ -6,8 +6,8 @@ Personal best demo archive for this map in the 60 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Archived PBs | 1 |
-| Latest Update | 2025-12-29 |
+| Archived PBs | 2 |
+| Latest Update | 2026-09-18 |
 
 ## Structure
 
