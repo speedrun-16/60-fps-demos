@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-09-20T18:00:12.254Z",
+  "updatedAt": "2026-09-21T00:00:07.428Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -857,8 +857,8 @@
     },
     "speedrun_triskelion_ruins_beta2": {
       "n": 5,
-      "best": 15191,
-      "at": "2026-09-19T15:46:48.000Z",
+      "best": 15150,
+      "at": "2026-09-20T19:56:11.000Z",
       "manifest": "maps/speedrun_triskelion_ruins_beta2/manifest.json"
     },
     "speedrun_spiral": {
