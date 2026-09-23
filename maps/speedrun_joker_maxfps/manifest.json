@@ -1,7 +1,36 @@
 {
   "map": "speedrun_joker_maxfps",
-  "updatedAt": "2026-06-19T05:45:32.747830Z",
+  "updatedAt": "2026-09-23T18:00:00.659Z",
   "runs": [
+    {
+      "uid": "MPGHSFE96",
+      "rid": 93040,
+      "hash": "d583f4406b42ed91fe44e07820b5b87e17c89ce77c5ba4483d6574914fd22aaf",
+      "t": 14053,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-09-23T16:13:05.000Z",
+      "zip": "00014053_STEAM_0_0_631815948_20260923-161305.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_joker_maxfps-20260923-#MPGHSFE96.dem",
+          "off": 75,
+          "size": 140997
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_joker_maxfps-20260923-#MPGHSFE96.analysis.json",
+          "off": 141157,
+          "size": 111213
+        },
+        {
+          "type": "replay",
+          "name": "93040.replay.xz",
+          "off": 252415,
+          "size": 17192
+        }
+      ]
+    },
     {
       "uid": "Y3B4AVDPV",
       "rid": 54365,
