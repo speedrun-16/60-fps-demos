@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-09-24T00:00:00.647Z",
+  "updatedAt": "2026-10-01T18:00:00.499Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -658,9 +658,9 @@
       "manifest": "maps/speedrun_several_longer/manifest.json"
     },
     "speedrun_evidens": {
-      "n": 4,
+      "n": 5,
       "best": 14056,
-      "at": "2026-08-18T14:31:30.000Z",
+      "at": "2026-10-01T13:41:18.000Z",
       "manifest": "maps/speedrun_evidens/manifest.json"
     },
     "speedrun_voidsanctum_beta2": {
