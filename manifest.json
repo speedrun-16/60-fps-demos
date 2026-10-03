@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-10-01T18:00:00.499Z",
+  "updatedAt": "2026-10-03T12:00:00.496Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -785,8 +785,8 @@
     },
     "speedrun_nebula_glass_ez": {
       "n": 1,
-      "best": 12643,
-      "at": "2026-09-19T01:03:50.000Z",
+      "best": 12579,
+      "at": "2026-10-03T08:42:57.000Z",
       "manifest": "maps/speedrun_nebula_glass_ez/manifest.json"
     },
     "speedrun_muhaha": {
@@ -1192,9 +1192,9 @@
       "manifest": "maps/deathrun_w00dfun/manifest.json"
     },
     "speedrun_Hugh": {
-      "n": 1,
-      "best": 15225,
-      "at": "2025-12-25T21:44:58Z",
+      "n": 2,
+      "best": 14956,
+      "at": "2026-10-03T08:40:30.000Z",
       "manifest": "maps/speedrun_Hugh/manifest.json"
     },
     "speedrun_r3x_II": {
