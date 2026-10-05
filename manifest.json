@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-10-03T18:00:04.570Z",
+  "updatedAt": "2026-10-05T00:00:03.892Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -347,8 +347,8 @@
     },
     "speedrun_grasz_final": {
       "n": 4,
-      "best": 17679,
-      "at": "2026-04-10T15:26:24Z",
+      "best": 17665,
+      "at": "2026-10-04T21:46:46.000Z",
       "manifest": "maps/speedrun_grasz_final/manifest.json"
     },
     "speedrun_fur_beta1": {
