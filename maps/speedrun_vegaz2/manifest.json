@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_vegaz2",
+  "updatedAt": "2026-10-09T18:00:00.684Z",
+  "runs": [
+    {
+      "uid": "VI9CFPIOS",
+      "rid": 94979,
+      "hash": "3dde52d9c937d934dc8e6eecf266e6c3d0fd8c3abacd106ad99d09e55e980fdf",
+      "t": 23409,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-10-09T17:46:58.000Z",
+      "zip": "00023409_STEAM_0_1_155808091_20261009-174658.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_vegaz2-20261009-#VI9CFPIOS.dem",
+          "off": 69,
+          "size": 188654
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_vegaz2-20261009-#VI9CFPIOS.analysis.json",
+          "off": 188802,
+          "size": 170613
+        },
+        {
+          "type": "replay",
+          "name": "94979.replay.xz",
+          "off": 359460,
+          "size": 28340
+        }
+      ]
+    }
+  ]
+}

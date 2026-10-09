@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_india",
+  "updatedAt": "2026-10-09T18:00:00.683Z",
+  "runs": [
+    {
+      "uid": "4ZMHUC2LS",
+      "rid": 94973,
+      "hash": "7cda5e5a1101de5206cceca3365197f9c3cba315ae1afe568611fa4f8d154aa5",
+      "t": 14810,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-10-09T17:37:26.000Z",
+      "zip": "00014810_STEAM_0_1_155808091_20261009-173726.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_india-20261009-#4ZMHUC2LS.dem",
+          "off": 68,
+          "size": 126494
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_india-20261009-#4ZMHUC2LS.analysis.json",
+          "off": 126640,
+          "size": 109235
+        },
+        {
+          "type": "replay",
+          "name": "94973.replay.xz",
+          "off": 235920,
+          "size": 19308
+        }
+      ]
+    }
+  ]
+}

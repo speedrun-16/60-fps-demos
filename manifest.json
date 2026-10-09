@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-10-05T00:00:03.892Z",
+  "updatedAt": "2026-10-09T18:00:00.684Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -116,6 +116,12 @@
       "best": 21321,
       "at": "2026-09-19T01:36:14.000Z",
       "manifest": "maps/speedrun_void/manifest.json"
+    },
+    "speedrun_india": {
+      "n": 1,
+      "best": 14810,
+      "at": "2026-10-09T17:37:26.000Z",
+      "manifest": "maps/speedrun_india/manifest.json"
     },
     "speedrun_duster_beta1": {
       "n": 3,
@@ -543,6 +549,12 @@
       "at": "2026-07-31T03:50:31.000Z",
       "manifest": "maps/speedrun_tiainen_beta1/manifest.json"
     },
+    "speedrun_vegaz2": {
+      "n": 1,
+      "best": 23409,
+      "at": "2026-10-09T17:46:58.000Z",
+      "manifest": "maps/speedrun_vegaz2/manifest.json"
+    },
     "speedrun_perspective_beta4": {
       "n": 4,
       "best": 6692,
@@ -650,6 +662,12 @@
       "best": 21728,
       "at": "2026-04-16T10:38:42Z",
       "manifest": "maps/speedrun_outside_estonia2/manifest.json"
+    },
+    "speedrun_low_low_tr": {
+      "n": 1,
+      "best": 8101,
+      "at": "2026-10-09T17:42:14.000Z",
+      "manifest": "maps/speedrun_low_low_tr/manifest.json"
     },
     "speedrun_several_longer": {
       "n": 2,
@@ -945,6 +963,12 @@
       "at": "2026-05-27T16:17:31Z",
       "manifest": "maps/de_dust/manifest.json"
     },
+    "speedrun_danmal_v1": {
+      "n": 1,
+      "best": 19800,
+      "at": "2026-10-09T17:44:30.000Z",
+      "manifest": "maps/speedrun_danmal_v1/manifest.json"
+    },
     "speedrun_pryda_v1": {
       "n": 4,
       "best": 10968,
@@ -956,6 +980,12 @@
       "best": 20171,
       "at": "2026-08-22T21:38:56.000Z",
       "manifest": "maps/speedrun_siano/manifest.json"
+    },
+    "speedrun_revived_short": {
+      "n": 1,
+      "best": 17826,
+      "at": "2026-10-09T16:05:32.000Z",
+      "manifest": "maps/speedrun_revived_short/manifest.json"
     },
     "speedrun_reloaded_edition": {
       "n": 1,
@@ -1216,9 +1246,9 @@
       "manifest": "maps/speedrun_alone/manifest.json"
     },
     "speedrun_noob": {
-      "n": 1,
-      "best": 7564,
-      "at": "2026-06-04T15:56:59Z",
+      "n": 2,
+      "best": 6970,
+      "at": "2026-10-09T17:40:19.000Z",
       "manifest": "maps/speedrun_noob/manifest.json"
     }
   }

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_revived_short",
+  "updatedAt": "2026-10-09T18:00:00.684Z",
+  "runs": [
+    {
+      "uid": "POZIFRP0T",
+      "rid": 94933,
+      "hash": "6eb4e929a7c09303a2f97311bfe08b577f1d33c4c73977c914ea6c105b3c442c",
+      "t": 17826,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-10-09T16:05:32.000Z",
+      "zip": "00017826_STEAM_0_1_155808091_20261009-160532.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_revived_short-20261009-#POZIFRP0T.dem",
+          "off": 76,
+          "size": 154403
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_revived_short-20261009-#POZIFRP0T.analysis.json",
+          "off": 154565,
+          "size": 125098
+        },
+        {
+          "type": "replay",
+          "name": "94933.replay.xz",
+          "off": 279708,
+          "size": 23032
+        }
+      ]
+    }
+  ]
+}
