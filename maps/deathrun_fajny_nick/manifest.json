@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_fajny_nick",
+  "updatedAt": "2026-10-10T18:00:00.438Z",
+  "runs": [
+    {
+      "uid": "HRKA9L3YZ",
+      "rid": 95139,
+      "hash": "d5cc65942f879194f1cbd1e14c8cb1c8caef4b619bd4247fb109edb289a9aeaf",
+      "t": 16528,
+      "sid": "STEAM_0:1:155808091",
+      "at": "2026-10-10T13:33:14.000Z",
+      "zip": "00016528_STEAM_0_1_155808091_20261010-133314.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "deathrun_fajny_nick-20261010-#HRKA9L3YZ.dem",
+          "off": 73,
+          "size": 138218
+        },
+        {
+          "type": "analysis",
+          "name": "deathrun_fajny_nick-20261010-#HRKA9L3YZ.analysis.json",
+          "off": 138374,
+          "size": 114894
+        },
+        {
+          "type": "replay",
+          "name": "95139.replay.xz",
+          "off": 253313,
+          "size": 20840
+        }
+      ]
+    }
+  ]
+}

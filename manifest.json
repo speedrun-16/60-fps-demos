@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-10-09T18:00:00.684Z",
+  "updatedAt": "2026-10-10T18:00:00.438Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -734,6 +734,12 @@
       "best": 17195,
       "at": "2025-11-15T23:02:34Z",
       "manifest": "maps/speedrun_deceit/manifest.json"
+    },
+    "deathrun_fajny_nick": {
+      "n": 1,
+      "best": 16528,
+      "at": "2026-10-10T13:33:14.000Z",
+      "manifest": "maps/deathrun_fajny_nick/manifest.json"
     },
     "speedrun_yagrehsart_100fps": {
       "n": 4,
