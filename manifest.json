@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-10-10T18:00:00.438Z",
+  "updatedAt": "2026-10-12T00:00:00.667Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -238,9 +238,9 @@
       "manifest": "maps/de_dust2/manifest.json"
     },
     "speedrun_silent": {
-      "n": 1,
-      "best": 34752,
-      "at": "2026-01-21T21:29:26Z",
+      "n": 2,
+      "best": 33243,
+      "at": "2026-10-11T19:07:44.000Z",
       "manifest": "maps/speedrun_silent/manifest.json"
     },
     "speedrun_confusion3": {
