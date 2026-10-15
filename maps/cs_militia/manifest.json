@@ -1,62 +1,62 @@
 {
   "map": "cs_militia",
-  "updatedAt": "2026-10-15T00:00:00.479Z",
+  "updatedAt": "2026-10-15T06:00:00.445Z",
   "runs": [
     {
-      "uid": "2ZWMPHZ6L",
-      "rid": 95622,
-      "hash": "7c03751a749947a2376126435b42f76a809c329b29cb576197fc04ff9b36a4dc",
-      "t": 10660,
+      "uid": "Y52T1J8KW",
+      "rid": 95669,
+      "hash": "aa30289a6af4830ab7a1cd42f4ef44f424802889932a2b0a2f31c03e2e3d9566",
+      "t": 10495,
       "sid": "STEAM_0:1:155808091",
-      "at": "2026-10-14T23:59:29.000Z",
-      "zip": "00010660_STEAM_0_1_155808091_20261014-235929.zip",
+      "at": "2026-10-15T00:34:56.000Z",
+      "zip": "00010495_STEAM_0_1_155808091_20261015-003456.zip",
       "files": [
         {
           "type": "dem",
-          "name": "cs_militia-20261014-#2ZWMPHZ6L.dem",
+          "name": "cs_militia-20261015-#Y52T1J8KW.dem",
           "off": 64,
-          "size": 110624
+          "size": 101330
         },
         {
           "type": "analysis",
-          "name": "cs_militia-20261014-#2ZWMPHZ6L.analysis.json",
-          "off": 110762,
-          "size": 80426
+          "name": "cs_militia-20261015-#Y52T1J8KW.analysis.json",
+          "off": 101468,
+          "size": 78959
         },
         {
           "type": "replay",
-          "name": "95622.replay.xz",
-          "off": 191233,
-          "size": 13164
+          "name": "95669.replay.xz",
+          "off": 180472,
+          "size": 13392
         }
       ]
     },
     {
-      "uid": "FUA6ECIAK",
-      "rid": 95609,
-      "hash": "af872c8c56f2e39549561f13989a667729414ab9d86928a97705fe70e97e4fd3",
-      "t": 10855,
+      "uid": "6UVGS6QVT",
+      "rid": 95650,
+      "hash": "5b068b9210167c5b00a438de84a15335ea35ae7aeb739c2aba2f9a4fd3d1e361",
+      "t": 10823,
       "sid": "STEAM_0:1:408712",
-      "at": "2026-10-14T23:54:52.000Z",
-      "zip": "00010855_STEAM_0_1_408712_20261014-235452.zip",
+      "at": "2026-10-15T00:15:56.000Z",
+      "zip": "00010823_STEAM_0_1_408712_20261015-001556.zip",
       "files": [
         {
           "type": "dem",
-          "name": "cs_militia-20261014-#FUA6ECIAK.dem",
+          "name": "cs_militia-20261015-#6UVGS6QVT.dem",
           "off": 64,
-          "size": 112749
+          "size": 118886
         },
         {
           "type": "analysis",
-          "name": "cs_militia-20261014-#FUA6ECIAK.analysis.json",
-          "off": 112887,
-          "size": 87076
+          "name": "cs_militia-20261015-#6UVGS6QVT.analysis.json",
+          "off": 119024,
+          "size": 87085
         },
         {
           "type": "replay",
-          "name": "95609.replay.xz",
-          "off": 200008,
-          "size": 13312
+          "name": "95650.replay.xz",
+          "off": 206154,
+          "size": 13480
         }
       ]
     },

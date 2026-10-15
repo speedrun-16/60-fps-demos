@@ -1,7 +1,7 @@
 {
   "category": 0,
   "categoryName": "60 FPS",
-  "updatedAt": "2026-10-15T00:00:00.479Z",
+  "updatedAt": "2026-10-15T06:00:00.445Z",
   "maps": {
     "speedrun_opcode_large_test": {
       "n": 2,
@@ -269,8 +269,8 @@
     },
     "cs_militia": {
       "n": 5,
-      "best": 10660,
-      "at": "2026-10-14T23:59:29.000Z",
+      "best": 10495,
+      "at": "2026-10-15T00:34:56.000Z",
       "manifest": "maps/cs_militia/manifest.json"
     },
     "speedrun_backrooms": {
