@@ -1,33 +1,62 @@
 {
   "map": "speedrun_noob",
-  "updatedAt": "2026-10-09T18:00:00.683Z",
+  "updatedAt": "2026-10-17T00:00:00.476Z",
   "runs": [
     {
-      "uid": "Z1WIQ1Z2D",
-      "rid": 94976,
-      "hash": "775c55863989e0444cb9c7c03d83c2cf3a4c38f1b6f4deeaff13303a3aaa17d5",
-      "t": 6970,
+      "uid": "027LF3UFV",
+      "rid": 95816,
+      "hash": "a570a1455d2efa1b729e6d7519b0f9dc29fed7447c1708f343d217e0af8b185a",
+      "t": 6950,
       "sid": "STEAM_0:1:155808091",
-      "at": "2026-10-09T17:40:19.000Z",
-      "zip": "00006970_STEAM_0_1_155808091_20261009-174019.zip",
+      "at": "2026-10-16T19:17:47.000Z",
+      "zip": "00006950_STEAM_0_1_155808091_20261016-191747.zip",
       "files": [
         {
           "type": "dem",
-          "name": "speedrun_noob-20261009-#Z1WIQ1Z2D.dem",
+          "name": "speedrun_noob-20261016-#027LF3UFV.dem",
           "off": 67,
-          "size": 74746
+          "size": 75213
         },
         {
           "type": "analysis",
-          "name": "speedrun_noob-20261009-#Z1WIQ1Z2D.analysis.json",
-          "off": 74890,
-          "size": 59468
+          "name": "speedrun_noob-20261016-#027LF3UFV.analysis.json",
+          "off": 75357,
+          "size": 59745
         },
         {
           "type": "replay",
-          "name": "94976.replay.xz",
-          "off": 134403,
-          "size": 10088
+          "name": "95816.replay.xz",
+          "off": 135147,
+          "size": 9832
+        }
+      ]
+    },
+    {
+      "uid": "LEYCQZ5NP",
+      "rid": 95812,
+      "hash": "6f192e831a68f21b6b1165d7db55b923d56c4ae9135707ffe898ab8927a3cf3b",
+      "t": 6957,
+      "sid": "STEAM_0:1:408712",
+      "at": "2026-10-16T18:57:15.000Z",
+      "zip": "00006957_STEAM_0_1_408712_20261016-185715.zip",
+      "files": [
+        {
+          "type": "dem",
+          "name": "speedrun_noob-20261016-#LEYCQZ5NP.dem",
+          "off": 67,
+          "size": 81793
+        },
+        {
+          "type": "analysis",
+          "name": "speedrun_noob-20261016-#LEYCQZ5NP.analysis.json",
+          "off": 81937,
+          "size": 66059
+        },
+        {
+          "type": "replay",
+          "name": "95812.replay.xz",
+          "off": 148041,
+          "size": 9720
         }
       ]
     },
